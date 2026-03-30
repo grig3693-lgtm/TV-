@@ -105,7 +105,7 @@ https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-id="ch1522" tvg-name="NoyyanTapan" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Նոյյան Տապան
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_NOYAN_TAPANHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1525" tvg-name="TBN Armenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", TBN Armenia
+#EXTINF:-1 tvg-id="ch1525" tvg-name="TBN Armenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tbnarmenian.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", TBN Armenia
 https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
 
 #EXTINF:-1 tvg-id="ch1522" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon USA
