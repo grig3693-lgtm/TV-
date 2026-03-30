@@ -114,19 +114,19 @@ http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch1487" tvg-name="Շանթ Premium HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shantpremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Premium HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_	PREMIUMHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1080" tvg-name="Շանթ Սերիալ HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Սերիալ HD
+#EXTINF:-1 tvg-id="ch1080" tvg-name="Շանթ Սերիալ HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ShantSerialHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Սերիալ HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1491" tvg-name="Շանթ Music HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Music HD
+#EXTINF:-1 tvg-id="ch1491" tvg-name="Շանթ Music HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shantmusic.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Music HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_MUSICHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1490" tvg-name="Շանթ Kids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Kids 
+#EXTINF:-1 tvg-id="ch1490" tvg-name="Շանթ Kids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shantkids.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Kids 
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_KIDSHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1125" tvg-name="Շանթ Comedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Comedy 
+#EXTINF:-1 tvg-id="ch1125" tvg-name="Շանթ Comedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ShantComedy.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Comedy 
 https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1075" tvg-name="Շանթ Film" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Film 
+#EXTINF:-1 tvg-id="ch1075" tvg-name="Շանթ Film" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ShantFilm.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Film 
 https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Սինեման
