@@ -57,7 +57,7 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_EUROMEDIA24HD/video_1920x1080_a
 #EXTINF:-1 tvg-id="ch1469" tvg-name="Nur" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/nur.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", ՆՈՒՌ TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_NUR_TVHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1469" tvg-name="Bun" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/bun.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Բուն TV
+#EXTINF:-1 tvg-id="ch1381" tvg-name="Bun" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/bun.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Բուն TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_BOON_TVHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch1503" tvg-name="Delta" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/deltatv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Դելտա TV
@@ -79,7 +79,7 @@ http://ncdn-y1-w12.teamcloud.am/live/eds/FortunaTV/SAF-HLS/FortunaTV-avc1_500000
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_LORI_TV_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch1500" tvg-name="Kotayk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kotayk.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Կոտայք TV
-http://ncdn-y1-w12.teamcloud.am/live/eds/FortunaTV/SAF-HLS/FortunaTV-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
+http://ncdn-y1-w10.teamcloud.am/live/eds/KotaykTV/SAF-HLS/KotaykTV-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1584" tvg-name="Tavush" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tavush.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Տավուշ TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TAVUSH_TVHD/video_1920x1080_avc1/playlist.m3u8
@@ -105,17 +105,47 @@ https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-id="ch1522" tvg-name="NoyyanTapan" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Նոյյան Տապան
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_NOYAN_TAPANHD/video_1920x1080_avc1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ch1525" tvg-name="TBN Armenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
+
 #EXTINF:-1 tvg-id="ch1522" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1519" tvg-name="Viju TV Serial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Viju TV Serial 1
-https://minsk-cache07t.voka.tv/live/6004-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 tvg-id="ch1487" tvg-name="Շանթ Premium HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Premium HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_	PREMIUMHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/302.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Comedy
+#EXTINF:-1 tvg-id="ch1080" tvg-name="Շանթ Սերիալ HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Սերիալ HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_SERIALHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1491" tvg-name="Շանթ Music HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Music HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_MUSICHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1490" tvg-name="Շանթ Kids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Kids 
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_KIDSHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1125" tvg-name="Շանթ Comedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Comedy 
+https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch1075" tvg-name="Շանթ Film" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arma.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Film 
+https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/304.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Սինեման
+http://ncdn-y1-w6.teamcloud.am/live/eds/Cineman/SAF-HLS/Cineman-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/303.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Տունտունիկ
+http://ncdn-y1-w6.teamcloud.am/live/eds/Tuntunik/SAF-HLS/Tuntunik-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/302.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Քոմեդի
 http://ncdn-y1-w6.teamcloud.am/live/eds/Comedy/SAF-HLS/Comedy.m3u8
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Start Air" catchup="anevia" catchup-days="7", Start Air
-https://minsk-cache07t.voka.tv/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
+#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/301.png" catchup="append" catchup-days="7" catchup-source="", Ջան TV
+http://ncdn-y1-w6.teamcloud.am/live/eds/JanTV/SAF-HLS/JanTV-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch1474" tvg-name="Haykino2" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/300.png" catchup="append" catchup-days="7" catchup-source="", Հայ Կինո
+http://ncdn-y1-w6.teamcloud.am/live/eds/HayKino/SAF-HLS/HayKino-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/305.png" catchup="append" catchup-days="7" catchup-source="", Արմենիա Պրեմիում
+http://ncdn-y1-w6.teamcloud.am/live/eds/Premium1/SAF-HLS/Premium1-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1492" tvg-name="FastSports" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/007.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel1/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports
 https://f11-am.fcloudns.com/channel1/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
@@ -165,4 +195,3 @@ http://cdn.dommir.top:9290/okko_sport_2/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="http://tv.team/images/chIcons/3051.png" catchup="append" catchup-days="7",  catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Okko Football
 http://cdn.dommir.top:9290/okko_football/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
-
