@@ -195,7 +195,7 @@ http://ncdn-y1-w6.teamcloud.am/live/eds/Cineman/SAF-HLS/Cineman-avc1_5000000=100
 #EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Տունտունիկ
 http://ncdn-y1-w6.teamcloud.am/live/eds/Tuntunik/SAF-HLS/Tuntunik-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="ateme" catchup-days="7" catchup-source="?ateme_date_begin={utc}&ateme_date_end={utcend}", Քոմեդի
+#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="append" catchup-days="7" catchup-source="?ateme_date_begin={utc}&ateme_date_end={utcend}", Քոմեդի
 http://ncdn-y1-w6.teamcloud.am/live/eds/Comedy/SAF-HLS/Comedy.m3u8
 
 #EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="", Ջան TV
