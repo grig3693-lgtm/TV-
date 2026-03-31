@@ -226,7 +226,7 @@ http://cdn.dommir.top:9290/Match_Futbol_1_HD_RU_lo/tracks-v1a1/mono.m3u8?token=n
 #EXTINF:-1 tvg-id="ch696" tvg-name="Match Football 2 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball2.png", Матч! Футбол 2
 http://cdn.dommir.top:9290/Match_Futbol_2_HD_RU_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch697" tvg-name="Match Football 3 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball3.png", Матч! Футбол 1
+#EXTINF:-1 tvg-id="ch697" tvg-name="Match Football 3 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball3.png", Матч! Футбол 3
 http://cdn.dommir.top:9290/Match_Futbol_3_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch36" tvg-name="Match Boec HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/boec.png", Матч! Боец
