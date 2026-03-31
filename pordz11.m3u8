@@ -63,6 +63,12 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_BOON_TVHD/video_1920x1080_avc1/
 #EXTINF:-1 tvg-id="ch1503" tvg-name="Delta" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/deltatv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Դելտա TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DELTA_TVHD/video_1920x1080_avc1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ch1503" tvg-name="DeltaMusic" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/deltamusic.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Դելտա Մյուզիք
+http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
+
+#EXTINF:-1 tvg-id="ch1503" tvg-name="DeltaTravel" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/deltatravel.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Դելտա Թրեվլ
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+
 #EXTINF:-1 tvg-id="ch1083" tvg-name="21tv" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/21tv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", 21TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DAR21HD/video_1920x1080_avc1/playlist.m3u8
 
@@ -113,6 +119,15 @@ https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1489" tvg-name="HighVision" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shanthighvision.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ HIGH VISION 
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch1081" tvg-name="AABC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/aabc.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", AABC 
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+
+#EXTINF:-1 tvg-id="ch1523" tvg-name="Amga" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amga.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", AMGA TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1523" tvg-name="Velary" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/velary.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Velary
+http://timeshift.arpinet.am/233/index.m3u8
 
 #EXTINF:-1 tvg-id="ch1518" tvg-name="Armount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armount.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", ARMOUNT TV
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
