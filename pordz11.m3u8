@@ -111,6 +111,30 @@ https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="ch479" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nickelodeonbac.svg.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ch1481" tvg-name="ATVKinoman" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kinoman.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Կինոման
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_KINOMANHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1480" tvg-name="ATVBazmoc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/bazmoc.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Բազմոց
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_BAZMOCHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1482" tvg-name="ATVXaghaliq" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/xaghaliq.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Խաղալիք
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_BAZMOC_TVHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1484" tvg-name="ATVTava" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tavatv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Թավա TV
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TAVA_TVHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1486" tvg-name="ATVFitness" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fitness.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ֆիտնես
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FITNESSHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1479" tvg-name="ATVLifehack" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/lifehack.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Լայֆհաք
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FILMZONEHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1485" tvg-name="ATVHaytv" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haytv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Հայ TV
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_HAY_TVHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch1483" tvg-name="ATVMuzzone" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/muzzone.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Մուզզոն
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_MUZZONEHD/video_1920x1080_avc1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ch1487" tvg-name="Շանթ Premium HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shantpremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ Premium HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_SHANT_	PREMIUMHD/video_1920x1080_avc1/playlist.m3u8
 
