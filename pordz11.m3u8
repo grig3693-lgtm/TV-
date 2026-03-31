@@ -87,8 +87,23 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TAVUSH_TVHD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch2254" tvg-name="Geghama" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/geghama.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Գեղամա TV
 https://a3285272783-s70378.cdn.ngenix.net/geghama_tv/4/index.m3u8
 
+#EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
+https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
+
+#EXTINF:-1 tvg-id="ch1512" tvg-name="Armtoon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armtoon.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Armtoon TV 
+http://timeshift.arpinet.am/236/index.m3u8
+
 #EXTINF:-1 tvg-id="ch2408" tvg-name="Syunik" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/syuniktv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Սյունիք TV
 http://ncdn-y1-w6.teamcloud.am/live/eds/ZangezurTV/SAF-HLS/ZangezurTV-avc1_2000000=10002-mp4a_140800_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch1506" tvg-name="USArmenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/usarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+
+#EXTINF:-1 tvg-id="ch1505" tvg-name="ARTN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/artn.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", ARTN TV
+https://us1.ottstream.live:17071/C294/tracks-v1a1/mono.m3u8?token=jUVIvRG1l$w8P2wX
+
+#EXTINF:-1 tvg-id="ch1504" tvg-name="Panarmenian" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/panarmenian.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Panarmenian TV
+https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 
 #EXTINF:-1 tvg-id="ch1086" tvg-name="Arajinarbanyak" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="append" catchup-days="7" catchup-source="https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/index-?utcstart=${timestamp}&offset=-${offset}", Առաջինի ալիք միջազգային
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
