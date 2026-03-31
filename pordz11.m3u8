@@ -93,6 +93,12 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TAVUSH_TVHD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch2254" tvg-name="Geghama" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/geghama.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Գեղամա TV
 https://a3285272783-s70378.cdn.ngenix.net/geghama_tv/4/index.m3u8
 
+#EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Первый Канал
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussiadommir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Первый Канал Dommir
+http://cdn.dommir.top:9290/NTV_PERWI_HD_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
