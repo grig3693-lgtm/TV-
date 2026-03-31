@@ -214,34 +214,34 @@ https://f11-am.fcloudns.com/channel2/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1Q
 #EXTINF:-1 tvg-id="ch2588" tvg-name="Fast Sports 2" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/222.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel3/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports 2
 https://f11-am.fcloudns.com/channel3/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
 
-#EXTINF:-1 tvg-id="ch609" tvg-name="Match HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/match.png", Match TV
+#EXTINF:-1 tvg-id="ch609" tvg-name="Match HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/match.png", Матч!
 http://cdn.dommir.top:9290/Match_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch695" tvg-name="Match Football 1 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball1.png", Match Football 1 HD
-http://cdn.dommir.top:9290/Match_Futbol_1_HD_RU_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
-
-#EXTINF:-1 tvg-id="ch2126" tvg-name="Match Football 2 HD" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/1c9d/f020/1c9df020717d419561cac6c7b439dc00.svg" catchup="append" catchup-days="7", Match Football 2 HD
-http://cdn.dommir.top:9290/Match_Futbol_2_HD_RU_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
-
-#EXTINF:-1 tvg-id="ch63" tvg-name="Match Football 3 HD" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/9baa/c2fe/9baac2fecd8a8a19f8e7072eb6c87cc7.svg" catchup="append" catchup-days="7", Match Football 3 HD
-http://cdn.dommir.top:9290/Match_Futbol_3_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
-
-#EXTINF:-1 tvg-id="ch135" tvg-name="Match Premier HD" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/7168/f84a/7168f84a807771d47d5af0d7a0749ca1.svg" catchup="append" catchup-days="7", Match Premier HD
+#EXTINF:-1 tvg-id="ch698" tvg-name="Match Premier HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/premier.png", Матч! Премьер
 http://cdn.dommir.top:9290/Match_Nash_Futbol_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch56" tvg-name="Match Igra HD" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/195d/f488/195df488b284a339df19aaa6660a70cd.svg" catchup="append" catchup-days="7", Match Igra HD
-http://cdn.dommir.top:9290/Match_Igra_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch695" tvg-name="Match Football 1 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball1.png", Матч! Футбол 1
+http://cdn.dommir.top:9290/Match_Futbol_1_HD_RU_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch2014" tvg-name="Match Arena HD" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/f2f6/45b7/f2f645b7cf0962908fdb5bb485bd0cad.svg" catchup="append" catchup-days="7", Match Arena HD
-http://cdn.dommir.top:9290/Match_Arena_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch696" tvg-name="Match Football 2 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball2.png", Матч! Футбол 2
+http://cdn.dommir.top:9290/Match_Futbol_2_HD_RU_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch36" tvg-name="Match Boec HD" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/dfd7/8054/dfd78054f3b2b5a3ee14c527632ce48f.svg" catchup="append" catchup-days="7", Match Boec HD
+#EXTINF:-1 tvg-id="ch697" tvg-name="Match Football 3 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball3.png", Матч! Футбол 1
+http://cdn.dommir.top:9290/Match_Futbol_3_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch36" tvg-name="Match Boec HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/boec.png", Матч! Боец
 http://cdn.dommir.top:9290/Boez_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="http://tv.team/images/chIcons/1993.png" catchup="append" catchup-days="7", Setanta Sport 1
+#EXTINF:-1 tvg-id="ch3305" tvg-name="Match Arena HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arena.png", Матч! Арена
+http://cdn.dommir.top:9290/Match_Arena_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch3303" tvg-name="Match Igra HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/igra.png", Матч! Игра
+http://cdn.dommir.top:9290/Match_Igra_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png" catchup="append" catchup-days="7", Setanta Sport 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="http://tv.team/images/chIcons/477.png" catchup="append" catchup-days="7", Setanta Sport 2
+#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png" catchup="append" catchup-days="7", Setanta Sport 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="http://tv.team/images/chIcons/3050.png" catchup="append" catchup-days="7", Okko Sport
