@@ -120,7 +120,7 @@ https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-id="ch1086" tvg-name="Arajinarbanyak" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="append" catchup-days="7" catchup-source="https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/index-?utcstart=${timestamp}&offset=-${offset}", Առաջինի ալիք միջազգային
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch2068" tvg-name="Arajinamerika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="append" catchup-days="7" catchup-source="https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/index-?utcstart=${timestamp}&offset=-${offset}", Առաջինի ալիք Ամերիկա
+#EXTINF:-1 tvg-id="ch2068" tvg-name="Arajinamerika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinamerika.png" catchup="append" catchup-days="7" catchup-source="https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/index-?utcstart=${timestamp}&offset=-${offset}", Առաջինի ալիք Ամերիկա
 https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1489" tvg-name="HighVision" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shanthighvision.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ HIGH VISION 
