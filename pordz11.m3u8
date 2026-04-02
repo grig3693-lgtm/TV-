@@ -260,4 +260,4 @@ http://cdn.kubteltv.workers.dev/?ID=265#.m3u8
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="ch1077" catchup="append" catchup-days="7" catchup-source="&utc={utc}&lutc={lutc}", Setanta
-http://boxviptv.net:25461/di637/002662/1112 
+http://boxviptv.net:25461/live/di637/002662/1112.m3u8 
