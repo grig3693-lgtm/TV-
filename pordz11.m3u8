@@ -253,6 +253,45 @@ http://cdn.dommir.top:9290/okko_sport_2/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="http://tv.team/images/chIcons/3051.png" catchup="append" catchup-days="7",  catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Okko Football
 http://cdn.dommir.top:9290/okko_football/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
+#EXTINF:-1 tvg-id="ch450" tvg-name="Dikayaribalka" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/dikayarybalka.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Дикая рыбалка HD
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_DIKAYA_RIBALKAHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch449" tvg-name="Dikayaoxota" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/dikayaoxota.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Дикая охота HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DIKAYA_OKHOTAHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch444" tvg-name="RTG" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/rtg.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", RTG HD
+https://a3285276096-s70378.cdn.ngenix.net/rtg_hd/4/index.m3u8
+
+#EXTINF:-1 tvg-id="ch1515" tvg-name="EDU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hybridedu.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hybrid EDU
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_TV_RESTHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch2410" tvg-name="Rest" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hybridrest.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hybrid Rest
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_REST_NEWHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch2078" tvg-name="Terra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/terrahd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", TERRA HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TERRA_HD/video_1920x1080_avc1/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="ch3323" tvg-name="Thexplorers" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/theexplorers.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Explorers
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_EXPLORERS_HD/video_1920x1080_avc1/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanet.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
+https://a3285273028-s70378.cdn.ngenix.net/viasat_nuture_history/4/index.m3u8 
+
+#EXTINF:-1 tvg-id="ch525" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hollywood.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hollywood HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_HOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch58" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
+https://a3285273028-s70378.cdn.ngenix.net/vip_comedy/4/index.m3u8
+
+#EXTINF:-1 tvg-id="ch65" tvg-name="Amediapremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amediapremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Premium HD
+https://a3285273028-s70378.cdn.ngenix.net/amedia_premium_hd/4/index.m3u8
+
+#EXTINF:-1 tvg-id="ch326" tvg-name="Bollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/bollywood.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Bollywood HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_BOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch2409" tvg-name="HybridFilm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hybridfilm.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hybrid Film
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_FILMHD/video_1920x1080_avc1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ch1077" catchup="append" catchup-days="7" catchup-source="&utc={utc}&lutc={lutc}", Viju Sport
 http://cdn.kubteltv.workers.dev/?ID=265#.m3u8
 
