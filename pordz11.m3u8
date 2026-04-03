@@ -313,7 +313,7 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FAST_AND_FUNBOX_HD/video_1920x1
 #EXTINF:-1 tvg-id="ch80" tvg-name="redlips" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch80" tvg-name="temptation" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
+#EXTINF:-1 tvg-id="ch80" tvg-name="temptation" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch1077" catchup="append" catchup-days="7" catchup-source="&utc={utc}&lutc={lutc}", Viju Sport
