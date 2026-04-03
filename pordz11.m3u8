@@ -281,7 +281,7 @@ https://a3285273028-s70378.cdn.ngenix.net/viasat_nuture_history/4/index.m3u8
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_HOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch58" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
-https://a3285273028-s70378.cdn.ngenix.net/vip_comedy/4/index.m3u8
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_AMEDIA_PREMIUM_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch65" tvg-name="Amediapremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amediapremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Premium HD
 https://a3285273028-s70378.cdn.ngenix.net/amedia_premium_hd/4/index.m3u8
