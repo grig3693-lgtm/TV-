@@ -260,7 +260,7 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_DIKAYA_RIBALKAHD/video_1920x108
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DIKAYA_OKHOTAHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch444" tvg-name="RTG" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/rtg.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", RTG HD
-https://a3285276096-s70378.cdn.ngenix.net/rtg_hd/4/index.m3u8
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_RTG_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch1515" tvg-name="EDU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hybridedu.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hybrid EDU
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_TV_RESTHD/video_1920x1080_avc1/playlist.m3u8
