@@ -280,17 +280,41 @@ https://a3285273028-s70378.cdn.ngenix.net/viasat_nuture_history/4/index.m3u8
 #EXTINF:-1 tvg-id="ch525" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hollywood.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hollywood HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_HOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch58" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
-https://a3285276096-s80718.cdn.ngenix.net/hls/CH_AMEDIA_PREMIUM_HD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="ch58" tvg-name="Vijucomedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
+https://a3285273028-s70378.cdn.ngenix.net/vip_comedy/4/index.m3u8
 
 #EXTINF:-1 tvg-id="ch65" tvg-name="Amediapremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amediapremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Premium HD
-https://a3285273028-s70378.cdn.ngenix.net/amedia_premium_hd/4/index.m3u8
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_AMEDIA_PREMIUM_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch326" tvg-name="Bollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/bollywood.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Bollywood HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_BOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch2409" tvg-name="HybridFilm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hybridfilm.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hybrid Film
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_FILMHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="Domkinopremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/domkinopremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Дом Кино Премиум
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DOM_KINO_PREMIUMHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="Duck" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ducktv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ducktv
+https://3285272783-s80718.cdn.ngenix.net/hls/CH_DUCKTV_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="tracesportstars" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/traesportsstars.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Trace Sport Stars
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TRACE_SPORT_STARS_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="fight" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fightbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", FightBox HD
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FIGHTBOXHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="udar" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/udar.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Удар
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="fastfunbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fastandfunbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast & FunBox
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FAST_AND_FUNBOX_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="redlips" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="temptation" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch1077" catchup="append" catchup-days="7" catchup-source="&utc={utc}&lutc={lutc}", Viju Sport
 http://cdn.kubteltv.workers.dev/?ID=265#.m3u8
