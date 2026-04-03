@@ -296,7 +296,7 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_FILMHD/video_1920x1080_a
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DOM_KINO_PREMIUMHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch80" tvg-name="Duck" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ducktv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ducktv
-https://3285272783-s80718.cdn.ngenix.net/hls/CH_DUCKTV_HD/video_1920x1080_avc1/playlist.m3u8
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DUCKTV_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch80" tvg-name="tracesportstars" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/traesportsstars.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Trace Sport Stars
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TRACE_SPORT_STARS_HD/video_1920x1080_avc1/playlist.m3u8
