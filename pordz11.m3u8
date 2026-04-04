@@ -239,10 +239,10 @@ http://cdn.dommir.top:9290/Match_Arena_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNL
 http://cdn.dommir.top:9290/Match_Igra_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png" catchup="append" catchup-days="7", Setanta Sport 1
-http://boxviptv.net:25461/di637/002662/1112
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png" catchup="append" catchup-days="7", Setanta Sport 2
-http://boxviptv.net:25461/di637/002662/1113
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="http://tv.team/images/chIcons/3050.png" catchup="append" catchup-days="7", Okko Sport
 http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
