@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.team/7.7.xml"
+#EXTM3U x-tvg-url="https://doas.top/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ch1077" tvg-name="H1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Առաջին ալիք
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_H1HD/video_1920x1080_avc1/playlist.m3u8
@@ -195,7 +195,7 @@ http://ncdn-y1-w6.teamcloud.am/live/eds/Cineman/SAF-HLS/Cineman-avc1_5000000=100
 #EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Տունտունիկ
 http://ncdn-y1-w6.teamcloud.am/live/eds/Tuntunik/SAF-HLS/Tuntunik-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Քոմեդի
+#EXTINF:-1 tvg-id="armenia-tv" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${stop}", Քոմեդի
 http://ncdn-y1-w6.teamcloud.am/live/eds/Comedy/SAF-HLS/Comedy.m3u8
 
 #EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="", Ջան TV
