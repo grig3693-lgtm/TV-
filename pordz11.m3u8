@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://doas.top/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.team/tvteam.7.7.xml"
 
 #EXTINF:-1 tvg-id="ch1077" tvg-name="H1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Առաջին ալիք
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_H1HD/video_1920x1080_avc1/playlist.m3u8
