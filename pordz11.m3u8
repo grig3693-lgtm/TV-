@@ -324,3 +324,40 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="ch1077" catchup="append" catchup-days="7" catchup-source="&utc={utc}&lutc={lutc}", Setanta
 http://boxviptv.net:25461/live/di637/002662/1112.m3u8 
+
+#EXTINF:-1 tvg-id="ch54" tvg-name="Kinopremiyera" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinopremyeraHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Кинопремьера
+http://ncdn-y1-w2.teamcloud.am/live/eds/KinopremieraHD/SAF-HLS/KinopremieraHD-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch9" tvg-name="Kinohit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinohitHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Кинохит
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinohit/SAF-HLS/Kinohit--avc1_8000000=10004-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch8" tvg-name="Kinosemya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinosemyaHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Киносемья
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinosemya/SAF-HLS/Kinosemya-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch10" tvg-name="Kinosvidanie" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinosvidannieHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Киносвидание
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinosvidanie/SAF-HLS/Kinosvidanie-avc1_7000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch460" tvg-name="Kinokomediya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinokomediyaHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Кинокомедия
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinokomedia/SAF-HLS/Kinokomedia-avc1_8000000=10000-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch79" tvg-name="Kinomix" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinomixHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Киномикс
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinomix/SAF-HLS/Kinomix-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch652" tvg-name="Kinoujas" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinoujasHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Киноужас
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinoujas/SAF-HLS/Kinoujas-avc1_8000000=10012-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch668" tvg-name="Kinoseriya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinoseriyaHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Киносерия
+http://ncdn-y1-w2.teamcloud.am/live/eds/Kinoseriya/SAF-HLS/Kinoseriya-avc1_8000000=10012-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch15" tvg-name="Nashenovoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NashenovoekinoHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Наше Новое Кино
+http://ncdn-y1-w2.teamcloud.am/live/eds/Nashe_Novoe_Kino/SAF-HLS/Nashe_Novoe_Kino-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch112" tvg-name="Mujskoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MuzjskoekinoHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Мужское Кино
+http://ncdn-y1-w6.teamcloud.am/live/eds/Mujskoe_Kino/SAF-HLS/Mujskoe_Kino-avc1_8000000=10011-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch461" tvg-name="Indiskoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Indiskoyekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Индийское Кино
+http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch116" tvg-name="Rodnoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rodnoekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Родное Кино
+http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
+
