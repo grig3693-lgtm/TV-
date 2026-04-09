@@ -385,7 +385,7 @@ http://boxviptv.net:25461/di637/002662/190
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanethd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
 https://a3285276096-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png" catchup="append" catchup-days="7" catchup-source="", Da Vinci
+#EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png" catchup="append" catchup-days="7" catchup-source="", Da Vinci
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=aEa4HJWl4WQXIyF8N0Q6MQ&e=1776770983&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
