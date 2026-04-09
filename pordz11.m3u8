@@ -274,14 +274,8 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TERRA_HD/video_1920x1080_avc1/p
 #EXTINF:-1 tvg-id="ch3323" tvg-name="Thexplorers" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/theexplorers.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Explorers
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_EXPLORERS_HD/video_1920x1080_avc1/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanet.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
-https://a3285273028-s70378.cdn.ngenix.net/viasat_nuture_history/4/index.m3u8 
-
 #EXTINF:-1 tvg-id="ch525" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hollywood.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hollywood HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_HOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ch58" tvg-name="Vijucomedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
-https://a3285273028-s70378.cdn.ngenix.net/vip_comedy/4/index.m3u8
 
 #EXTINF:-1 tvg-id="ch65" tvg-name="Amediapremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amediapremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Premium HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_AMEDIA_PREMIUM_HD/video_1920x1080_avc1/playlist.m3u8
@@ -361,6 +355,18 @@ http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-av
 #EXTINF:-1 tvg-id="ch116" tvg-name="Rodnoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rodnoekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Родное Кино
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch60" tvg-name="Vijupremiere" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijupremiere.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Дикая рыбалка HD
+#EXTINF:-1 tvg-id="ch60" tvg-name="Vijupremiere" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijupremiere.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Premiere
 https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PREMIEREHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch59" tvg-name="Vijumegahit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijumegahit.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Megahit
+https://a3285272783-s80718.cdn.ngenix.net/mdrm/CH_VIJU_MEGAHITHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch58" tvg-name="Vijucomedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
+https://a3285272783-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch58" tvg-name="Vijuserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuserial.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Serial
+https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanet.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
+https://a3285276096-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
 
