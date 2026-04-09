@@ -390,3 +390,9 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
 http://cdn.kubteltv.workers.dev/?ID=265#.m3u8
+
+#EXTINF:-1 tvg-id="ch3075" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
+http://boxviptv.net:25461/di637/002662/1687
+
+#EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png" catchup="append" catchup-days="7" catchup-source="", Start World
+http://boxviptv.net:25461/di637/002662/1688
