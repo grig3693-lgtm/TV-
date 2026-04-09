@@ -289,7 +289,7 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_HYBRID_FILMHD/video_1920x1080_a
 #EXTINF:-1 tvg-id="ch80" tvg-name="Domkinopremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/domkinopremium.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Дом Кино Премиум
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DOM_KINO_PREMIUMHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch80" tvg-name="Duck" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ducktv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ducktv
+#EXTINF:-1 tvg-id="ch707" tvg-name="Duck" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ducktv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ducktv
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_DUCKTV_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch80" tvg-name="tracesportstars" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/traesportsstars.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Trace Sport Stars
@@ -355,6 +355,9 @@ http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-av
 #EXTINF:-1 tvg-id="ch116" tvg-name="Rodnoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rodnoekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Родное Кино
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
+#EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000
+http://boxviptv.net:25461/di637/002662/145
+
 #EXTINF:-1 tvg-id="ch60" tvg-name="Vijupremiere" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijupremiere.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Premiere
 https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PREMIEREHD/video_1920x1080_avc1/playlist.m3u8
 
@@ -364,7 +367,7 @@ https://a3285272783-s80718.cdn.ngenix.net/mdrm/CH_VIJU_MEGAHITHD/video_1920x1080
 #EXTINF:-1 tvg-id="ch58" tvg-name="Vijucomedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijucomedy.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Comedy
 https://a3285272783-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch58" tvg-name="Vijuserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuserial.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Serial
+#EXTINF:-1 tvg-id="ch701" tvg-name="Vijuserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuserial.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Serial
 https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanet.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
