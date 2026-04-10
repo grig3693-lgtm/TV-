@@ -135,6 +135,9 @@ http://cdn.dommir.top:9290/NTV_CHIT/playlist.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch3" tvg-name="ntvstill" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVStill.png" catchup="append" catchup-days="3" catchup-source="", НТВ Стиль
 http://ncdn-y1-w6.teamcloud.am/live/eds/NTV_Style/SAF-HLS/NTV_Style-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
+#EXTINF:-1 tvg-id="ch1950" tvg-name="tnt" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT.png" catchup="append" catchup-days="3" catchup-source="", ТНТ
+http://89.33.29.116/TNTHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
@@ -427,7 +430,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
 http://89.33.29.116/Viasat_Sport/index.m3u8
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
+#EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
 http://boxviptv.net:25461/di637/002662/1687
 
 #EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png" catchup="append" catchup-days="7" catchup-source="", Start World
