@@ -117,6 +117,9 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.
 #EXTINF:-1 tvg-id="ch636" tvg-name="mirseriala" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MirSeriala.png" catchup="append" catchup-days="3" catchup-source="", Мир Сериала
 http://cdn.dommir.top:9290/Mir_Seriala/playlist.m3u8?token=njQ2UNLc50
 
+#EXTINF:-1 tvg-id="ch3" tvg-name="ntv" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTV.png" catchup="append" catchup-days="3" catchup-source="", НТВ
+https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
