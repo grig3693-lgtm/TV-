@@ -120,6 +120,12 @@ http://cdn.dommir.top:9290/Mir_Seriala/playlist.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch3" tvg-name="ntv" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTV.png" catchup="append" catchup-days="3" catchup-source="", НТВ
 https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ch3" tvg-name="ntvmir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVMir.png" catchup="append" catchup-days="3" catchup-source="", НТВ Мир
+http://89.33.29.116/NTV_Mir/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="ch3" tvg-name="ntvserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVSerial.png" catchup="append" catchup-days="3" catchup-source="", НТВ Сериал
+http://cdn.dommir.top:9290/NTV_Serial_RU/playlist.m3u8?token=njQ2UNLc50
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
