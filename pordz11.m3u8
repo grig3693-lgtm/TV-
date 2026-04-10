@@ -389,7 +389,7 @@ https://a3285276096-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=aEa4HJWl4WQXIyF8N0Q6MQ&e=1776770983&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
-http://cdn.kubteltv.workers.dev/?ID=265#.m3u8
+http://89.33.29.116/Viasat_Sport/index.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
 http://boxviptv.net:25461/di637/002662/1687
