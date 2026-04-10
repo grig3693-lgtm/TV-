@@ -111,6 +111,9 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 #EXTINF:-1 tvg-id="ch729" tvg-name="mir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png" catchup="append" catchup-days="3" catchup-source="", Мир
 http://boxviptv.net:25461/di637/002662/123
 
+#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png" catchup="append" catchup-days="3" catchup-source="", Мир 24
+http://boxviptv.net:25461/di637/002662/124 
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
