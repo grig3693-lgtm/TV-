@@ -153,6 +153,12 @@ http://89.33.29.116/sts_kids_hd/index.m3u8
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png" catchup="append" catchup-days="3" catchup-source="", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
+#EXTINF:-1 tvg-id="ch23" tvg-name="zvezda" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezda.png" catchup="append" catchup-days="3" catchup-source="", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="ch724" tvg-name="zvezdaplus" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezdaplus.png" catchup="append" catchup-days="3" catchup-source="", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
