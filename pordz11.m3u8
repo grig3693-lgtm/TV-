@@ -144,6 +144,12 @@ https://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/VI15SXLuln73XvmR5xMG7Q
 #EXTINF:-1 tvg-id="ch716" tvg-name="tntmusic" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTMusic.png" catchup="append" catchup-days="3" catchup-source="", FON Music
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=1cZDL7IZWn2C2ypUKCOB1w&e=2073777461&scheme=https
 
+#EXTINF:-1 tvg-id="ch716" tvg-name="tntinternational" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTInternational.png" catchup="append" catchup-days="3" catchup-source="", TNT International
+http://46.53.208.4/live/5120-req_offset_28000000-req_window_0-4k_v5.m3u8
+
+#EXTINF:-1 tvg-id="ch483" tvg-name="stskids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="append" catchup-days="3" catchup-source="", СТС Kids
+http://89.33.29.116/sts_kids_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png" catchup="append" catchup-days="3" catchup-source="", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
