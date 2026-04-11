@@ -136,10 +136,13 @@ http://cdn.dommir.top:9290/NTV_CHIT/playlist.m3u8?token=njQ2UNLc50
 http://ncdn-y1-w6.teamcloud.am/live/eds/NTV_Style/SAF-HLS/NTV_Style-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch5" tvg-name="tnt" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT.png" catchup="append" catchup-days="3" catchup-source="", ТНТ
-http://89.33.29.116/TNTHD/tracks-v1a1/mono.m3u8
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
 #EXTINF:-1 tvg-id="ch14" tvg-name="tnt4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT4.png" catchup="append" catchup-days="3" catchup-source="", ТНТ4
 https://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/VI15SXLuln73XvmR5xMG7Q/1776453263/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="ch5" tvg-name="subbota" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png" catchup="append" catchup-days="3" catchup-source="", Суббота!
+http://89.33.29.116/TNTHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
