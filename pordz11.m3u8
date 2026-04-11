@@ -434,7 +434,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil
 http://89.33.29.116/Viasat_Sport/index.m3u8
 
 #EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
-http://boxviptv.net:25461/di637/002662/1687
+http://89.33.29.116/START_Air_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png" catchup="append" catchup-days="7" catchup-source="", Start World
-http://boxviptv.net:25461/di637/002662/1688
+http://89.33.29.116/START_World_HD/tracks-v1a1/mono.m3u8
