@@ -153,6 +153,9 @@ http://89.33.29.116/STS_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ch483" tvg-name="stskids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="append" catchup-days="3" catchup-source="", СТС Kids
 http://89.33.29.116/sts_kids_hd/index.m3u8
 
+#EXTINF:-1 tvg-id="ch483" tvg-name="stslove" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="append" catchup-days="3" catchup-source="", СТС Love
+http://89.33.29.116/STS_Love/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png" catchup="append" catchup-days="3" catchup-source="", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
