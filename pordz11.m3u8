@@ -292,6 +292,12 @@ http://cdn.dommir.top:9290/Match_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch698" tvg-name="Match Premier HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/premier.png", Матч! Премьер
 http://cdn.dommir.top:9290/Match_Nash_Futbol_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
+#EXTINF:-1 tvg-id="ch471" tvg-name="Matchstrana" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Matchstrana.png" catchup="append" catchup-days="7" catchup-source="", Матч! Страна
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://armsmart.nl:8080/freetvportal/freetvportal/1441.m3u8
+
 #EXTINF:-1 tvg-id="ch695" tvg-name="Match Football 1 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball1.png", Матч! Футбол 1
 http://cdn.dommir.top:9290/Match_Futbol_1_HD_RU_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
