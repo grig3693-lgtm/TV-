@@ -322,7 +322,7 @@ http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="http://tv.team/images/chIcons/2863.png" catchup="append" catchup-days="7", Okko Prime Sport
 http://cdn.dommir.top:9290/okko_sport_2/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="http://tv.team/images/chIcons/3051.png" catchup="append" catchup-days="7",  catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Okko Football
+#EXTINF:-1 tvg-id="ch3911" tvg-name="Okko Football" tvg-logo="http://tv.team/images/chIcons/3051.png" catchup="append" catchup-days="7",  catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Okko Football
 http://cdn.dommir.top:9290/okko_football/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch450" tvg-name="Dikayaribalka" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/dikayarybalka.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Дикая рыбалка HD
