@@ -148,10 +148,10 @@ https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=1c
 http://46.53.208.4/live/5120-req_offset_28000000-req_window_0-4k_v5.m3u8
 
 #EXTINF:-1 tvg-id="ch21" tvg-name="sts" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STS.png" catchup="append" catchup-days="3" catchup-source="", СТС
-http://89.33.29.116/STS_HD/tracks-v1a1/mono.ts.m3u8
+http://193.25.8.59:8000/ESPN
 
 #EXTINF:-1 tvg-id="ch483" tvg-name="stskids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="append" catchup-days="3" catchup-source="", СТС Kids
-http://89.33.29.116/sts_kids_hd/index.m3u8
+http://cdn.dommir.top:9290/Disney/playlist.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch111" tvg-name="stslove" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="append" catchup-days="3" catchup-source="", СТС Love
 http://89.33.29.116/STS_Love/tracks-v1a1/mono.ts.m3u8
@@ -350,13 +350,13 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_EXPLORERS_HD/video_1920x108
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_HOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch421" tvg-name="Amedia1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Amedia1HD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia 1
-http://89.33.29.116/Amedia_1_HD/tracks-v1a1/mono.ts.m3u8
+http://cdn.dommir.top:9290/Amedia_1_HD_hi/playlist.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch515" tvg-name="Amedia2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Amedia2HD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia 2
 http://cdn.dommir.top:9290/Amedia_2_HD/playlist.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch32" tvg-name="Amediahit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AmediaHitHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Hit
-http://89.33.29.116/Amedia_Hit_HD/tracks-v1a1/mono.ts.m3u8
+http://cdn.dommir.top:9290/AMEDIA_HIT_HD_RU_hi/playlist.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch65" tvg-name="Amediapremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AmediaPremiumFHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Premium HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_AMEDIA_PREMIUM_HD/video_1920x1080_avc1/playlist.m3u8
@@ -470,7 +470,7 @@ https://a3285276096-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=aEa4HJWl4WQXIyF8N0Q6MQ&e=1776770983&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
-http://89.33.29.116/Viasat_Sport/index.m3u8
+https://stream8.cinerama.uz/1229/index.m3u8
 
 #EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
 http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
