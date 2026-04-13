@@ -446,7 +446,7 @@ http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_200
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=P4vOyHDX6E0wEsQSryecig&e=1777113427&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Русское
-http://boxviptv.net:25461/di637/002662/1064
+http://cdn.kubteltv.workers.dev/?ID=193
 
 #EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=8uZklbL-WhkMIff2zlB11A&e=1777113624&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -485,7 +485,7 @@ https://a3285276096-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=aEa4HJWl4WQXIyF8N0Q6MQ&e=1776770983&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
-https://stream8.cinerama.uz/1229/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=265
 
 #EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
 http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
