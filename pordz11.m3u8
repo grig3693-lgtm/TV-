@@ -151,7 +151,7 @@ https://stream.telecomtv101.workers.dev/c/ch0029
 http://193.25.8.59:8000/ESPN
 
 #EXTINF:-1 tvg-id="ch483" tvg-name="stskids" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="append" catchup-days="3" catchup-source="", СТС Kids
-http://cdn.dommir.top:9290/Disney/playlist.m3u8?token=njQ2UNLc50
+http://cdn.dommir.top:9290/Disney/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch111" tvg-name="stslove" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="append" catchup-days="3" catchup-source="", СТС Love
 https://mhd128.iptv2022.com/p/MjJkB0gGhJNdRwa8P8TROA,1776106249/streaming/stsloveott/324/1/index.m3u8
