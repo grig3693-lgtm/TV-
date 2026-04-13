@@ -329,16 +329,10 @@ http://armsmart.nl:8080/freetvportal/freetvportal/161.m3u8
 http://armsmart.nl:8080/freetvportal/freetvportal/177.m3u8
 
 #EXTINF:-1 tvg-id="ch3305" tvg-name="Match Arena HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arena.png", Матч! Арена
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://armsmart.nl:8080/freetvportal/freetvportal/176.m3u8
+http://cdn.dommir.top:9290/Match_Arena_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch3303" tvg-name="Match Igra HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/igra.png", Матч! Игра
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://armsmart.nl:8080/freetvportal/freetvportal/178.m3u8
+http://cdn.dommir.top:9290/Match_Igra_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png" catchup="append" catchup-days="7", Setanta Sport 1
 #EXTVLCOPT:http-reconnect=true
