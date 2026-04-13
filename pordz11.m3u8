@@ -320,7 +320,7 @@ http://armsmart.nl:8080/freetvportal/freetvportal/7461.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://armsmart.nl:8080/freetvportal/freetvportal/1516.m3u8
+http://armsmart.nl:8080/freetvportal/freetvportal/1515.m3u8
 
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png" catchup="append" catchup-days="7", Окко Спорт
 http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
