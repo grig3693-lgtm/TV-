@@ -177,8 +177,11 @@ https://live-gccdn.rbc.ru/gcore/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="ch24" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TV3.png" catchup="append" catchup-days="3" catchup-source="", TV3
 http://cdn.dommir.top:9290/TV3/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Рен ТВ
+#EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png" catchup="append" catchup-days="7" catchup-source="", Рен ТВ
 http://cdn.dommir.top:9290/Ren_TV_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png" catchup="append" catchup-days="7" catchup-source="", Домашний
+http://cdn.dommir.top:9290/Domashniy_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
@@ -382,7 +385,7 @@ http://cdn.dommir.top:9290/Eurosport_1_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2
 #EXTINF:-1 tvg-id="ch71" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="append" catchup-days="7", Eurosport 2
 http://cdn.dommir.top:9290/Eurosport_2_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3051" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png" catchup="append" catchup-days="7" catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Окко TV
+#EXTINF:-1 tvg-id="ch3914" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png" catchup="append" catchup-days="7" catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Окко TV
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
