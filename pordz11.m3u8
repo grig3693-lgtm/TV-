@@ -443,16 +443,16 @@ http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-av
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000
-http://boxviptv.net:25461/di637/002662/145
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=P4vOyHDX6E0wEsQSryecig&e=1777113427&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Русское
 http://boxviptv.net:25461/di637/002662/1064
 
 #EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Action
-http://boxviptv.net:25461/di637/002662/144
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=8uZklbL-WhkMIff2zlB11A&e=1777113624&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Новелла
-http://boxviptv.net:25461/di637/002662/1063
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hn1vvc_LkxvoO16HvRKxrQ&e=1777113738&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch3074" tvg-name="TV1000Romantica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijutv1000romanica.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=MBaFNzF1eZJZqgmbeLkEmw&e=1776768205&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
