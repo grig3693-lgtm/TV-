@@ -228,8 +228,11 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_NOYAN_TAPANHD/video_1920x1080_a
 #EXTINF:-1 tvg-id="ch1525" tvg-name="TBN Armenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tbnarmenian.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", TBN Armenia
 https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nickelodeonbac.svg.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon USA
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nickelodeonbac.svg.png" catchup="append" catchup-days="7" catchup-source="", Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/CartoonNetwrokHD.png" catchup="append" catchup-days="7" catchup-source="", Cartoon Network USA
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon Russia
 http://cdn.dommir.top:9290/Nickelodeon_HD_hi/playlist.m3u8?token=njQ2UNLc50
