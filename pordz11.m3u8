@@ -234,6 +234,60 @@ http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CartoonNetwrk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/CartoonNetwrokHD.png" catchup="append" catchup-days="7" catchup-source="", Cartoon Network USA
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Discovery.png" catchup="append" catchup-days="7" catchup-source="", Discovery USA
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO.png" catchup="append" catchup-days="7" catchup-source="", HBO USA
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO2.us.png" catchup="append" catchup-days="7" catchup-source="", HBO 2 USA
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBOZone" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBOZoneus.png" catchup="append" catchup-days="7" catchup-source="", HBO Zone USA
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBOComedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBOComedy.png" catchup="append" catchup-days="7" catchup-source="", HBO Comedy USA
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ParamountNetwork.png" catchup="append" catchup-days="7" catchup-source="", Paramount Network USA
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animalplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AnimalPlanetHD.png" catchup="append" catchup-days="7" catchup-source="", Animal Planet USA
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NatGeo.png" catchup="append" catchup-days="7" catchup-source="", National Geographic USA
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeoWild" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NatGeoWildus.png" catchup="append" catchup-days="7" catchup-source="", National Geographic Wild USA
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBCNews" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BBCNewsus.png" catchup="append" catchup-days="7" catchup-source="", BBC News USA
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBCAmerica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BBCAmerica.png" catchup="append" catchup-days="7" catchup-source="", BBC America USA
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Bloombergus.png" catchup="append" catchup-days="7" catchup-source="", Bloomberg USA
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Boomerangus.png" catchup="append" catchup-days="7" catchup-source="", Boomerang USA
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DisneyXD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DisneyXD.png" catchup="append" catchup-days="7" catchup-source="", Disney XD USA
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DisneyJr" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DisneyJunior.png" catchup="append" catchup-days="7" catchup-source="", Disney Jr USA
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NBA.png" catchup="append" catchup-days="7" catchup-source="", NBA USA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTV.png" catchup="append" catchup-days="7" catchup-source="", MTV USA
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTVLive.png" catchup="append" catchup-days="7" catchup-source="", MTV Live USA
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon Russia
 http://cdn.dommir.top:9290/Nickelodeon_HD_hi/playlist.m3u8?token=njQ2UNLc50
 
