@@ -30,7 +30,7 @@ http://ncdn-y1-w11.teamcloud.am/live/eds/AraratTV/SAF-HLS/AraratTV-avc1_2000000=
 #EXTINF:-1 tvg-id="ch1070" tvg-name="Freenews" group-title="Հայկական","Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/freenews.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Free News
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FREENEWSHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1471" tvg-name="Lurer" group-title="Հայկական","Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1lurer.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Առաջինի լրատվական ալիք
+#EXTINF:-1 tvg-id="ch1471" tvg-name="Lurer" group-title="Հայկական;Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1lurer.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Առաջինի լրատվական ալիք
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_LURERHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch1085" tvg-name="Shem" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shem.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Շեմ
@@ -39,10 +39,10 @@ http://ncdn-y1-w11.teamcloud.am/live/eds/ShogakatTV/SAF-HLS/ShogakatTV-avc1_2000
 #EXTINF:-1 tvg-id="ch1085" tvg-name="5plus" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/5plus.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", 5-րդ ալիք +
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TV_5_PLUSHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1495" tvg-name="Azatutyun" group-title="Հայկական","Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/azatutyun.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ազատություն TV
+#EXTINF:-1 tvg-id="ch1495" tvg-name="Azatutyun" group-title="Հայկական;Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/azatutyun.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Ազատություն TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_AZATUTYUN_TVHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch2860" tvg-name="AlphaNews" group-title="Հայկական","Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/alphanews.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Alpha News
+#EXTINF:-1 tvg-id="ch2860" tvg-name="AlphaNews" group-title="Հայկական;Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/alphanews.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Alpha News
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_ALPHA_NEWSHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch3448" tvg-name="ErkirMedia" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/yerkirmedia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Երկիր Մեդիա
