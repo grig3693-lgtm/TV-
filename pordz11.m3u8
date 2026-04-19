@@ -511,7 +511,7 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TRACE_SPORT_STARS_HD/video_1920
 #EXTINF:-1 tvg-id="ch894" tvg-name="fight" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fightbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", FightBox HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FIGHTBOXHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch80" tvg-name="udar" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/udar.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Удар
+#EXTINF:-1 tvg-id="ch549" tvg-name="udar" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/udar.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Удар
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch3656" tvg-name="fastfunbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fastandfunbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast & FunBox
