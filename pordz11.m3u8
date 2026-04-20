@@ -148,7 +148,7 @@ http://cdn.dommir.top:9290/TNT_HD_RU_NTV_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="ch716" tvg-name="tntmusic" group-title="Ռուսական", "Երաժշտական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTMusic.png" catchup="append" catchup-days="3" catchup-source="", FON Music
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=1cZDL7IZWn2C2ypUKCOB1w&e=2073777461&scheme=https
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.m3u8s
 
 #EXTINF:-1 tvg-id="ch716" tvg-name="tntinternational" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTInternational.png" catchup="append" catchup-days="3" catchup-source="", TNT International
 https://stream.telecomtv101.workers.dev/c/ch0029
