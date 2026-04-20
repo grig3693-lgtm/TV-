@@ -108,6 +108,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunkl
 #EXTINF:-1 tvg-id="ch337" tvg-name="rossiyartr" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaRTR.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363?.m3u8
 
+#EXTINF:-1 tvg-id="ch118" tvg-name="vremya" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vremya.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Время
+http://cdn.dommir.top:9290/NTV_Vremja/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
 #EXTINF:-1 tvg-id="ch729" tvg-name="mir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png" catchup="append" catchup-days="3" catchup-source="", Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
 
@@ -245,6 +248,60 @@ http://cdn.dommir.top:9290/STAR_CINEMA_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch3211" tvg-name="StarFamily" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarFamily.png" catchup="append" catchup-days="7" catchup-source="", Star Family
 http://cdn.dommir.top:9290/STAR_FAMILY_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch" tvg-name="GNC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/GNC.png" catchup="append" catchup-days="7" catchup-source="", GNC
+http://cdn.dommir.top:9290/GNC/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch119" tvg-name="Vgostaxuskazki" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vgostaxuskazki.png" catchup="append" catchup-days="7" catchup-source="", В Гостях у Сказки 
+http://cdn.dommir.top:9290/wGostachUskaski/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch526" tvg-name="MMA" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MMATV.png" catchup="append" catchup-days="7" catchup-source="", MMA TV
+http://cdn.dommir.top:9290/m1_global/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch134" tvg-name="shokirushie" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shokirushie.png" catchup="append" catchup-days="7" catchup-source="", Шокирующее
+http://cdn.dommir.top:9290/TRI_SHOKIRUUSHEE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch468" tvg-name="strashnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/strashnoe.png" catchup="append" catchup-days="7" catchup-source="", Страшное
+http://cdn.dommir.top:9290/Strashnoe_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch913" tvg-name="kino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinoTV.png" catchup="append" catchup-days="7" catchup-source="", Кино ТВ
+http://cdn.dommir.top:9290/Kino_TV_RU_HD_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch" tvg-name="kronehit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kronehit.png" catchup="append" catchup-days="7" catchup-source="", Кронехит
+http://cdn.dommir.top:9290/Kronehit_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch516" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/360HD.png" catchup="append" catchup-days="7" catchup-source="", 360 HD 
+http://cdn.dommir.top:9290/360/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch034" tvg-name="KHL" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHL.png" catchup="append" catchup-days="7" catchup-source="", КХЛ
+http://cdn.dommir.top:9290/KHL_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch138" tvg-name="KHLprime" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHLPrime.png" catchup="append" catchup-days="7" catchup-source="", КХЛ Прайм
+http://cdn.dommir.top:9290/KHL_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch100" tvg-name="RTVi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RTVi.png" catchup="append" catchup-days="7" catchup-source="", RTVi
+http://cdn.dommir.top:9290/RTVi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch463" tvg-name="Lyubimoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Lyubimoekino.png" catchup="append" catchup-days="7" catchup-source="", Любимое Кино
+http://cdn.dommir.top:9290/TRI_LUBIMOE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch432" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/History.png" catchup="append" catchup-days="7" catchup-source="", History
+http://cdn.dommir.top:9290/History_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch464" tvg-name="scifi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/scifi.png" catchup="append" catchup-days="7" catchup-source="", Sci-Fi 
+http://cdn.dommir.top:9290/Sony_Sci-Fi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch3811" tvg-name="RUTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RUTV.png" catchup="append" catchup-days="7" catchup-source="", RU TV
+http://cdn.dommir.top:9290/RU_TV_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyHD.png" catchup="append" catchup-days="7" catchup-source="", Первый Музыкальный
+http://cdn.dommir.top:9290/RU:perwimuzrosia/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyBYHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyBYHD.png" catchup="append" catchup-days="7" catchup-source="", Первый Музыкальный BY
+http://cdn.dommir.top:9290/Pervyiy_Muzyikalnyiy_1_By/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch2079" tvg-name="Kineko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kineko.png" catchup="append" catchup-days="7" catchup-source="", Кинеко
+http://cdn.dommir.top:9290/Kineko_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
