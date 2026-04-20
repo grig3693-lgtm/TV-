@@ -466,7 +466,7 @@ http://ncdn-y1-w6.teamcloud.am/live/eds/Cineman/SAF-HLS/Cineman-avc1_5000000=100
 http://ncdn-y1-w6.teamcloud.am/live/eds/Tuntunik/SAF-HLS/Tuntunik-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Քոմեդի
-http://ncdn-y1-w6.teamcloud.am/live/eds/Comedy/SAF-HLS/Comedy.m3u8
+http://ncdn-y1-w6.teamcloud.am/live/eds/Comedy/SAF-HLS/Comedy-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="", Ջան TV
 http://ncdn-y1-w6.teamcloud.am/live/eds/JanTV/SAF-HLS/JanTV-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
