@@ -715,6 +715,18 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
 http://cdn.kubteltv.workers.dev/?ID=265
 
+#EXTINF:-1 tvg-id="ch662" tvg-name="Start" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Start.png", Старт HD
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://armsmart.nl:8080/freetvportal/freetvportal/1439.m3u8
+
+#EXTINF:-1 tvg-id="ch2502" tvg-name="Starttriumph" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Starttriumph.png", Старт Триумф HD
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://armsmart.nl:8080/freetvportal/freetvportal/1440.m3u8
+
 #EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
 http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
 
