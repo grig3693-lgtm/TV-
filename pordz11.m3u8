@@ -330,8 +330,17 @@ http://46.53.208.4/live/8008-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 tvg-id="ch565" tvg-name="belarus3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus3.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 3
 http://46.53.208.4/live/8-req_offset_28000000-req_window_0-5k_v5.m3u8
 
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4brest" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4brest.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Брест
+http://46.53.208.4/live/2013-req_offset_28000000-req_window_0-3k_v5.m3u8
+
 #EXTINF:-1 tvg-id="ch565" tvg-name="belarus4gomel" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4gomel.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Гомель
 http://46.53.208.4/live/2011-req_offset_28000000-req_window_0-4k_v5.m3u8
+
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4mogilev" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4mogilev.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Могилев
+http://46.53.208.4/live/2097-req_offset_28000000-req_window_0-4k_v5.m3u8
+
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4vitebsk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4vitebsk.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Витебск
+http://46.53.208.4/live/2012-req_offset_28000000-req_window_0-4k_v5.m3u8
 
 #EXTINF:-1 tvg-id="ch565" tvg-name="belarus5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus5.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 5
 http://46.53.208.4/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
