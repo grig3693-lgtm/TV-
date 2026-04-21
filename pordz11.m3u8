@@ -330,6 +330,12 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_b51
 #EXTINF:-1 tvg-id="ch565" tvg-name="belarus3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus3.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 3
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus5.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 5
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="ch583" tvg-name="belarus24" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus24.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
