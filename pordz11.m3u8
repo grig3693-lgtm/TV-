@@ -780,3 +780,200 @@ http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
 
 #EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png" catchup="append" catchup-days="7" catchup-source="", Start World
 http://46.53.208.4/live/9011-req_offset_28000000-req_window_0-4k_v5.m3u8
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
+https://de.auroramedia.am/europaplus
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/kissfm.png", KISS FM Armenia
+https://de.auroramedia.am/kissfm.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/pop.png", Pop FM
+http://s6.voscast.com:11646/popfm
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/autoradio.png", AUTORADIO YEREVAN FM89.7
+https://de.auroramedia.am/autoradio
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/shanson.png", Radio Shanson Yerevan
+http://164.132.169.60:8070/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojan.png", Radio Jan
+http://s7.voscast.com:10258/radiojan
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/vem.png", Vem Radio
+https://eu1.stream4cast.com/proxy/vemradio/live
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/zark.png", Radio Zark
+http://212.34.233.78:8001/
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiomir.png", Radio Mir Armenia
+https://icecast-mirtv.cdnvideo.ru/radio_mir_256
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/gosport.png", Go Sport FM
+https://gosport.webcaramba.com/gosport128.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/arevik.png", Radio Arevik
+https://eu1.stream4cast.com/proxy/aamiryan/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/imradio.png", Im Radio
+http://217.182.133.119:8070/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/comedy.png", RadioComedy
+http://s6.voscast.com:11536/1fm
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioaurora.png", Radio Aurora Armenia
+https://de.auroramedia.am/aurora.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yerevanfm.png", RADIO YEREVAN FM Armenia
+http://217.182.133.119:8160/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/rfi.png", Radio France Internationale
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiovan.png", Radio Van FM103.1
+https://hls-01-radiovan.webcaramba.com/radiovan/112/playlist.m3u8
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/marshall.png", Radio Marshal
+http://164.132.169.60:8030/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiohay.png", Radio Hay
+https://audio.cloudrad.io/2b1dbf78/live
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioalphayerevan.png", Radio Alpha Yerevan
+https://hls-01-rusradio.webcaramba.com/rusradio-yerevan/96/playlist.m3u8
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/fm1055.png", FM 105.5
+http://3745421d.edge.cloudrad.io:9188/live
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/sputnik.png", Radio Sputnik Armenia
+https://icecast-rian.cdnvideo.ru/voicearm1
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/lratvakan.png", Lratvakan Radio
+http://212.34.233.78:8000/live
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hanrayin.png", Hanrayin Radio
+http://217.182.133.119:8052/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojanusa.png", Radio Jan USA
+http://s4.voscast.com:8864/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/pop1075.png", Pop FM USA
+http://s4.voscast.com:8862/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/armmusic.png", Arm Music Radio
+https://listen7.myradio24.com/armmusic
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/vangyumri.png", Radio Van Gyumri
+https://a13.asurahosting.com/listen/radio_van_gyumri/radio.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/mshakuyt.png", Radio Mshakuyt
+https://eu1.stream4cast.com/proxy/aamiry01/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/lavradio.png", Lav Radio
+http://164.132.169.60:8000/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/lavradiomix.png", Lav Radio Mix
+http://164.132.169.60:8006/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/xfm.png", XFM Radio
+http://164.132.169.60:8050/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/mfm.png", MFM Music Radio
+http://164.132.169.60:8012/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/energy.png", Radio Energy
+http://164.132.169.60:8044/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/mig.png", Mig Radio
+https://shaincast.caster.fm:30456/listen.mp3?authn3e92e5a71206f543b6464ec19fd6b84f
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yeraz.png", Radio Yeraz
+http://streaming05.liveboxstream.uk:8008/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/classicfm.png", Classic FM
+https://de.auroramedia.am/classic
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojazz.png", Radio Jazz FM
+https://de.auroramedia.am/jazz.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/montecarlo.png", Radio Monte Carlo - Retro and Gold
+https://de.auroramedia.am/montecarlo
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiorocks.png", Radio Rocks
+https://de.auroramedia.am/roks
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser1.png", SERFM 1 | Armenian Folk Radio
+https://de.auroramedia.am/ser1
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser2.png", SERFM 2 Armenian Pop Hits
+https://de.auroramedia.am/ser2
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser3.png", SERFM 3 Armenian Dance
+https://de.auroramedia.am/ser3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioyan.png", Radio YAN
+https://237.185.153.160.host.secureserver.net/proxy/radioyan1/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/revolutionary.png", Armenian Revolutionary Radio
+https://237.185.153.160.host.secureserver.net/proxy/radioyan2/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/greek.png", Greek Zemibekiko Radio
+https://237.185.153.160.host.secureserver.net/proxy/radioyan3/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yerevannights.png", Yerevan Nights
+http://icecast.worldweb.services:81/YerevanNights
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/azalia.png", Radio Azalia
+https://stream-175.zeno.fm/s865660v7hhvv
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/journews.png", JourNews
+https://stream-176.zeno.fm/dvodr8cuwc5uv
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/avol.png", Radio Avol
+http://64.150.176.42:8045/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/surenavan.png", Radio Surenavan
+https://stream-175.zeno.fm/uww17gzn8x8uv
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/nor.png", Nor Radio Los Angeles
+https://ice8.securenetsystems.net/NORRADIO
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ayk.png", Radio AYK
+http://64.150.176.42:8117/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioarmenie.png", Radio Arménie
+http://direct.radioarmenie.com:9029/stream
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/armenian-power.png", Armenian Power Radio
+https://stream-179.zeno.fm/fw6pqvkxe48uv
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayreniq.png", Radio Hayrenik
+https://streaming.radio.co/sb64369622/listen
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ayp.png", Radio AYP
+https://stric6.streamakaci.com/radioayp.mp3
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/vanvoice.png", Voice of Van
+http://vovan.s3ming.com/vovan.mp3?_=1
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/arev.png", Radio Arev
+https://cast6.asurahosting.com//proxy/radioare/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/triktrak.png", Triktrak Armenian Radio
+https://cast3.my-control-panel.com/proxy/triktrak/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/laarmenian.png", LA Armenian Radio
+https://cast.thiff.com/proxy/laarmeni?mp=/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yeritdzayn.png", Yeridasartoutian Tsayne
+http://65.108.98.93:8123/live
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/meguerdichian.png", Meguerdichian Stream
+http://65.108.98.93:8123/autodj
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/belgahay.png", BelgaHay Radio
+https://streamer.radio.co/sa1357f891/listen
+
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayazgidzayn.png", Libano Հայազգի Ձայն
+https://c7.radioboss.fm:18299/autodj
+
+
