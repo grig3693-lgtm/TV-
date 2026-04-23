@@ -354,6 +354,9 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_b5
 #EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
+#EXTINF:-1 tvg-id="ch1496" tvg-name="SONGRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SONGTVRU.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Russia
+https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ch1512" tvg-name="Armtoon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armtoon.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Armtoon TV 
 http://timeshift.arpinet.am/236/index.m3u8
 
