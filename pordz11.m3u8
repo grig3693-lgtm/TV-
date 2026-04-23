@@ -778,6 +778,9 @@ http://armsmart.nl:8080/freetvportal/freetvportal/1439.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/1440.m3u8
 
+#EXTINF:-1 tvg-id="ch3912" tvg-name="StartBasket" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StartBasket.png" catchup="append" catchup-days="7" catchup-source="", Старт Баскет
+https://vkvsd35.okcdn.ru/hls/10744437410483.m3u8/sig/on3ng4l5Wjc/srcIp/185.79.2.99/urls/45.136.21.42/expires/1777400788708/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/11321783495603/id/10744437410483/10744437410483_fullhd/index.m3u8
+
 #EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
 http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
 
