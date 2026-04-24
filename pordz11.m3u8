@@ -510,22 +510,22 @@ https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch1075" tvg-name="Շանթ Film" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ShantFilm.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Film 
 https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Սինեման
+#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Սինեման
 http://ncdn-y1-w6.teamcloud.am/live/eds/Cineman/SAF-HLS/Cineman-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${timestamp}", Տունտունիկ
+#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Տունտունիկ
 http://ncdn-y1-w6.teamcloud.am/live/eds/Tuntunik/SAF-HLS/Tuntunik-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Քոմեդի
 http://ncdn-y1-w6.teamcloud.am/live/eds/Comedy/SAF-HLS/Comedy-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="", Ջան TV
+#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Ջան TV
 http://ncdn-y1-w6.teamcloud.am/live/eds/JanTV/SAF-HLS/JanTV-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1474" tvg-name="Haykino2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haykino.png" catchup="append" catchup-days="7" catchup-source="", Հայ Կինո
+#EXTINF:-1 tvg-id="ch1474" tvg-name="Haykino2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haykino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Հայ Կինո
 http://ncdn-y1-w6.teamcloud.am/live/eds/HayKino/SAF-HLS/HayKino-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" catchup="default" catchup-days="7", Արմենիա Պրեմիում
+#EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" catchup="default" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Արմենիա Պրեմիում
 http://ncdn-y1-w6.teamcloud.am/live/eds/Premium1/SAF-HLS/Premium1-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1492" tvg-name="FastSports" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/007.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel1/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports
