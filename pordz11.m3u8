@@ -93,376 +93,373 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_TAVUSH_TVHD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch2254" tvg-name="Geghama" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/geghama.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Գեղամա TV
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_GEGHAMAHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussia" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png" catchup="default" catchup-days="5" catchup-source="http://cdn.dommir.top:9290/NTV_PERWI_HD_hi/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Первый Канал
+#EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussia" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png", Первый Канал
 http://cdn.dommir.top:9290/NTV_PERWI_HD_hi/index.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch" tvg-name="perviyinformation" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyinformation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Первый Информационный
+#EXTINF:-1 tvg-id="ch" tvg-name="perviyinformation" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyinformation.png", Первый Информационный
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w1291135637_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="perviyyaroslavski" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyyaroslavskihd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Первый Ярославский
+#EXTINF:-1 tvg-id="ch" tvg-name="perviyyaroslavski" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyyaroslavskihd.png", Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="12kanal" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/12kanal.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", 12 Канал
+#EXTINF:-1 tvg-id="ch" tvg-name="12kanal" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/12kanal.png", 12 Канал
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1
+#EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-id="ch7" tvg-name="rossiya24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24
+#EXTINF:-1 tvg-id="ch7" tvg-name="rossiya24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya24.png", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-id="ch102" tvg-name="rossiyak" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaК.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия К
+#EXTINF:-1 tvg-id="ch102" tvg-name="rossiyak" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaК.png", Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ch337" tvg-name="rossiyartr" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaRTR.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия РТР
+#EXTINF:-1 tvg-id="ch337" tvg-name="rossiyartr" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaRTR.png", Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363?.m3u8
 
-#EXTINF:-1 tvg-id="ch118" tvg-name="vremya" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vremya.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Время
+#EXTINF:-1 tvg-id="ch118" tvg-name="vremya" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vremya.png", Время
 http://cdn.dommir.top:9290/NTV_Vremja/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch729" tvg-name="mir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png" catchup="append" catchup-days="3" catchup-source="", Мир
+#EXTINF:-1 tvg-id="ch729" tvg-name="mir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png", Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png" catchup="append" catchup-days="3" catchup-source="", Мир 24
+#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png", Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch636" tvg-name="mirseriala" group-title="Ռուսական", "Ֆիլմեր և սերիալներ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MirSeriala.png" catchup="append" catchup-days="3" catchup-source="", Мир Сериала
+#EXTINF:-1 tvg-id="ch636" tvg-name="mirseriala" group-title="Ռուսական", "Ֆիլմեր և սերիալներ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MirSeriala.png", Мир Сериала
 http://cdn.dommir.top:9290/Mir_Seriala/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3" tvg-name="ntv" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTV.png" catchup="append" catchup-days="3" catchup-source="", НТВ
+#EXTINF:-1 tvg-id="ch3" tvg-name="ntv" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTV.png", НТВ
 https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch392" tvg-name="ntvmir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVMir.png" catchup="append" catchup-days="3" catchup-source="", НТВ Мир
+#EXTINF:-1 tvg-id="ch392" tvg-name="ntvmir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVMir.png", НТВ Мир
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/47
 
-#EXTINF:-1 tvg-id="ch620" tvg-name="ntvserial" group-title="Ռուսական", "Ֆիլմեր և սերիալներ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVSerial.png" catchup="append" catchup-days="3" catchup-source="", НТВ Сериал
+#EXTINF:-1 tvg-id="ch620" tvg-name="ntvserial" group-title="Ռուսական", "Ֆիլմեր և սերիալներ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVSerial.png",  НТВ Сериал
 http://cdn.dommir.top:9290/NTV_Serial_RU/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch612" tvg-name="ntvpravo" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVPravo.png" catchup="append" catchup-days="3" catchup-source="", НТВ Право
+#EXTINF:-1 tvg-id="ch612" tvg-name="ntvpravo" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVPravo.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", НТВ Право
 http://ncdn-y1-w6.teamcloud.am/live/eds/NTV_Pravo/SAF-HLS/NTV_Pravo-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch568" tvg-name="ntvhit" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVHit.png" catchup="append" catchup-days="3" catchup-source="", НТВ Хит
 http://cdn.dommir.top:9290/NTV_CHIT/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch120" tvg-name="ntvstill" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVStill.png" catchup="append" catchup-days="3" catchup-source="", НТВ Стиль
+#EXTINF:-1 tvg-id="ch120" tvg-name="ntvstill" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVStill.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", НТВ Стиль
 http://ncdn-y1-w6.teamcloud.am/live/eds/NTV_Style/SAF-HLS/NTV_Style-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch5" tvg-name="tnt" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT.png" catchup="append" catchup-days="3" catchup-source="", ТНТ
+#EXTINF:-1 tvg-id="ch5" tvg-name="tnt" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT.png", ТНТ
 http://cdn.dommir.top:9290/TNT_HD_RU_NTV_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch14" tvg-name="tnt4" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT4.png" catchup="append" catchup-days="3" catchup-source="", ТНТ4
+#EXTINF:-1 tvg-id="ch14" tvg-name="tnt4" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT4.png", ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="ch716" tvg-name="tntmusic" group-title="Ռուսական", "Երաժշտական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTMusic.png" catchup="append" catchup-days="3" catchup-source="", FON Music
+#EXTINF:-1 tvg-id="ch716" tvg-name="tntmusic" group-title="Ռուսական", "Երաժշտական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTMusic.png", FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch716" tvg-name="tntinternational" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTInternational.png" catchup="append" catchup-days="3" catchup-source="", TNT International
-https://stream.telecomtv101.workers.dev/c/ch0029
-
-#EXTINF:-1 tvg-id="ch21" tvg-name="sts" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STS.png" catchup="append" catchup-days="3" catchup-source="", СТС
+#EXTINF:-1 tvg-id="ch21" tvg-name="sts" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STS.png", СТС
 http://193.25.8.59:8000/ESPN
 
-#EXTINF:-1 tvg-id="ch483" tvg-name="stskids" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="append" catchup-days="3" catchup-source="", СТС Kids
+#EXTINF:-1 tvg-id="ch483" tvg-name="stskids" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png", СТС Kids
 http://cdn.dommir.top:9290/Disney/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="append" catchup-days="3" catchup-source="", СТС Love
+#EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png", СТС Love
 https://mhd128.iptv2022.com/p/MjJkB0gGhJNdRwa8P8TROA,1776106249/streaming/stsloveott/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="ch414" tvg-name="subbota" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png" catchup="append" catchup-days="3" catchup-source="", Суббота!
+#EXTINF:-1 tvg-id="ch414" tvg-name="subbota" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
-#EXTINF:-1 tvg-id="ch45" tvg-name="Mult" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MultHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Мульт 
+#EXTINF:-1 tvg-id="ch45" tvg-name="Mult" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MultHD.png", Мульт 
 http://cdn.dommir.top:9290/Mult_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch076" tvg-name="2x2" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/2x2.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", 2x2
+#EXTINF:-1 tvg-id="ch076" tvg-name="2x2" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/2x2.png", 2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=H3Et_Dfu7ZSa1VEYkyY0XQ&e=2069285050&scheme=https
 
-#EXTINF:-1 tvg-id="ch23" tvg-name="zvezda" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezda.png" catchup="append" catchup-days="3" catchup-source="", Звезда
+#EXTINF:-1 tvg-id="ch23" tvg-name="zvezda" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezda.png", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="ch724" tvg-name="zvezdaplus" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezdaplus.png" catchup="append" catchup-days="3" catchup-source="", Звезда Плюс
+#EXTINF:-1 tvg-id="ch724" tvg-name="zvezdaplus" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezdaplus.png", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png" catchup="append" catchup-days="3" catchup-source="", РБК
+#EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png", РБК
 https://live-gccdn.rbc.ru/gcore/rbctvhd_1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch24" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TV3.png" catchup="append" catchup-days="3" catchup-source="", TV3
+#EXTINF:-1 tvg-id="ch24" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TV3.png", TV3
 http://cdn.dommir.top:9290/TV3/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png" catchup="append" catchup-days="7" catchup-source="", Рен ТВ
+#EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png", Рен ТВ
 http://cdn.dommir.top:9290/Ren_TV_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png" catchup="append" catchup-days="7" catchup-source="", Домашний
+#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png", Домашний
 http://cdn.dommir.top:9290/Domashniy_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch434" tvg-name="IDXtra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ID.png" catchup="append" catchup-days="7" catchup-source="", Investigation Discovery
+#EXTINF:-1 tvg-id="ch434" tvg-name="IDXtra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ID.png", Investigation Discovery
 http://cdn.dommir.top:9290/NTV_ID_Xtra_HD_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch66" tvg-name="Pobeda" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/pobeda.png" catchup="append" catchup-days="7" catchup-source="", Победа
+#EXTINF:-1 tvg-id="ch66" tvg-name="Pobeda" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/pobeda.png", Победа
 http://cdn.dommir.top:9290/POBEDA_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch131" tvg-name="nashe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nashe.png" catchup="append" catchup-days="7" catchup-source="", Наше
+#EXTINF:-1 tvg-id="ch131" tvg-name="nashe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nashe.png", Наше
 http://cdn.dommir.top:9290/NasheKrutoje_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch533" tvg-name="bolshoeaziya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Bolshoeaziya.png" catchup="append" catchup-days="7" catchup-source="", Большая Азия
+#EXTINF:-1 tvg-id="ch533" tvg-name="bolshoeaziya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Bolshoeaziya.png", Большая Азия
 http://cdn.dommir.top:9290/b_asia/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch518" tvg-name="soyuz" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Soyuz.png" catchup="append" catchup-days="7" catchup-source="", Союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="muzsoyuz" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/muzsoyuz.png" catchup="append" catchup-days="7" catchup-source="", МузСоюз
+#EXTINF:-1 tvg-id="ch" tvg-name="muzsoyuz" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/muzsoyuz.png", МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch452" tvg-name="zhiayapriroda" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zhivayapriroda.png" catchup="append" catchup-days="7" catchup-source="", Живая Природа
+#EXTINF:-1 tvg-id="ch452" tvg-name="zhiayapriroda" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zhivayapriroda.png", Живая Природа
 http://cdn.dommir.top:9290/Givaya_Priroda_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch715" tvg-name="europaplus" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Europa Plus.png" catchup="append" catchup-days="7" catchup-source="", Европа Плюс ТВ
+#EXTINF:-1 tvg-id="ch715" tvg-name="europaplus" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Europa Plus.png", Европа Плюс ТВ
 http://cdn.dommir.top:9290/Ewropaplustv/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch098" tvg-name="romantichnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Romantichnoe.png" catchup="append" catchup-days="7" catchup-source="", Романтичное
+#EXTINF:-1 tvg-id="ch098" tvg-name="romantichnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Romantichnoe.png", Романтичное
 http://cdn.dommir.top:9290/TRI_ROMANTICHNOE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch638" tvg-name="kfantastika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kapitanfantastika.png" catchup="append" catchup-days="7" catchup-source="", Капитан Фантастика
+#EXTINF:-1 tvg-id="ch638" tvg-name="kfantastika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kapitanfantastika.png", Капитан Фантастика
 http://cdn.dommir.top:9290/Kapitan_Fantastika/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch514" tvg-name="bolt" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BOLT.png" catchup="append" catchup-days="7" catchup-source="", Bolt
+#EXTINF:-1 tvg-id="ch514" tvg-name="bolt" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BOLT.png", Bolt
 http://cdn.dommir.top:9290/BOLT_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch529" tvg-name="zhara" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zhara.png" catchup="append" catchup-days="7" catchup-source="", Жара
+#EXTINF:-1 tvg-id="ch529" tvg-name="zhara" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zhara.png", Жара
 http://cdn.dommir.top:9290/Zhara_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch630" tvg-name="telekafe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Telekafe.png" catchup="append" catchup-days="7" catchup-source="", Телекафе
+#EXTINF:-1 tvg-id="ch630" tvg-name="telekafe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Telekafe.png", Телекафе
 http://cdn.dommir.top:9290/Telekafe_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch025" tvg-name="pyatnica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Pyatnica.png" catchup="append" catchup-days="7" catchup-source="", Пятница!
+#EXTINF:-1 tvg-id="ch025" tvg-name="pyatnica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Pyatnica.png", Пятница!
 http://cdn.dommir.top:9290/Pyatniza_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch140" tvg-name="dushevnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Dyshevnoe.png" catchup="append" catchup-days="7" catchup-source="", Душевное
+#EXTINF:-1 tvg-id="ch140" tvg-name="dushevnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Dyshevnoe.png", Душевное
 http://cdn.dommir.top:9290/Nash_Kinoroman_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch085" tvg-name="oxotnikiribalkov" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/oxotnikiribolov.png" catchup="append" catchup-days="7" catchup-source="", Охотник и Рыболов
+#EXTINF:-1 tvg-id="ch085" tvg-name="oxotnikiribalkov" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/oxotnikiribolov.png", Охотник и Рыболов
 http://cdn.dommir.top:9290/Ohotnik_i_rybalov/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch555" tvg-name="russianmusicbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RussianMusicBox.png" catchup="append" catchup-days="7" catchup-source="", Russian Music Box
+#EXTINF:-1 tvg-id="ch555" tvg-name="russianmusicbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RussianMusicBox.png", Russian Music Box
 http://cdn.dommir.top:9290/Russian_Music_Box_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch037" tvg-name="boks" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Boks.png" catchup="append" catchup-days="7" catchup-source="", Бокс
+#EXTINF:-1 tvg-id="ch037" tvg-name="boks" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Boks.png", Бокс
 http://cdn.dommir.top:9290/BOX_TV_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch084" tvg-name="Premialnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Premialnoe.png" catchup="append" catchup-days="7" catchup-source="", Премиальное
+#EXTINF:-1 tvg-id="ch084" tvg-name="Premialnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Premialnoe.png", Премиальное
 http://cdn.dommir.top:9290/TRI_PREMIALJNOJE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch689" tvg-name="Blokbuster" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Blokbuster.png" catchup="append" catchup-days="7" catchup-source="", Блокбастер
+#EXTINF:-1 tvg-id="ch689" tvg-name="Blokbuster" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Blokbuster.png", Блокбастер
 http://cdn.dommir.top:9290/TRI_BLOKBASTER_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch557" tvg-name="StarCinema" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarCinema.png" catchup="append" catchup-days="7" catchup-source="", Star Cinema
+#EXTINF:-1 tvg-id="ch557" tvg-name="StarCinema" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarCinema.png", Star Cinema
 http://cdn.dommir.top:9290/STAR_CINEMA_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3211" tvg-name="StarFamily" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarFamily.png" catchup="append" catchup-days="7" catchup-source="", Star Family
+#EXTINF:-1 tvg-id="ch3211" tvg-name="StarFamily" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarFamily.png", Star Family
 http://cdn.dommir.top:9290/STAR_FAMILY_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch" tvg-name="GNC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/GNC.png" catchup="append" catchup-days="7" catchup-source="", GNC
+#EXTINF:-1 tvg-id="ch" tvg-name="GNC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/GNC.png", GNC
 http://cdn.dommir.top:9290/GNC/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch119" tvg-name="Vgostaxuskazki" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vgostaxuskazki.png" catchup="append" catchup-days="7" catchup-source="", В Гостях у Сказки 
+#EXTINF:-1 tvg-id="ch119" tvg-name="Vgostaxuskazki" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vgostaxuskazki.png", В Гостях у Сказки 
 http://cdn.dommir.top:9290/wGostachUskaski/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch526" tvg-name="MMA" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MMATV.png" catchup="append" catchup-days="7" catchup-source="", MMA TV
+#EXTINF:-1 tvg-id="ch526" tvg-name="MMA" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MMATV.png", MMA TV
 http://cdn.dommir.top:9290/m1_global/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch134" tvg-name="shokirushie" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shokirushie.png" catchup="append" catchup-days="7" catchup-source="", Шокирующее
+#EXTINF:-1 tvg-id="ch134" tvg-name="shokirushie" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shokirushie.png", Шокирующее
 http://cdn.dommir.top:9290/TRI_SHOKIRUUSHEE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch468" tvg-name="strashnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/strashnoe.png" catchup="append" catchup-days="7" catchup-source="", Страшное
+#EXTINF:-1 tvg-id="ch468" tvg-name="strashnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/strashnoe.png", Страшное
 http://cdn.dommir.top:9290/Strashnoe_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch913" tvg-name="kino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinoTV.png" catchup="append" catchup-days="7" catchup-source="", Кино ТВ
+#EXTINF:-1 tvg-id="ch913" tvg-name="kino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinoTV.png", Кино ТВ
 http://cdn.dommir.top:9290/Kino_TV_RU_HD_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch" tvg-name="kronehit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kronehit.png" catchup="append" catchup-days="7" catchup-source="", Кронехит
+#EXTINF:-1 tvg-id="ch" tvg-name="kronehit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kronehit.png", Кронехит
 http://cdn.dommir.top:9290/Kronehit_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch516" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/360HD.png" catchup="append" catchup-days="7" catchup-source="", 360 HD 
+#EXTINF:-1 tvg-id="ch516" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/360HD.png", 360 HD 
 http://cdn.dommir.top:9290/360/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch034" tvg-name="KHL" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHL.png" catchup="append" catchup-days="7" catchup-source="", КХЛ
+#EXTINF:-1 tvg-id="ch034" tvg-name="KHL" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHL.png", КХЛ
 http://cdn.dommir.top:9290/KHL_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch138" tvg-name="KHLprime" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHLPrime.png" catchup="append" catchup-days="7" catchup-source="", КХЛ Прайм
+#EXTINF:-1 tvg-id="ch138" tvg-name="KHLprime" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHLPrime.png", КХЛ Прайм
 http://cdn.dommir.top:9290/KHL_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch100" tvg-name="RTVi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RTVi.png" catchup="append" catchup-days="7" catchup-source="", RTVi
+#EXTINF:-1 tvg-id="ch100" tvg-name="RTVi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RTVi.png", RTVi
 http://cdn.dommir.top:9290/RTVi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch463" tvg-name="Lyubimoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Lyubimoekino.png" catchup="append" catchup-days="7" catchup-source="", Любимое Кино
+#EXTINF:-1 tvg-id="ch463" tvg-name="Lyubimoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Lyubimoekino.png", Любимое Кино
 http://cdn.dommir.top:9290/TRI_LUBIMOE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch432" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/History.png" catchup="append" catchup-days="7" catchup-source="", History
+#EXTINF:-1 tvg-id="ch432" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/History.png", History
 http://cdn.dommir.top:9290/History_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch464" tvg-name="scifi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/scifi.png" catchup="append" catchup-days="7" catchup-source="", Sci-Fi 
+#EXTINF:-1 tvg-id="ch464" tvg-name="scifi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/scifi.png", Sci-Fi 
 http://cdn.dommir.top:9290/Sony_Sci-Fi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3811" tvg-name="RUTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RUTV.png" catchup="append" catchup-days="7" catchup-source="", RU TV
+#EXTINF:-1 tvg-id="ch3811" tvg-name="RUTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RUTV.png", RU TV
 http://cdn.dommir.top:9290/RU_TV_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyHD.png" catchup="append" catchup-days="7" catchup-source="", Первый Музыкальный
+#EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyHD.png", Первый Музыкальный
 http://cdn.dommir.top:9290/RU:perwimuzrosia/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyBYHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyBYHD.png" catchup="append" catchup-days="7" catchup-source="", Первый Музыкальный BY
+#EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyBYHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyBYHD.png", Первый Музыкальный BY
 http://cdn.dommir.top:9290/Pervyiy_Muzyikalnyiy_1_By/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch2079" tvg-name="Kineko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kineko.png" catchup="append" catchup-days="7" catchup-source="", Кинеко
+#EXTINF:-1 tvg-id="ch2079" tvg-name="Kineko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kineko.png", Кинеко
 http://cdn.dommir.top:9290/Kineko_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch509" tvg-name="Izvestiya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Izvestiya.png" catchup="append" catchup-days="7" catchup-source="", Известия
+#EXTINF:-1 tvg-id="ch509" tvg-name="Izvestiya" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Izvestiya.png", Известия
 https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="ugra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ugra.png" catchup="append" catchup-days="7" catchup-source="", Югра
+#EXTINF:-1 tvg-id="ch" tvg-name="ugra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ugra.png", Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch562" tvg-name="belarus1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus1.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 1
+#EXTINF:-1 tvg-id="ch562" tvg-name="belarus1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus1.png", Беларусь 1
 http://46.53.208.4/live/8000-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch564" tvg-name="belarus2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus2.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 2
+#EXTINF:-1 tvg-id="ch564" tvg-name="belarus2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus2.png", Беларусь 2
 http://46.53.208.4/live/8008-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch565" tvg-name="belarus3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus3.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 3
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus3.png", Беларусь 3
 http://46.53.208.4/live/8-req_offset_28000000-req_window_0-5k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4brest" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4brest.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Брест
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4brest" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4brest.png", Беларусь 4 Брест
 http://46.53.208.4/live/2013-req_offset_28000000-req_window_0-3k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4gomel" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4gomel.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Гомель
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4gomel" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4gomel.png", Беларусь 4 Гомель
 http://46.53.208.4/live/2011-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4mogilev" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4mogilev.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Могилев
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4mogilev" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4mogilev.png", Беларусь 4 Могилев
 http://46.53.208.4/live/2097-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4vitebsk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4vitebsk.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 4 Витебск
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus4vitebsk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/belarus4vitebsk.png", Беларусь 4 Витебск
 http://46.53.208.4/live/2012-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch565" tvg-name="belarus5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus5.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 5
+#EXTINF:-1 tvg-id="ch565" tvg-name="belarus5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus5.png", Беларусь 5
 http://46.53.208.4/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch583" tvg-name="belarus24" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus24.png" catchup="append" catchup-days="7" catchup-source="", Беларусь 24
+#EXTINF:-1 tvg-id="ch583" tvg-name="belarus24" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus24.png", Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Armenia
+#EXTINF:-1 tvg-id="ch1496" tvg-name="SONGArm" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/songtvarmenia.png", Song TV Armenia
 https://a3285276096-s70378.cdn.ngenix.net/mtv_am/4/index.m3u8
 
-#EXTINF:-1 tvg-id="ch1496" tvg-name="SONGRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SONGTVRU.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Song TV Russia
+#EXTINF:-1 tvg-id="ch1496" tvg-name="SONGRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SONGTVRU.png", Song TV Russia
 https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1512" tvg-name="Armtoon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armtoon.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Armtoon TV 
+#EXTINF:-1 tvg-id="ch1512" tvg-name="Armtoon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armtoon.png", Armtoon TV 
 http://timeshift.arpinet.am/236/index.m3u8
 
-#EXTINF:-1 tvg-id="ch2408" tvg-name="Syunik" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/syuniktv.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Սյունիք TV
+#EXTINF:-1 tvg-id="ch2408" tvg-name="Syunik" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/syuniktv.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Սյունիք TV
 http://ncdn-y1-w6.teamcloud.am/live/eds/ZangezurTV/SAF-HLS/ZangezurTV-avc1_2000000=10002-mp4a_140800_eng=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1506" tvg-name="USArmenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/usarmenia.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", USArmenia TV
+#EXTINF:-1 tvg-id="ch1506" tvg-name="USArmenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/usarmenia.png", USArmenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 
-#EXTINF:-1 tvg-id="ch1505" tvg-name="ARTN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/artn.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", ARTN TV
+#EXTINF:-1 tvg-id="ch1505" tvg-name="ARTN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/artn.png", ARTN TV
 https://us1.ottstream.live:17071/C294/tracks-v1a1/mono.m3u8?token=jUVIvRG1l$w8P2wX
 
-#EXTINF:-1 tvg-id="ch1504" tvg-name="Panarmenian" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/panarmenian.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Panarmenian TV
+#EXTINF:-1 tvg-id="ch1504" tvg-name="Panarmenian" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/panarmenian.png", Panarmenian TV
 https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 
-#EXTINF:-1 tvg-id="ch1086" tvg-name="Arajinarbanyak" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="default" catchup-days="7" catchup-source="https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/index-${start}-${offset}.m3u8", Առաջինի ալիք միջազգային
+#EXTINF:-1 tvg-id="ch1086" tvg-name="Arajinarbanyak" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="default" catchup-days="1" catchup-source="https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/index-${start}-${offset}.m3u8", Առաջինի ալիք միջազգային
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch2068" tvg-name="Arajinamerika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinamerika.png" catchup="default" catchup-days="7" catchup-source="https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/index-${start}-${offset}.ts.m3u8", Առաջինի ալիք Ամերիկա
+#EXTINF:-1 tvg-id="ch2068" tvg-name="Arajinamerika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinamerika.png" catchup="default" catchup-days="1" catchup-source="https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/index-${start}-${offset}.ts.m3u8", Առաջինի ալիք Ամերիկա
 https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1489" tvg-name="HighVision" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shanthighvision.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Շանթ HIGH VISION 
+#EXTINF:-1 tvg-id="ch1489" tvg-name="HighVision" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shanthighvision.png", Շանթ HIGH VISION 
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1081" tvg-name="AABC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/aabc.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", AABC 
+#EXTINF:-1 tvg-id="ch1081" tvg-name="AABC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/aabc.png", AABC 
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 
-#EXTINF:-1 tvg-id="ch1523" tvg-name="Amga" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amga.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", AMGA TV
+#EXTINF:-1 tvg-id="ch1523" tvg-name="Amga" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amga.png", AMGA TV
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1523" tvg-name="Velary" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/velary.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Velary
+#EXTINF:-1 tvg-id="ch1523" tvg-name="Velary" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/velary.png", Velary
 http://timeshift.arpinet.am/233/index.m3u8
 
-#EXTINF:-1 tvg-id="ch1518" tvg-name="Armount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armount.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", ARMOUNT TV
+#EXTINF:-1 tvg-id="ch1518" tvg-name="Armount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armount.png", ARMOUNT TV
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 
 #EXTINF:-1 tvg-id="ch1522" tvg-name="NoyyanTapan" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/noyyan.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Նոյյան Տապան
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_NOYAN_TAPANHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch1525" tvg-name="TBN Armenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tbnarmenian.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", TBN Armenia
+#EXTINF:-1 tvg-id="ch1525" tvg-name="TBN Armenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tbnarmenian.png", TBN Armenia
 https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nickelodeonbac.svg.png" catchup="append" catchup-days="7" catchup-source="", Nickelodeon USA
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nickelodeonbac.svg.png", Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CartoonNetwrk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/CartoonNetwrokHD.png" catchup="append" catchup-days="7" catchup-source="", Cartoon Network USA
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CartoonNetwrk" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/CartoonNetwrokHD.png", Cartoon Network USA
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Discovery.png" catchup="append" catchup-days="7" catchup-source="", Discovery USA
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Discovery.png", Discovery USA
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO.png" catchup="append" catchup-days="7" catchup-source="", HBO USA
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO.png", HBO USA
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO2.us.png" catchup="append" catchup-days="7" catchup-source="", HBO 2 USA
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO2.us.png", HBO 2 USA
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBOZone" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBOZoneus.png" catchup="append" catchup-days="7" catchup-source="", HBO Zone USA
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBOZone" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBOZoneus.png", HBO Zone USA
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBOComedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBOComedy.png" catchup="append" catchup-days="7" catchup-source="", HBO Comedy USA
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBOComedy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBOComedy.png", HBO Comedy USA
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ParamountNetwork.png" catchup="append" catchup-days="7" catchup-source="", Paramount Network USA
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ParamountNetwork.png", Paramount Network USA
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animalplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AnimalPlanetHD.png" catchup="append" catchup-days="7" catchup-source="", Animal Planet USA
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animalplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AnimalPlanetHD.png", Animal Planet USA
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NatGeo.png" catchup="append" catchup-days="7" catchup-source="", National Geographic USA
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NatGeo.png", National Geographic USA
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeoWild" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NatGeoWildus.png" catchup="append" catchup-days="7" catchup-source="", National Geographic Wild USA
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeoWild" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NatGeoWildus.png", National Geographic Wild USA
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBCNews" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BBCNewsus.png" catchup="append" catchup-days="7" catchup-source="", BBC News USA
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBCNews" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BBCNewsus.png", BBC News USA
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBCAmerica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BBCAmerica.png" catchup="append" catchup-days="7" catchup-source="", BBC America USA
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBCAmerica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BBCAmerica.png", BBC America USA
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Bloombergus.png" catchup="append" catchup-days="7" catchup-source="", Bloomberg USA
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Bloombergus.png", Bloomberg USA
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Boomerangus.png" catchup="append" catchup-days="7" catchup-source="", Boomerang USA
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Boomerangus.png", Boomerang USA
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DisneyXD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DisneyXD.png" catchup="append" catchup-days="7" catchup-source="", Disney XD USA
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DisneyXD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DisneyXD.png", Disney XD USA
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DisneyJr" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DisneyJunior.png" catchup="append" catchup-days="7" catchup-source="", Disney Jr USA
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DisneyJr" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DisneyJunior.png", Disney Jr USA
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NBA.png" catchup="append" catchup-days="7" catchup-source="", NBA USA
+#EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NBA.png", NBA USA
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTV.png" catchup="append" catchup-days="7" catchup-source="", MTV USA
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTV.png", MTV USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTVLive.png" catchup="append" catchup-days="7" catchup-source="", MTV Live USA
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTVLive.png", MTV Live USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Nickelodeon Russia
+#EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png", Nickelodeon Russia
 http://cdn.dommir.top:9290/Nickelodeon_HD_hi/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch1520" tvg-name="Fresham" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Fresh.png" catchup="append" catchup-days="3" catchup-source="", Fresh
+#EXTINF:-1 tvg-id="ch1520" tvg-name="Fresham" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Fresh.png", Fresh
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -547,7 +544,7 @@ http://armsmart.nl:8080/freetvportal/freetvportal/175.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/162.m3u8
 
-#EXTINF:-1 tvg-id="ch471" tvg-name="Matchstrana" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Matchstrana.png" catchup="append" catchup-days="7" catchup-source="", Матч! Страна
+#EXTINF:-1 tvg-id="ch471" tvg-name="Matchstrana" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Matchstrana.png", Матч! Страна
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -583,37 +580,37 @@ http://cdn.dommir.top:9290/Match_Arena_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNL
 #EXTINF:-1 tvg-id="ch3303" tvg-name="Match Igra HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/igra.png", Матч! Игра
 http://cdn.dommir.top:9290/Match_Igra_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png" catchup="append" catchup-days="7", Setanta Sport 1
+#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png", Setanta Sport 1
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/7461.m3u8
 
-#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png" catchup="append" catchup-days="7", Setanta Sport 2
+#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png", Setanta Sport 2
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/1515.m3u8
 
-#EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png" catchup="append" catchup-days="7", Окко Спорт
+#EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png", Окко Спорт
 http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png" catchup="append" catchup-days="7", Окко Прайм Спорт
+#EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png", Окко Прайм Спорт
 http://cdn.dommir.top:9290/okko_sport_2/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png" catchup="append" catchup-days="7",  catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Окко Футбол
+#EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png"
 http://cdn.dommir.top:9290/okko_football/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3911" tvg-name="Okkochempionat" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoefirHD.png" catchup="append" catchup-days="7",  catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Окко Чемпионат
+#EXTINF:-1 tvg-id="ch3911" tvg-name="Okkochempionat" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoefirHD.png", Окко Чемпионат
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
 
-#EXTINF:-1 tvg-id="ch39" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport1.png" catchup="append" catchup-days="7", Eurosport 1
+#EXTINF:-1 tvg-id="ch39" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport1.png", Eurosport 1
 http://cdn.dommir.top:9290/Eurosport_1_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch71" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="append" catchup-days="7", Eurosport 2
+#EXTINF:-1 tvg-id="ch71" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png", Eurosport 2
 http://cdn.dommir.top:9290/Eurosport_2_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3914" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png" catchup="append" catchup-days="7" catchup-source="http://cdn.dommir.top:9290/okko_football/index-${start}-${offset}.m3u8?token=njQ2UNLc50", Окко TV
+#EXTINF:-1 tvg-id="ch3914" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png", Окко TV
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -643,13 +640,13 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_EXPLORERS_HD/video_1920x108
 #EXTINF:-1 tvg-id="ch525" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/hollywood.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Hollywood HD
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_HOLLYWOODHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch421" tvg-name="Amedia1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Amedia1HD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia 1
+#EXTINF:-1 tvg-id="ch421" tvg-name="Amedia1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Amedia1HD.png", Amedia 1
 http://cdn.dommir.top:9290/Amedia_1_HD_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch515" tvg-name="Amedia2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Amedia2HD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia 2
+#EXTINF:-1 tvg-id="ch515" tvg-name="Amedia2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Amedia2HD.png", Amedia 2
 http://cdn.dommir.top:9290/Amedia_2_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch32" tvg-name="Amediahit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AmediaHitHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Hit
+#EXTINF:-1 tvg-id="ch32" tvg-name="Amediahit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AmediaHitHD.png", Amedia Hit
 http://cdn.dommir.top:9290/AMEDIA_HIT_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch65" tvg-name="Amediapremium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AmediaPremiumFHD.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Amedia Premium HD
@@ -721,19 +718,19 @@ http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-av
 #EXTINF:-1 tvg-id="ch116" tvg-name="Rodnoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rodnoekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Родное Кино
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000
+#EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png", Viju TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=YT2HSTRgxnZwqMAhrnH5HA&e=1777721327&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Русское
+#EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Viju TV1000 Русское
 http://cdn.dommir.top:9290/TV1000_Russkoe_kino_RU/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Action
+#EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png", Viju TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=u8WD5c2HxftgZza9F3w-Qg&e=1777721427&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Новелла
+#EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png", Viju TV1000 Новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=H1CsTQLx6XG3IckloKJtmA&e=1777721525&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch3074" tvg-name="TV1000Romantica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijutv1000romanica.png" catchup="append" catchup-days="7" catchup-source="", Viju TV1000 Romantica
+#EXTINF:-1 tvg-id="ch3074" tvg-name="TV1000Romantica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijutv1000romanica.png", Viju TV1000 Romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=s0A64VRAYWdJoi9FX524-Q&e=1777721619&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch60" tvg-name="Vijupremiere" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijupremiere.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Premiere
@@ -748,22 +745,22 @@ https://a3285272783-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch701" tvg-name="Vijuserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuserial.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Serial
 https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png" catchup="append" catchup-days="7" catchup-source="", Viju History
+#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png", Viju History
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_Russia_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=16xLMSmeLfQ-CbSs_rH0wA&e=1777721723&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="append" catchup-days="7" catchup-source="", Viju Explore
+#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png", Viju Explore
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=5jeosgQ6KtCD7dEdEvveHA&e=1777721807&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png" catchup="append" catchup-days="7" catchup-source="", Viju Nature
+#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png", Viju Nature
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=V4FGaJr7GKH4lH8NkKrh6g&e=1777721902&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanethd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
 https://a3285276096-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png" catchup="append" catchup-days="7" catchup-source="", Da Vinci
+#EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png", Da Vinci
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=GLXGq6s24mO7gdN3-6a6Lw&e=1777721994&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="7" catchup-source="", viju+  Sport
+#EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png", viju+  Sport
 http://cdn.kubteltv.workers.dev/?ID=265
 
 #EXTINF:-1 tvg-id="ch662" tvg-name="Start" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Start.png", Старт HD
@@ -778,13 +775,13 @@ http://armsmart.nl:8080/freetvportal/freetvportal/1439.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/1440.m3u8
 
-#EXTINF:-1 tvg-id="ch3912" tvg-name="StartBasket" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StartBasket.png" catchup="append" catchup-days="7" catchup-source="", Старт Баскет
+#EXTINF:-1 tvg-id="ch3912" tvg-name="StartBasket" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StartBasket.png", Старт Баскет
 https://vkvsd35.okcdn.ru/hls/10744437410483.m3u8/sig/on3ng4l5Wjc/srcIp/185.79.2.99/urls/45.136.21.42/expires/1777400788708/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/11321783495603/id/10744437410483/10744437410483_fullhd/index.m3u8
 
-#EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png" catchup="append" catchup-days="7" catchup-source="", Start Air
+#EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png", Start Air
 http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png" catchup="append" catchup-days="7" catchup-source="", Start World
+#EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png", Start World
 http://46.53.208.4/live/9011-req_offset_28000000-req_window_0-4k_v5.m3u8
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
