@@ -160,13 +160,13 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=AS
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch21" tvg-name="sts" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STS.png", СТС
-http://193.25.8.59:8000/ESPN
+http://tv.woobl.ru/sts_hd/tracks-v1a1/mono.ts.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch483" tvg-name="stskids" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png", СТС Kids
 http://cdn.dommir.top:9290/Disney/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png", СТС Love
-https://mhd128.iptv2022.com/p/MjJkB0gGhJNdRwa8P8TROA,1776106249/streaming/stsloveott/324/1/index.m3u8
+http://tv.woobl.ru/sts_love/video.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
@@ -303,8 +303,14 @@ http://cdn.dommir.top:9290/History_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch433" tvg-name="History2" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HISTORY2.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", History 2
 http://ncdn-y1-w6.teamcloud.am/live/eds/History_2_HD/SAF-HLS/History_2_HD-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
-#EXTINF:-1 tvg-id="ch464" tvg-name="scifi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/scifi.png", Sci-Fi 
-http://cdn.dommir.top:9290/Sony_Sci-Fi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch070" tvg-name="red" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/red.png", .Red 
+http://tv.woobl.ru/red_hd/tracks-v1a1a2/mono.ts.m3u8?token=test3445
+
+#EXTINF:-1 tvg-id="ch465" tvg-name="black" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/black.png", .Black 
+http://tv.woobl.ru/black_hd/tracks-v1a1a2/mono.ts.m3u8?token=test3445
+
+#EXTINF:-1 tvg-id="ch464" tvg-name="scifi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/scifi.png", .Sci-Fi 
+http://tv.woobl.ru/sci_fi_hd/tracks-v1a1a2/mono.ts.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch3811" tvg-name="RUTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RUTV.png", RU TV
 http://cdn.dommir.top:9290/RU_TV_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
@@ -326,6 +332,12 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ch022" tvg-name="tvc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tvc.png", ТВЦ 
 http://tv.woobl.ru/tvc_hd/tracks-v1a1/mono.ts.m3u8?token=test3445
+
+#EXTINF:-1 tvg-id="ch2711" tvg-name="5kanal" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/5kanal.png", 5 канал 
+http://tv.woobl.ru/5_kanal_hd/tracks-v1a1/mono.ts.m3u8?token=test3445
+
+#EXTINF:-1 tvg-id="ch040" tvg-name="karusel" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/karusel.png", Карусель  
+http://tv.woobl.ru/karusel_hd/tracks-v1a1/mono.ts.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch562" tvg-name="belarus1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus1.png", Беларусь 1
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
