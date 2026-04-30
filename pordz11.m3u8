@@ -324,8 +324,8 @@ https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ch" tvg-name="ugra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ugra.png", Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="tvc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ugra.png", Югра
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ch022" tvg-name="tvc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tvc.png", ТВЦ 
+http://tv.woobl.ru/tvc_hd/tracks-v1a1/mono.ts.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch562" tvg-name="belarus1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Belarus1.png", Беларусь 1
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
