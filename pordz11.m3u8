@@ -324,6 +324,9 @@ http://cdn.dommir.top:9290/RU:perwimuzrosia/tracks-v1a1/mono.m3u8?token=njQ2UNLc
 #EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyBYHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyBYHD.png", Первый Музыкальный BY
 http://cdn.dommir.top:9290/Pervyiy_Muzyikalnyiy_1_By/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
+#EXTINF:-1 tvg-id="ch" tvg-name="muz" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/muz.png", Муз ТВ
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=_a8c2y26VWypySynBn63ZA&e=2067776588&scheme=https
+
 #EXTINF:-1 tvg-id="ch2079" tvg-name="Kineko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kineko.png", Кинеко
 http://cdn.dommir.top:9290/Kineko_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
