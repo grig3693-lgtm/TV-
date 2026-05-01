@@ -96,9 +96,6 @@ https://a3285276096-s80718.cdn.ngenix.net/hls/CH_GEGHAMAHD/video_1920x1080_avc1/
 #EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussia" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png", Первый Канал
 http://cdn.dommir.top:9290/NTV_PERWI_HD_hi/index.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch328" tvg-name="1HDMusic" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1HDMusic.png", 1HD Music Television
-http://tv.woobl.ru/1hd/tracks-v1a1/mono.ts.m3u8?token=test3445
-
 #EXTINF:-1 tvg-id="ch" tvg-name="perviyinformation" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyinformation.png", Первый Информационный
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w1291135637_b5160000_sleng.m3u8
 
@@ -317,6 +314,9 @@ http://tv.woobl.ru/sci_fi_hd/tracks-v1a1a2/mono.ts.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch3811" tvg-name="RUTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RUTV.png", RU TV
 http://cdn.dommir.top:9290/RU_TV_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+
+#EXTINF:-1 tvg-id="ch328" tvg-name="1HDMusic" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1HDMusic.png", 1HD Music Television
+http://tv.woobl.ru/1hd/tracks-v1a1/mono.ts.m3u8?token=test3445
 
 #EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyHD.png", Первый Музыкальный
 http://cdn.dommir.top:9290/RU:perwimuzrosia/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
