@@ -607,11 +607,29 @@ http://cdn.dommir.top:9290/Match_Arena_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNL
 #EXTINF:-1 tvg-id="ch3303" tvg-name="Match Igra HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/igra.png", Матч! Игра
 http://cdn.dommir.top:9290/Match_Igra_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
+#EXTINF:-1 tvg-id="ch146" tvg-name="Setanta Sports HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports.png", Setanta Sports
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://armsmart.nl:8080/freetvportal/freetvportal/7461.m3u8
+
 #EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png", Setanta Sport 1
 https://stream8.cinerama.uz/1263/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png", Setanta Sport 2
 https://stream8.cinerama.uz/1264/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch333" tvg-name="Setanta Sports Plus HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSportsPlus.png", Setanta Sports Plus
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://armsmart.nl:8080/freetvportal/freetvportal/1516.m3u8
+
+#EXTINF:-1 tvg-id="ch2122" tvg-name="Setanta Sports Premium HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSportsPremium.png", Setanta Sports Premium
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://armsmart.nl:8080/freetvportal/freetvportal/1515.m3u8
 
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png", Окко Спорт
 http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
