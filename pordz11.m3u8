@@ -717,10 +717,7 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/pla
 #EXTINF:-1 tvg-id="ch3656" tvg-name="fastfunbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fastandfunbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast & FunBox
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FAST_AND_FUNBOX_HD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch80" tvg-name="redlips" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
-https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ch80" tvg-name="redlips" group-title="Adults" parental-code="1234" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips 18+
+#EXTINF:-1 tvg-id="ch80" tvg-name="redlips" group-title="Adults" parental-code="1234" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch80" tvg-name="temptation" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
