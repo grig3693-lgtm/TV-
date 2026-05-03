@@ -717,12 +717,6 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/pla
 #EXTINF:-1 tvg-id="ch3656" tvg-name="fastfunbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fastandfunbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast & FunBox
 https://a3285276096-s80718.cdn.ngenix.net/hls/CH_FAST_AND_FUNBOX_HD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch80" tvg-name="redlips" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
-https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ch80" tvg-name="temptation" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
-https://a3285276096-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ch54" tvg-name="Kinopremiyera" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinopremyeraHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Кинопремьера
 http://ncdn-y1-w2.teamcloud.am/live/eds/KinopremieraHD/SAF-HLS/KinopremieraHD-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
 
@@ -825,7 +819,13 @@ http://46.53.208.4/live/1804-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-id="ch495" tvg-name="StartWorld" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png", Start World
 http://46.53.208.4/live/9011-req_offset_28000000-req_window_0-4k_v5.m3u8
 
-#EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" parental-code="1234" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startworld.png", Brazzers TV Europe
+#EXTINF:-1 tvg-id="ch80" tvg-name="redlips" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/redlips.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Red Lips
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch80" tvg-name="temptation" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
+https://a3285276096-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BrazzersTVEurope.png", Brazzers TV Europe
 http://tv.woobl.ru/brazzers_tv_europe_hd/video.m3u8?token=test55555
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
