@@ -117,6 +117,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunkl
 #EXTINF:-1 tvg-id="ch337" tvg-name="rossiyartr" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaRTR.png", Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363?.m3u8
 
+#EXTINF:-1 tvg-id="ch" tvg-name="ural24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ural24.png", Урал 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ch118" tvg-name="vremya" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vremya.png", Время
 http://cdn.dommir.top:9290/NTV_Vremja/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
