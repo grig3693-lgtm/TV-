@@ -102,6 +102,9 @@ https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 #EXTINF:-1 tvg-id="ch" tvg-name="perviyyaroslavski" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyyaroslavskihd.png", Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ch" tvg-name="1med" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1medtv.png", 1MED TV
+https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ch" tvg-name="12kanal" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/12kanal.png", 12 Канал
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
