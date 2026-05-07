@@ -820,7 +820,7 @@ http://armsmart.nl:8080/freetvportal/freetvportal/1439.m3u8
 http://armsmart.nl:8080/freetvportal/freetvportal/1440.m3u8
 
 #EXTINF:-1 tvg-id="ch3912" tvg-name="StartBasket" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StartBasket.png", Старт Баскет
-https://vkvsd173.okcdn.ru/hls/10744437410483.m3u8/sig/PKsNOhx9NKU/srcIp/185.79.2.99/urls/45.136.22.87/expires/1778184349538/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/11321783495603/id/10744437410483/10744437410483_fullhd/index.m3u8?p
+https://vkvsd268.okcdn.ru/hls/10744437410483.m3u8/sig/saMMIDjsKtk/srcIp/185.79.2.99/urls/185.226.53.55/expires/1778601512888/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/11321783495603/id/10744437410483/10744437410483_fullhd/index.m3u8?p
 
 #EXTINF:-1 tvg-id="ch506" tvg-name="StartAir" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/startair.png", Start Air
 http://tv.woobl.ru/start_air_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
