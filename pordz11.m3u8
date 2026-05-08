@@ -93,7 +93,7 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_TAVUSH_TVHD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch2254" tvg-name="Geghama" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/geghama.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Գեղամա TV
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_GEGHAMAHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussia" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png" catchup="default" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH125/tracks-v1a1a2/index-${start}-${offset}.m3u8", Первый Канал
+#EXTINF:-1 tvg-id="ch2254" tvg-name="1tvrussia" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH125/tracks-v1a1a2/index-${start}-${duration}.m3u8", Первый Канал
 http://tmptv.sunduk.tv/CH125/index.m3u8
 
 #EXTINF:-1 tvg-id="ch" tvg-name="perviyinformation" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyinformation.png", Первый Информационный
@@ -399,10 +399,10 @@ https://us1.ottstream.live:17071/C294/tracks-v1a1/mono.m3u8?token=jUVIvRG1l$w8P2
 #EXTINF:-1 tvg-id="ch1504" tvg-name="Panarmenian" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/panarmenian.png", Panarmenian TV
 https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 
-#EXTINF:-1 tvg-id="ch1086" tvg-name="Arajinarbanyak" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="default" catchup-days="1" catchup-source="https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/index-${start}-${offset}.m3u8", Առաջինի ալիք միջազգային
+#EXTINF:-1 tvg-id="ch1086" tvg-name="Arajinarbanyak" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinaliqarbanyak.png" catchup="vod" catchup-days="1" catchup-source="https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/index-${start}-${duration}.m3u8", Առաջինի ալիք միջազգային
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch2068" tvg-name="Arajinamerika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinamerika.png" catchup="default" catchup-days="1" catchup-source="https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/index-${start}-${offset}.ts.m3u8", Առաջինի ալիք Ամերիկա
+#EXTINF:-1 tvg-id="ch2068" tvg-name="Arajinamerika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arajinamerika.png" catchup="vod" catchup-days="1" catchup-source="https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/index-${start}-${duration}.ts.m3u8", Առաջինի ալիք Ամերիկա
 https://amtv.tulixcdn.com/amtv4/am4abr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1489" tvg-name="HighVision" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/shanthighvision.png", Շանթ HIGH VISION 
