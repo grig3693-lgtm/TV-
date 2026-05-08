@@ -792,8 +792,8 @@ https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png", Viju History
 http://tv.woobl.ru/viju_history_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH125/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Explore 
-http://tv.woobl.ru/viju_explore_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1057/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Explore 
+http://tmptv.sunduk.tv/CH1057/index.m3u8
 
 #EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png", Viju Nature
 http://tv.woobl.ru/viju_nature_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
