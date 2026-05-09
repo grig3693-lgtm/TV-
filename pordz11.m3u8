@@ -645,11 +645,11 @@ http://armsmart.nl:8080/freetvportal/freetvportal/1516.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://armsmart.nl:8080/freetvportal/freetvportal/1515.m3u8
 
-#EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png", Окко Спорт
-http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH17078/tracks-v1a1/index-${start}-${duration}.m3u8", Окко Спорт
+http://tmptv.sunduk.tv/CH17078/index.m3u8
 
 #EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH17075/tracks-v1a1/index-${start}-${duration}.m3u8", Окко Прайм Спорт
-http://tmptv.sunduk.tv/CH17072/index.m3u8
+http://tmptv.sunduk.tv/CH17075/index.m3u8
 
 #EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH17072/tracks-v1a1/index-${start}-${duration}.m3u8", Окко Футбол
 http://tmptv.sunduk.tv/CH17072/index.m3u8
@@ -765,8 +765,8 @@ http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-av
 #EXTINF:-1 tvg-id="ch116" tvg-name="Rodnoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rodnoekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Родное Кино
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png", Viju TV1000
-http://tv.woobl.ru/viju_tv1000_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3869/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju TV1000
+http://tmptv.sunduk.tv/CH3869/index.m3u8
 
 #EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Viju TV1000 Русское
 http://cdn.dommir.top:9290/TV1000_Russkoe_kino_RU/playlist.m3u8?token=njQ2UNLc50
