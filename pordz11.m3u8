@@ -132,7 +132,7 @@ http://cdn.dommir.top:9290/NTV_Vremja/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch729" tvg-name="mir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png"  catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4543/tracks-v1a1/index-${start}-${duration}.m3u8", Мир
 http://tmptv.sunduk.tv/CH4543/index.m3u8
 
-#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4545/tracks-v1a1/index-${start}-${duration}.m3u8", Мир 24
+#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png", Мир 24
 http://tmptv.sunduk.tv/CH4545/index.m3u8
 
 #EXTINF:-1 tvg-id="ch636" tvg-name="mirseriala" group-title="Ռուսական", "Ֆիլմեր և սերիալներ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MirSeriala.png", Мир Сериала
@@ -174,13 +174,13 @@ http://tmptv.sunduk.tv/CH3789/index.m3u8
 #EXTINF:-1 tvg-id="ch483" tvg-name="stskids" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH729/tracks-v1a1/index-${start}-${duration}.m3u8", СТС Kids
 http://tmptv.sunduk.tv/CH729/index.m3u8
 
-#EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH729/tracks-v1a1/index-${start}-${duration}.m3u8", СТС Love
+#EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH441/tracks-v1a1/index-${start}-${duration}.m3u8", СТС Love
 http://tmptv.sunduk.tv/CH441/index.m3u8
 
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
-#EXTINF:-1 tvg-id="ch45" tvg-name="Mult" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MultHD.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3843/tracks-v1a1/index-${start}-${duration}.m3u8", Мульт 
+#EXTINF:-1 tvg-id="ch45" tvg-name="Mult" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MultHD.png", Мульт 
 http://tmptv.sunduk.tv/CH3843/index.m3u8
 
 #EXTINF:-1 tvg-id="ch076" tvg-name="2x2" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/2x2.png", 2x2
@@ -192,7 +192,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="ch724" tvg-name="zvezdaplus" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezdaplus.png", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4589/tracks-v1a1/index-${start}-${duration}.m3u8", РБК
+#EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png", РБК
 http://tmptv.sunduk.tv/CH4589/index.m3u8
 
 #EXTINF:-1 tvg-id="ch24" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TV3.png", TV3
@@ -201,7 +201,7 @@ http://cdn.dommir.top:9290/TV3/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4523/tracks-v1a1/index-${start}-${duration}.m3u8", Рен ТВ
 http://tmptv.sunduk.tv/CH4523/index.m3u8
 
-#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4547/tracks-v1a1/index-${start}-${duration}.m3u8", Домашний
+#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png", Домашний
 http://tmptv.sunduk.tv/CH4547/index.m3u8
 
 #EXTINF:-1 tvg-id="ch434" tvg-name="IDXtra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ID.png", Investigation Discovery
@@ -648,11 +648,11 @@ http://armsmart.nl:8080/freetvportal/freetvportal/1515.m3u8
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png", Окко Спорт
 http://cdn.dommir.top:9290/okko_sport/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png", Окко Прайм Спорт
-http://cdn.dommir.top:9290/okko_sport_2/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH17075/tracks-v1a1/index-${start}-${duration}.m3u8", Окко Прайм Спорт
+http://tmptv.sunduk.tv/CH17072/index.m3u8
 
-#EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png", Окко Футбол
-http://tv.woobl.ru/okko_futbol_hd/tracks-v1a1/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH17072/tracks-v1a1/index-${start}-${duration}.m3u8", Окко Футбол
+http://tmptv.sunduk.tv/CH17072/index.m3u8
 
 #EXTINF:-1 tvg-id="ch3911" tvg-name="Okkochempionat" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoefirHD.png", Окко Чемпионат
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
