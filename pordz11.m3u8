@@ -768,11 +768,11 @@ http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_200
 #EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3869/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju TV1000
 http://tmptv.sunduk.tv/CH3869/index.m3u8
 
-#EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Viju TV1000 Русское
-http://cdn.dommir.top:9290/TV1000_Russkoe_kino_RU/playlist.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH713/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju TV1000 Русское
+http://tmptv.sunduk.tv/CH713/index.m3u8
 
-#EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png", Viju TV1000 Action
-http://tv.woobl.ru/viju_tv1000_action_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3867/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju TV1000 Action
+http://tmptv.sunduk.tv/CH3867/index.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png", Viju TV1000 Новелла
 http://tv.woobl.ru/viju_tv1000_novella_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
@@ -792,14 +792,14 @@ https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch701" tvg-name="Vijuserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuserial.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Serial
 https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png", Viju History
-http://tv.woobl.ru/viju_history_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3871/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju History
+http://tmptv.sunduk.tv/CH3871/index.m3u8
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH125/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Explore 
-http://tmptv.sunduk.tv/CH125/index.m3u8
+#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1057/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Explore 
+http://tmptv.sunduk.tv/CH1057/index.m3u8
 
-#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png", Viju Nature
-http://tv.woobl.ru/viju_nature_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4469/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Nature
+http://tmptv.sunduk.tv/CH4469/index.m3u8
 
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanethd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
 https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
@@ -807,8 +807,8 @@ https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png", Da Vinci
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=wO7z8lh19HG4Qc9ELRO1Eg&e=1778761835&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png", viju+  Sport
-http://tv.woobl.ru/viju_plus_megahit_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3815/tracks-v1a1a2/index-${start}-${duration}.m3u8", viju+  Sport
+http://tmptv.sunduk.tv/CH3815/index.m3u8
 
 #EXTINF:-1 tvg-id="ch662" tvg-name="Start" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Start.png", Старт HD
 #EXTVLCOPT:http-reconnect=true
