@@ -96,7 +96,7 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_GEGHAMAHD/video_1920x1080_avc1/
 #EXTINF:-1 tvg-id="ch001" tvg-name="1tvrussia" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1tvrussia.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH125/tracks-v1a1a2/index-${start}-${duration}.m3u8", Первый Канал
 http://tmptv.sunduk.tv/CH125/index.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="kosmicheskiy" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kosmicheskiy.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH557/tracks-v1a1a2/index-${start}-${duration}.m3u8", Первый Космический
+#EXTINF:-1 tvg-id="ch" tvg-name="kosmicheskiy" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kosmicheskiy.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH557/tracks-v1a1/index-${start}-${duration}.m3u8", Первый Космический
 http://tmptv.sunduk.tv/CH557/index.m3u8
 
 #EXTINF:-1 tvg-id="ch" tvg-name="perviyinformation" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/perviyinformation.png", Первый Информационный
@@ -111,8 +111,8 @@ https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0/tracks-v1a1/mono.m3
 #EXTINF:-1 tvg-id="ch" tvg-name="12kanal" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/12kanal.png", 12 Канал
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png", Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3799/tracks-v1a1/index-${start}-${duration}.m3u8", Россия 1
+http://tmptv.sunduk.tv/CH3799/index.m3u8
 
 #EXTINF:-1 tvg-id="ch7" tvg-name="rossiya24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya24.png", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
@@ -129,17 +129,17 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e
 #EXTINF:-1 tvg-id="ch118" tvg-name="vremya" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Vremya.png", Время
 http://cdn.dommir.top:9290/NTV_Vremja/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch729" tvg-name="mir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png", Мир
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ch729" tvg-name="mir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir.png"  catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4543/tracks-v1a1/index-${start}-${duration}.m3u8", Мир
+http://tmptv.sunduk.tv/CH4543/index.m3u8
 
-#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png", Мир 24
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ch510" tvg-name="mir24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Mir24.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4545/tracks-v1a1/index-${start}-${duration}.m3u8", Мир 24
+http://tmptv.sunduk.tv/CH4545/index.m3u8
 
 #EXTINF:-1 tvg-id="ch636" tvg-name="mirseriala" group-title="Ռուսական", "Ֆիլմեր և սերիալներ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MirSeriala.png", Мир Сериала
 http://cdn.dommir.top:9290/Mir_Seriala/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch3" tvg-name="ntv" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTV.png", НТВ
-https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ch3" tvg-name="ntv" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTV.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3821/tracks-v1a1/index-${start}-${duration}.m3u8", НТВ
+http://tmptv.sunduk.tv/CH3821/index.m3u8
 
 #EXTINF:-1 tvg-id="ch392" tvg-name="ntvmir" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVMir.png", НТВ Мир
 #EXTVLCOPT:http-reconnect=true
@@ -153,14 +153,14 @@ http://cdn.dommir.top:9290/NTV_Serial_RU/playlist.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch612" tvg-name="ntvpravo" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVPravo.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", НТВ Право
 http://ncdn-y1-w6.teamcloud.am/live/eds/NTV_Pravo/SAF-HLS/NTV_Pravo-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch568" tvg-name="ntvhit" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVHit.png" catchup="append" catchup-days="3" catchup-source="", НТВ Хит
+#EXTINF:-1 tvg-id="ch568" tvg-name="ntvhit" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVHit.png", НТВ Хит
 http://cdn.dommir.top:9290/NTV_CHIT/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch120" tvg-name="ntvstill" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVStill.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", НТВ Стиль
+#EXTINF:-1 tvg-id="ch120" tvg-name="ntvstill" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NTVStill.png", НТВ Стиль
 http://tv.woobl.ru/ntv_stil_hd/tracks-v1a1a2/mono.ts.m3u8?token=test55555
 
-#EXTINF:-1 tvg-id="ch5" tvg-name="tnt" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT.png", ТНТ
-http://cdn.dommir.top:9290/TNT_HD_RU_NTV_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch5" tvg-name="tnt" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3791/tracks-v1a1/index-${start}-${duration}.m3u8", ТНТ
+http://tmptv.sunduk.tv/CH3791/index.m3u8
 
 #EXTINF:-1 tvg-id="ch14" tvg-name="tnt4" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNT4.png", ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https1080p_stream.m3u8
@@ -168,20 +168,20 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=AS
 #EXTINF:-1 tvg-id="ch716" tvg-name="tntmusic" group-title="Ռուսական", "Երաժշտական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TNTMusic.png", FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch21" tvg-name="sts" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STS.png", СТС
-http://tv.woobl.ru/sts_hd/tracks-v1a1/mono.ts.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch21" tvg-name="sts" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STS.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3789/tracks-v1a1/index-${start}-${duration}.m3u8", СТС
+http://tmptv.sunduk.tv/CH3789/index.m3u8
 
-#EXTINF:-1 tvg-id="ch483" tvg-name="stskids" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png", СТС Kids
-http://cdn.dommir.top:9290/Disney/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch483" tvg-name="stskids" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSKids.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH729/tracks-v1a1/index-${start}-${duration}.m3u8", СТС Kids
+http://tmptv.sunduk.tv/CH729/index.m3u8
 
-#EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png", СТС Love
-http://tv.woobl.ru/sts_love/video.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH729/tracks-v1a1/index-${start}-${duration}.m3u8", СТС Love
+http://tmptv.sunduk.tv/CH441/index.m3u8
 
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 
-#EXTINF:-1 tvg-id="ch45" tvg-name="Mult" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MultHD.png", Мульт 
-http://cdn.dommir.top:9290/Mult_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch45" tvg-name="Mult" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MultHD.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3843/tracks-v1a1/index-${start}-${duration}.m3u8", Мульт 
+http://tmptv.sunduk.tv/CH3843/index.m3u8
 
 #EXTINF:-1 tvg-id="ch076" tvg-name="2x2" group-title="Ռուսական", "Մանկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/2x2.png", 2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=H3Et_Dfu7ZSa1VEYkyY0XQ&e=2069285050&scheme=https
@@ -192,17 +192,17 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="ch724" tvg-name="zvezdaplus" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Zvezdaplus.png", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png", РБК
-https://live-gccdn.rbc.ru/gcore/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4589/tracks-v1a1/index-${start}-${duration}.m3u8", РБК
+http://tmptv.sunduk.tv/CH4589/index.m3u8
 
 #EXTINF:-1 tvg-id="ch24" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TV3.png", TV3
 http://cdn.dommir.top:9290/TV3/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png", Рен ТВ
-http://cdn.dommir.top:9290/Ren_TV_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch4" tvg-name="Ren" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RenTV.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4523/tracks-v1a1/index-${start}-${duration}.m3u8", Рен ТВ
+http://tmptv.sunduk.tv/CH4523/index.m3u8
 
-#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png", Домашний
-http://cdn.dommir.top:9290/Domashniy_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4547/tracks-v1a1/index-${start}-${duration}.m3u8", Домашний
+http://tmptv.sunduk.tv/CH4547/index.m3u8
 
 #EXTINF:-1 tvg-id="ch434" tvg-name="IDXtra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ID.png", Investigation Discovery
 http://cdn.dommir.top:9290/NTV_ID_Xtra_HD_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
