@@ -634,7 +634,7 @@ https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS
 #EXTINF:-1 tvg-id="ch39" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport1.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH243/tracks-v1a1/index-${start}-${duration}.m3u8", Eurosport 1
 http://tmptv.sunduk.tv/CH243/index.m3u8
 
-#EXTINF:-1 tvg-id="ch71" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH539/tracks-v1a1/index-${start}-${duration}.m3u8" Eurosport 2
+#EXTINF:-1 tvg-id="ch71" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH539/tracks-v1a1/index-${start}-${duration}.m3u8", Eurosport 2
 http://tmptv.sunduk.tv/CH539/index.m3u8
 
 #EXTINF:-1 tvg-id="ch3914" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH17081/tracks-v1a1/index-${start}-${duration}.m3u8", Окко TV
