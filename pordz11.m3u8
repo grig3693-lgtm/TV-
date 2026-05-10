@@ -300,8 +300,8 @@ http://cdn.dommir.top:9290/KHL_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch138" tvg-name="KHLprime" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHLPrime.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH293/tracks-v1a1/index-${start}-${duration}.m3u8", КХЛ Прайм
 http://tmptv.sunduk.tv/CH293/index.m3u8
 
-#EXTINF:-1 tvg-id="ch100" tvg-name="RTVi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RTVi.png", RTVi
-http://cdn.dommir.top:9290/RTVi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch100" tvg-name="RTVi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RTVi.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3769/tracks-v1a1/index-${start}-${duration}.m3u8", RTVi
+http://tmptv.sunduk.tv/CH3769/index.m3u8
 
 #EXTINF:-1 tvg-id="ch463" tvg-name="Lyubimoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Lyubimoekino.png", Любимое Кино
 http://cdn.dommir.top:9290/TRI_LUBIMOE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
