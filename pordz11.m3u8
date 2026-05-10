@@ -577,11 +577,8 @@ http://tmptv.sunduk.tv/CH3859/index.m3u8
 #EXTINF:-1 tvg-id="ch698" tvg-name="Match Premier HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/premier.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3827/tracks-v1a1a2/index-${start}-${duration}.m3u8", Матч! Премьер
 http://tmptv.sunduk.tv/CH3827/index.m3u8
 
-#EXTINF:-1 tvg-id="ch471" tvg-name="Matchstrana" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Matchstrana.png", Матч! Страна
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=http://armsmart.nl:8080/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://armsmart.nl:8080/freetvportal/freetvportal/1441.m3u8
+#EXTINF:-1 tvg-id="ch471" tvg-name="Matchstrana" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Matchstrana.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4591/tracks-v1a1/index-${start}-${duration}.m3u8", Матч! Страна
+http://tmptv.sunduk.tv/CH4591/index.m3u8
 
 #EXTINF:-1 tvg-id="ch695" tvg-name="Match Football 1 HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/matchfootball1.png", Матч! Футбол 1
 #EXTVLCOPT:http-reconnect=true
