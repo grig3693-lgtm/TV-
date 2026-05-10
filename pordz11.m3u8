@@ -619,7 +619,7 @@ http://tv.woobl.ru/setanta_sports_2_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png", Setanta Sport 1 
 http://tmptv.sunduk.tv/CH6185/index.m3u8
 
-#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png", Setanta Sport 2
+#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png", Setanta Sport 2
 http://tmptv.sunduk.tv/CH6187/index.m3u8
 
 #EXTINF:-1 tvg-id="ch333" tvg-name="Setanta Sports Plus HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSportsPlus.png", Setanta Sports Plus
