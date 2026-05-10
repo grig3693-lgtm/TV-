@@ -354,6 +354,9 @@ http://tv.woobl.ru/tvc_hd/tracks-v1a1/mono.ts.m3u8?token=test55555
 #EXTINF:-1 tvg-id="ch2711" tvg-name="5kanal" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/5kanal.png", 5 канал 
 http://tv.woobl.ru/5_kanal_hd/tracks-v1a1/mono.ts.m3u8?token=test55555
 
+#EXTINF:-1 tvg-id="ch614" tvg-name="arsenal" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/arsenal.png", Arsenal
+http://tmptv.sunduk.tv/CH567/index.m3u8
+
 #EXTINF:-1 tvg-id="ch040" tvg-name="karusel" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/karusel.png", Карусель  
 http://tv.woobl.ru/karusel_hd/tracks-v1a1/mono.ts.m3u8?token=test55555
 
