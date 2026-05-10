@@ -604,11 +604,17 @@ http://tmptv.sunduk.tv/CH3833/index.m3u8
 #EXTINF:-1 tvg-id="ch146" tvg-name="Setanta Sports HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1147/tracks-v1a1a2/index-${start}-${duration}.m3u8", Setanta Sports
 http://tmptv.sunduk.tv/CH1147/index.m3u8
 
-#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1013/tracks-v1a1a2/index-${start}-${duration}.m3u8", Setanta Sport 1
+#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1 Ukraine" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1013/tracks-v1a1a2/index-${start}-${duration}.m3u8", Setanta Sport 1 Ukraine
 http://tmptv.sunduk.tv/CH1013/index.m3u8
 
-#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png", Setanta Sport 2
+#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports2.png", Setanta Sport 2 Ukraine
 https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="ch1993" tvg-name="Setanta Sport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png", Setanta Sport 1 
+http://tmptv.sunduk.tv/CH6185/index.m3u8
+
+#EXTINF:-1 tvg-id="ch477" tvg-name="Setanta Sport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSports1.png", Setanta Sport 2
+http://tmptv.sunduk.tv/CH6187/index.m3u8
 
 #EXTINF:-1 tvg-id="ch333" tvg-name="Setanta Sports Plus HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/SetantaSportsPlus.png", Setanta Sports Plus
 http://tmptv.sunduk.tv/CH7609/index.m3u8
