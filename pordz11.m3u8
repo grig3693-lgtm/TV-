@@ -112,7 +112,7 @@ https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0/tracks-v1a1/mono.m3
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3799/tracks-v1a1/index-${start}-${duration}.m3u8", Россия 1
-http://tmptv.sunduk.tv/CH3799/index.m3u8
+http://tmptv.sunduk.tv/CH3799/index.m3u8 
 
 #EXTINF:-1 tvg-id="ch7" tvg-name="rossiya24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya24.png", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
@@ -297,8 +297,8 @@ http://cdn.dommir.top:9290/360/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch034" tvg-name="KHL" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHL.png", КХЛ
 http://cdn.dommir.top:9290/KHL_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch138" tvg-name="KHLprime" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHLPrime.png", КХЛ Прайм
-http://cdn.dommir.top:9290/KHL_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch138" tvg-name="KHLprime" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHLPrime.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH293/tracks-v1a1/index-${start}-${duration}.m3u8", КХЛ Прайм
+http://tmptv.sunduk.tv/CH293/index.m3u8
 
 #EXTINF:-1 tvg-id="ch100" tvg-name="RTVi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RTVi.png", RTVi
 http://cdn.dommir.top:9290/RTVi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
