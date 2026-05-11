@@ -829,6 +829,24 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x10
 #EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BrazzersTVEurope.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1185/tracks-v1a1a2/index-${start}-${duration}.m3u8", Brazzers TV Europe
 http://tmptv.sunduk.tv/CH1185/index.m3u8
 
+#EXTINF:-1 tvg-id="ch96" tvg-name="Hustler" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HustlerHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH743/tracks-v1a1/index-${start}-${duration}.m3u8", Hustler HD
+http://tmptv.sunduk.tv/CH743/index.m3u8
+
+#EXTINF:-1 tvg-id="ch819" tvg-name="PenthousePassion" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PenthousePassionHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3517/tracks-v1a1/index-${start}-${duration}.m3u8", Penthouse Passion HD
+http://tmptv.sunduk.tv/CH3517/index.m3u8
+
+#EXTINF:-1 tvg-id="ch381" tvg-name="PenthouseGold" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PenthouseGoldHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3479/tracks-v1a1/index-${start}-${duration}.m3u8", Penthouse Gold HD
+http://tmptv.sunduk.tv/CH3479/index.m3u8
+
+#EXTINF:-1 tvg-id="ch" tvg-name="Redlight" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RedlightHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH745/tracks-v1a1/index-${start}-${duration}.m3u8", Redlight HD
+http://tmptv.sunduk.tv/CH745/index.m3u8
+
+#EXTINF:-1 tvg-id="ch49" tvg-name="Russkayanoch" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Russkayanoch.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH419/tracks-v1a1/index-${start}-${duration}.m3u8", Русская Ночь HD
+http://tmptv.sunduk.tv/CH419/index.m3u8
+
+#EXTINF:-1 tvg-id="ch" tvg-name="Exxotica" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ExxxoticaHD.png", Exxxotica HD
+http://tmptv.sunduk.tv/CH535/index.m3u8
+
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
 https://de.auroramedia.am/europaplus
 
