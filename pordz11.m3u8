@@ -784,10 +784,10 @@ https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3871/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju History
 http://tmptv.sunduk.tv/CH3871/index.m3u8
 
-#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1057/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Explore 
+#EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1057/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Explore 
 http://tmptv.sunduk.tv/CH1057/index.m3u8
 
-#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4469/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Nature
+#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH4469/tracks-v1a1a2/index-${start}-${duration}.m3u8", Viju Nature
 http://tmptv.sunduk.tv/CH4469/index.m3u8
 
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanethd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
@@ -796,7 +796,7 @@ https://a3285273028-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png", Da Vinci
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=wO7z8lh19HG4Qc9ELRO1Eg&e=1778761835&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3815/tracks-v1a1a2/index-${start}-${duration}.m3u8", viju+  Sport
+#EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3815/tracks-v1a1a2/index-${start}-${duration}.m3u8", viju+  Sport
 http://tmptv.sunduk.tv/CH3815/index.m3u8
 
 #EXTINF:-1 tvg-id="ch662" tvg-name="Start" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Start.png", Старт HD
@@ -826,22 +826,22 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch80" tvg-name="temptation" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BrazzersTVEurope.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1185/tracks-v1a1a2/index-${start}-${duration}.m3u8", Brazzers TV Europe
+#EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BrazzersTVEurope.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1185/tracks-v1a1a2/index-${start}-${duration}.m3u8", Brazzers TV Europe
 http://tmptv.sunduk.tv/CH1185/index.m3u8
 
-#EXTINF:-1 tvg-id="ch96" tvg-name="Hustler" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HustlerHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH743/tracks-v1a1/index-${start}-${duration}.m3u8", Hustler HD
+#EXTINF:-1 tvg-id="ch96" tvg-name="Hustler" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HustlerHD.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH743/tracks-v1a1/index-${start}-${duration}.m3u8", Hustler HD
 http://tmptv.sunduk.tv/CH743/index.m3u8
 
-#EXTINF:-1 tvg-id="ch819" tvg-name="PenthousePassion" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PenthousePassionHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3517/tracks-v1a1/index-${start}-${duration}.m3u8", Penthouse Passion HD
+#EXTINF:-1 tvg-id="ch819" tvg-name="PenthousePassion" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PenthousePassionHD.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3517/tracks-v1a1/index-${start}-${duration}.m3u8", Penthouse Passion HD
 http://tmptv.sunduk.tv/CH3517/index.m3u8
 
-#EXTINF:-1 tvg-id="ch381" tvg-name="PenthouseGold" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PenthouseGoldHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3479/tracks-v1a1/index-${start}-${duration}.m3u8", Penthouse Gold HD
+#EXTINF:-1 tvg-id="ch381" tvg-name="PenthouseGold" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PenthouseGoldHD.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH3479/tracks-v1a1/index-${start}-${duration}.m3u8", Penthouse Gold HD
 http://tmptv.sunduk.tv/CH3479/index.m3u8
 
-#EXTINF:-1 tvg-id="ch" tvg-name="Redlight" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RedlightHD.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH745/tracks-v1a1/index-${start}-${duration}.m3u8", Redlight HD
+#EXTINF:-1 tvg-id="ch" tvg-name="Redlight" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RedlightHD.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH745/tracks-v1a1/index-${start}-${duration}.m3u8", Redlight HD
 http://tmptv.sunduk.tv/CH745/index.m3u8
 
-#EXTINF:-1 tvg-id="ch49" tvg-name="Russkayanoch" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Russkayanoch.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH419/tracks-v1a1/index-${start}-${duration}.m3u8", Русская Ночь HD
+#EXTINF:-1 tvg-id="ch49" tvg-name="Russkayanoch" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Russkayanoch.png" catchup="vod" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH419/tracks-v1a1/index-${start}-${duration}.m3u8", Русская Ночь HD
 http://tmptv.sunduk.tv/CH419/index.m3u8
 
 #EXTINF:-1 tvg-id="ch" tvg-name="Exxotica" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ExxxoticaHD.png", Exxxotica HD
