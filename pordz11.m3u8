@@ -826,8 +826,8 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch80" tvg-name="temptation" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BrazzersTVEurope.png", Brazzers TV Europe
-http://tv.woobl.ru/brazzers_tv_europe_hd/video.m3u8?token=test55555
+#EXTINF:-1 tvg-id="ch93" tvg-name="BrazzersTVEU" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BrazzersTVEurope.png" catchup="append" catchup-days="14" catchup-source="http://tmptv.sunduk.tv/CH1185/tracks-v1a1a2/index-${start}-${duration}.m3u8", Brazzers TV Europe
+http://tmptv.sunduk.tv/CH1185/index.m3u8
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
 https://de.auroramedia.am/europaplus
