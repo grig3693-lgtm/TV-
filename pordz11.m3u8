@@ -749,7 +749,7 @@ http://ncdn-y1-w2.teamcloud.am/live/eds/Nashe_Novoe_Kino/SAF-HLS/Nashe_Novoe_Kin
 http://ncdn-y1-w6.teamcloud.am/live/eds/Mujskoe_Kino/SAF-HLS/Mujskoe_Kino-avc1_8000000=10011-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch461" tvg-name="Indiskoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Indiskoyekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Индийское Кино
-http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
+http://ncdn-y1-w11.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch116" tvg-name="Rodnoekino" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rodnoekino.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Родное Кино
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
