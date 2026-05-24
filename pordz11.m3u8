@@ -1036,4 +1036,4 @@ https://streamer.radio.co/sa1357f891/listen
 https://c7.radioboss.fm:18299/autodj
 
 #EXTINF:-1 group-title="Հայկական ֆիլմեր" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png", Մեդալի հակառակ կողմը
-https://dm.terabox.com/api/streaming?path=%2F%D5%84%D5%A5%D5%A4%D5%A1%D5%AC%D5%AB%20%D5%B0%D5%A1%D5%AF%D5%A1%D5%BC%D5%A1%D5%AF%20%D5%AF%D5%B8%D5%B2%D5%B4%D5%A8.mp4&app_id=250528&clienttype=0&type=M3U8_AUTO_1080
+https://dm.terabox.com/api/streaming?app_id=250528&web=1&channel=dubox&clienttype=0&jsToken=137436C7E8BBBC6CE67F3E3117FB6B23E67CC96D30FEF66A68FACA68FDE2F297CE8975BA57B517811E8D987800758CFD0183C88E8F91F597BC83A1BDC8D53EDE&dp-logid=60090600917580640019&path=%2F%D5%84%D5%A5%D5%A4%D5%A1%D5%AC%D5%AB+%D5%B0%D5%A1%D5%AF%D5%A1%D5%BC%D5%A1%D5%AF+%D5%AF%D5%B8%D5%B2%D5%B4%D5%A8.mp4&type=M3U8_AUTO_1080
