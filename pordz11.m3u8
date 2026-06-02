@@ -25,12 +25,12 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_H3HD/video_1920x1080_avc1/playl
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_ARARATHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ch2407",Արարատ TV
-#EXTMYSTREAMOPTS:drm_type=widevine&drm_license_url=https://fe.tv.ucom.am/udrm/wvfta/license
+#EXT-X-KODIPROP:inputstream.adaptive.license_type=widevine
+#EXT-X-KODIPROP:inputstream.adaptive.license_key=6582a44b60cf5b449ffb90544b0460ee:673bb0e9b149a0a9dc53c14d84b06571
 https://fe.tv.ucom.am/timeline/ARARATTV/manifest.mpd
 
-#EXTINF:-1 tvg-name="ch2407" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ararat.png",Արարատ TV
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=6582a44b60cf5b449ffb90544b0460ee:673bb0e9b149a0a9dc53c14d84b06571
+#EXTINF:-1 tvg-name="ch2407",Արարատ TV
+#EXTMYSTREAMOPTS:drm_type=widevine&drm_key=6582a44b60cf5b449ffb90544b0460ee:673bb0e9b149a0a9dc53c14d84b06571
 https://fe.tv.ucom.am/timeline/ARARATTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="ch2407" tvg-name="Ararat" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ararat.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Արարատ TV
