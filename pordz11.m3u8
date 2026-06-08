@@ -1044,14 +1044,14 @@ https://streamer.radio.co/sa1357f891/listen
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayazgidzayn.png", Libano Հայազգի Ձայն
 https://c7.radioboss.fm:18299/autodj
 
-#EXTINF:0 group-title="Հայկական ֆիլմեր" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png", Մեդալի հակառակ կողմը
+#EXTINF:-1 group-title="Հայկական ֆիլմեր" content-type="vod" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png", Մեդալի հակառակ կողմը
 https://river-4-481.rtbcdn.ru/hls-vod/OBl6lH3TckCobM7zY0rLOw/1781325102/3264/0x5000c500e9ebef74/44d430a1601a47fcb8c58a7e702d7792.mp4.m3u8?i=1920x1080_1462
 
-#EXTINF:0 group-title="Հայկական ֆիլմեր" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/depichambar.jpg", Դեպի ճամբար․ հատուկ ջոկատ
+#EXTINF:-1 group-title="Հայկական ֆիլմեր" content-type="vod" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/depichambar.jpg", Դեպի ճամբար․ հատուկ ջոկատ
 https://vz-8d229efc-b99.b-cdn.net/57afde7b-de77-42ba-8e11-d681d5da2d53/1080p/video.m3u8
 
-#EXTINF:0 group-title="Սիթքոմ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouse121.jpg", Ֆուլ հաուս 1- Սերիա 21
+#EXTINF:-1 group-title="Սիթքոմ" content-type="vod" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouse121.jpg", Ֆուլ հաուս 1- Սերիա 21
 https://vz-8d229efc-b99.b-cdn.net/41ac3d60-f783-48d0-b07c-15e14056737f/1080p/video.m3u8
 
-#EXTINF:0 group-title="Սիթքոմ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouse122.jpg", Ֆուլ հաուս 1- Սերիա 22
+#EXTINF:-1 group-title="Սիթքոմ" content-type="vod" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouse122.jpg", Ֆուլ հաուս 1- Սերիա 22
 https://vz-8d229efc-b99.b-cdn.net/d1890eba-ea40-4c2e-bc01-63dee93eeee9/1080p/video.m3u8
