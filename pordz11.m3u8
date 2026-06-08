@@ -1049,3 +1049,6 @@ https://river-4-481.rtbcdn.ru/hls-vod/OBl6lH3TckCobM7zY0rLOw/1781325102/3264/0x5
 
 #EXTINF:-1 group-title="Հայկական ֆիլմեր" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/depichambar.jpg", Դեպի ճամբար․ հատուկ ջոկատ
 https://vz-8d229efc-b99.b-cdn.net/57afde7b-de77-42ba-8e11-d681d5da2d53/1080p/video.m3u8
+
+#EXTINF:-1 group-title="Սիթքոմ" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouse121.jpg", Ֆուլ հաուս 1- Սերիա 21
+https://vz-8d229efc-b99.b-cdn.net/41ac3d60-f783-48d0-b07c-15e14056737f/1080p/video.m3u8
