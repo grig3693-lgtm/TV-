@@ -1058,3 +1058,6 @@ https://vz-8328fe8a-993.b-cdn.net/42d12aa6-de83-4570-a031-3d2c7f0149c5/playlist.
 
 #EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/8fb8ebdd-44e0-489d-8789-6ea5b223f169/thumbnail.jpg",  Քավարան - Սերիա 3
 https://vz-8328fe8a-993.b-cdn.net/8fb8ebdd-44e0-489d-8789-6ea5b223f169/playlist.m3u8
+
+#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/ffa5900c-9960-4458-8fed-866f93b92aea/thumbnail.jpg",  Քավարան - Սերիա 4
+https://vz-8328fe8a-993.b-cdn.net/ffa5900c-9960-4458-8fed-866f93b92aea/playlist.m3u8
