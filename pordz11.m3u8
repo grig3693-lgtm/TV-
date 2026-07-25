@@ -1050,8 +1050,8 @@ https://c7.radioboss.fm:18299/autodj
 #EXTINF:0 group-title="Հայկական ֆիլմեր" content-type="vod" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png", Մեդալի հակառակ կողմը
 https://river-4-481.rtbcdn.ru/hls-vod/OBl6lH3TckCobM7zY0rLOw/1781325102/3264/0x5000c500e9ebef74/44d430a1601a47fcb8c58a7e702d7792.mp4.m3u8?i=1920x1080_1462
 
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/1c63a919-48b0-4f63-9126-7b89a2530dd5/thumbnail.jpg", Քավարան - Սերիա 1
-https://vz-8328fe8a-993.b-cdn.net/1c63a919-48b0-4f63-9126-7b89a2530dd5/playlist.m3u8
+#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/8af26c0b-0926-44d6-9567-c176ccdbb57f/thumbnail.jpg",  Քավարան - Սերիա 1
+https://vz-8328fe8a-993.b-cdn.net/8af26c0b-0926-44d6-9567-c176ccdbb57f/playlist.m3u8
 
 #EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/42d12aa6-de83-4570-a031-3d2c7f0149c5/thumbnail.jpg",  Քավարան - Սերիա 2
 https://vz-8328fe8a-993.b-cdn.net/42d12aa6-de83-4570-a031-3d2c7f0149c5/playlist.m3u8
