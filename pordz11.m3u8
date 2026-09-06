@@ -576,12 +576,14 @@ http://armsmart.nl:8080/freetvportal/freetvportal/38.m3u8
 #EXTINF:-1 tvg-id="ch1492" tvg-name="FastSportsTeam" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/007.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Fast Sports Team
 http://ncdn-y1-w6.teamcloud.am/live/eds/VMedia/SAF-HLS/VMedia-avc1_8699904=10004-mp4a_140800=20000.m3u8
 
-#EXTINF:-1 tvg-id="ch1492" tvg-name="FastSports" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/007.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel1/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports
-https://f11-am.fcloudns.com/channel1/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
-#EXTINF:-1 tvg-id="ch2587" tvg-name="FastSports 1" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/221.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel2/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports 1
-https://f11-am.fcloudns.com/channel2/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
-#EXTINF:-1 tvg-id="ch2588" tvg-name="Fast Sports 2" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/222.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel3/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports 2
-https://f11-am.fcloudns.com/channel3/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
+#EXTINF:-1 tvg-id="ch1490" tvg-name="Շանթ Kids" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/220.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast Sports
+https://a3285276110-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch2587" tvg-name="FastSports 1" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/221.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel2new/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports 1
+https://f11-am.fcloudns.com/channel2new/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
+
+#EXTINF:-1 tvg-id="ch2588" tvg-name="Fast Sports 2" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/222.png" catchup="default" catchup-source="https://f11-am.fcloudns.com/channel3new/tracks-v4a1/index-${start}-${offset}.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco", Fast Sports 2
+https://f11-am.fcloudns.com/channel3new/tracks-v4a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NjQ1MTQ2NTQsImV4cCI6MjA3OTg3NDY1NCwibmJmIjoxNzY0NTE0NjU0LCJqdGkiOiI1ZmE3NTExNy00NzJiLTRlZGEtYTcxNy1jZGM5MmFiZWZjYWQiLCJzdWIiOiIxMTk4OSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJ1c2VyX3R5cGUiOiJ1c2VyIiwiZGV2aWNlX2luZm8iOnsiYnJhbmQiOiJXZWIgQnJvd3NlciIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJkYXRhIjp7ImJyb3dzZXJfbmFtZSI6IldlYiBCcm93c2VyIiwiZW5naW5lX25hbWUiOiIiLCJlbmdpbmVfdmVyc2lvbiI6IiIsImZ1bGxfYnJvd3Nlcl92ZXJzaW9uIjoiIiwibW9iaWxlX21vZGVsIjoiIiwibW9iaWxlX3ZlbmRvciI6IiJ9LCJkZXZpY2VfdHlwZSI6IiIsIm1vZGVsIjoiV2ViIEJyb3dzZXIiLCJzeXN0ZW1fbmFtZSI6IldlYiBCcm93c2VyIiwic3lzdGVtX3ZlcnNpb24iOiIiLCJ1bmlxdWVfaWQiOiIiLCJ0eXBlIjoid2ViIn19.U771ZtBhp4G1Xu1c2w5tNNI2Gdq8sx6jw08zoQL7dco
 
 #EXTINF:-1 tvg-id="ch609" tvg-name="Match HD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/match.png", Матч!
 #EXTVLCOPT:http-reconnect=true
@@ -1049,66 +1051,3 @@ https://streamer.radio.co/sa1357f891/listen
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayazgidzayn.png", Libano Հայազգի Ձայն
 https://c7.radioboss.fm:18299/autodj
-
-#EXTINF:0 group-title="Հայկական ֆիլմեր" content-type="vod" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png", Մեդալի հակառակ կողմը
-https://river-4-481.rtbcdn.ru/hls-vod/OBl6lH3TckCobM7zY0rLOw/1781325102/3264/0x5000c500e9ebef74/44d430a1601a47fcb8c58a7e702d7792.mp4.m3u8?i=1920x1080_1462
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/8af26c0b-0926-44d6-9567-c176ccdbb57f/thumbnail.jpg",  Քավարան - Սերիա 1
-https://vz-8328fe8a-993.b-cdn.net/8af26c0b-0926-44d6-9567-c176ccdbb57f/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/42d12aa6-de83-4570-a031-3d2c7f0149c5/thumbnail.jpg",  Քավարան - Սերիա 2
-https://vz-8328fe8a-993.b-cdn.net/42d12aa6-de83-4570-a031-3d2c7f0149c5/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/8fb8ebdd-44e0-489d-8789-6ea5b223f169/thumbnail.jpg",  Քավարան - Սերիա 3
-https://vz-8328fe8a-993.b-cdn.net/8fb8ebdd-44e0-489d-8789-6ea5b223f169/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/ffa5900c-9960-4458-8fed-866f93b92aea/thumbnail.jpg",  Քավարան - Սերիա 4
-https://vz-8328fe8a-993.b-cdn.net/ffa5900c-9960-4458-8fed-866f93b92aea/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/06854be6-fe3a-4ae7-9978-d325e56e2f62/thumbnail.jpg",  Քավարան - Սերիա 5
-https://vz-8328fe8a-993.b-cdn.net/06854be6-fe3a-4ae7-9978-d325e56e2f62/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/a5cb14e1-04d7-4710-9a5d-f631845ef887/thumbnail.jpg",  Քավարան - Սերիա 6
-https://vz-8328fe8a-993.b-cdn.net/a5cb14e1-04d7-4710-9a5d-f631845ef887/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/2c1753a6-fb69-41d5-a6a4-3a9f6bee53c0/thumbnail.jpg",  Քավարան - Սերիա 7
-https://vz-8328fe8a-993.b-cdn.net/2c1753a6-fb69-41d5-a6a4-3a9f6bee53c0/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/1c4d8805-152d-46ee-9c1c-a4a1edb27c30/thumbnail.jpg",  Քավարան - Սերիա 8
-https://vz-8328fe8a-993.b-cdn.net/1c4d8805-152d-46ee-9c1c-a4a1edb27c30/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/c5bd31e6-d473-4d5c-9923-8b5895b8504d/thumbnail.jpg",  Քավարան - Սերիա 9
-https://vz-8328fe8a-993.b-cdn.net/c5bd31e6-d473-4d5c-9923-8b5895b8504d/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/6a27e150-8d0b-45ce-b3c7-7f090353202e/thumbnail.jpg",  Քավարան - Սերիա 10
-https://vz-8328fe8a-993.b-cdn.net/6a27e150-8d0b-45ce-b3c7-7f090353202e/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/c4377bbd-c21d-4b2e-9292-03feac777897/thumbnail.jpg",  Քավարան - Սերիա 11
-https://vz-8328fe8a-993.b-cdn.net/c4377bbd-c21d-4b2e-9292-03feac777897/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/84e1805c-d992-4247-846b-6deb687b4144/thumbnail.jpg",  Քավարան - Սերիա 12
-https://vz-8328fe8a-993.b-cdn.net/84e1805c-d992-4247-846b-6deb687b4144/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/133dfe14-6c57-43fa-80d5-3974676f434d/thumbnail.jpg",  Քավարան - Սերիա 13
-https://vz-8328fe8a-993.b-cdn.net/133dfe14-6c57-43fa-80d5-3974676f434d/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/1a702306-9ceb-468b-8568-c43874c5099f/thumbnail.jpg",  Քավարան - Սերիա 14
-https://vz-8328fe8a-993.b-cdn.net/1a702306-9ceb-468b-8568-c43874c5099f/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/081ef26c-09c0-49d1-a7c7-4667f28d1ffe/thumbnail.jpg",  Քավարան - Սերիա 15
-https://vz-8328fe8a-993.b-cdn.net/081ef26c-09c0-49d1-a7c7-4667f28d1ffe/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/7bead64e-63ac-44ce-9e88-4abfd7c2c326/thumbnail.jpg",  Քավարան - Սերիա 16
-https://vz-8328fe8a-993.b-cdn.net/7bead64e-63ac-44ce-9e88-4abfd7c2c326/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/dfef3b35-be1f-4d8b-a27b-c576fbe74f4b/thumbnail.jpg",  Քավարան - Սերիա 17
-https://vz-8328fe8a-993.b-cdn.net/dfef3b35-be1f-4d8b-a27b-c576fbe74f4b/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/c5468bfe-6a59-495a-bb36-9023aa75a609/thumbnail.jpg",  Քավարան - Սերիա 18
-https://vz-8328fe8a-993.b-cdn.net/c5468bfe-6a59-495a-bb36-9023aa75a609/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/495e5932-26ec-4d64-b481-683868b411d8/thumbnail.jpg",  Քավարան - Սերիա 19
-https://vz-8328fe8a-993.b-cdn.net/495e5932-26ec-4d64-b481-683868b411d8/playlist.m3u8
-
-#EXTINF:0 group-title="Քավարան" content-type="vod" tvg-logo="https://vz-8328fe8a-993.b-cdn.net/7e8238b0-a845-4c1f-b922-ae48e5139f90/thumbnail.jpg",  Քավարան - Սերիա 20
-https://vz-8328fe8a-993.b-cdn.net/7e8238b0-a845-4c1f-b922-ae48e5139f90/playlist.m3u8
