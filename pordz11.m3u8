@@ -974,24 +974,38 @@ https://shaincast.caster.fm:30456/listen.mp3?authn3e92e5a71206f543b6464ec19fd6b8
 http://streaming05.liveboxstream.uk:8008/stream
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/classicfm.png", Classic FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/classic
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojazz.png", Radio Jazz FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/jazz.mp3
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/montecarlo.png", Radio Monte Carlo - Retro and Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/montecarlo
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiorocks.png", Radio Rocks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/roks
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser1.png", SERFM 1 | Armenian Folk Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/ser1
 
-#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser2.png", SERFM 2 Armenian Pop Hits
+#EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser2.png", SERFM 2 Armenian Pop Hit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/ser2
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser3.png", SERFM 3 Armenian Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://auroramedia.am/
 https://de.auroramedia.am/ser3
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioyan.png", Radio YAN
