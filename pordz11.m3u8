@@ -858,9 +858,11 @@ https://a3285276110-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x10
 http://tv.woobl.ru/brazzers_tv_europe_hd/video.m3u8?token=test55555
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/euopaplus.png", EUROPA PLUS 
-https://de.auroramedia.am/europaplus?rp_source=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://auroramedia.am/
+https://de.auroramedia.am/europaplus?rp_source=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://de.auroramedia.am/
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://de,auroramedia.am/
 https://de.auroramedia.am/europaplus
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/kissfm.png", KISS FM Armenia
