@@ -465,6 +465,14 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ParamountNetwork.png", Paramount Network USA
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="181" catchup="default" catchup-days="3" catchup-source="https://router.turbo-stream.net/stream/DQ4D9JCHE6G/181.m3u8?archive={utc}&archive_end={utcend}&device_id=BwwFE2OA4a5X%2FkwVLpsP2w%3D%3D&language=ru", Channel Name
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv)
+#EXTVLCOPT:http-referrer=https://android.ottservice.org/
+#EXTHTTP:{"header":{"Origin":"https://android.ottservice.org","X-Requested-With":"cc.ottclub.android"}}
+https://router.turbo-stream.net/stream/DQ4D9JCHE6G/181.m3u8?device_id=BwwFE2OA4a5X%2FkwVLpsP2w%3D%3D&language=ru|User-Agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv)&Origin=https://android.ottservice.org&Referer=https://android.ottservice.org/&X-Requested-With=cc.ottclub.android
+
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animalplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/AnimalPlanetHD.png", Animal Planet USA
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
