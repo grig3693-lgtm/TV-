@@ -2,31 +2,29 @@
 
 #EXTINF:-1 tvg-name="MEOW" tvg-logo="meow.my/thumbnail.png" group-title="MEOW",MEOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"12123123": "123123123", "123123123": "234535353"}
-meow.my/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"12123123":"123123123","123123123":"234535353"}
+http://meow.my/manifest.mpd
 
 #EXTINF:-1 tvg-name="MEOW" tvg-logo="meow.my/thumbnail.jpg" group-title="MEOW",MEOW
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9URTNZV0l3Tm1ZdE5HVmxOaTAwTXprd0xUa3dZbUV0TVdNd09HRTVNbUZrTkdJeiIsIndtb3BpZCI6MzIsImV4cCI6MTczOTkwNDU5NiwiaWF0IjoxNzM5MzAwNTk2fQ.cUtgV8thOcbEV1ceX_JISzV3SZ21i7m-e4ukxLgVw6w"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9URTNZV0l3Tm1ZdE5HVmxOaTAwTXprd0xUa3dZbUV0TVdNd09HRTVNbUZrTkdJeiIsIndtb3BpZCI6MzIsImV4cCI6MTczOTkwNDU5NiwiaWF0IjoxNzM5MzAwNTk2fQ.cUtgV8thOcbEV1ceX_JISzV3SZ21i7m-e4ukxLgVw6w"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"12123123": "123123123", "123123123": "234535353"}
-meow.my/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"12123123":"123123123","123123123":"234535353"}
+http://meow.my/manifest.mpd
 
 #EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" group-title="Armenia",Armenia Premium
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09": "b9f161d7f54adf4962adeb575d9dc48e"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09":"b9f161d7f54adf4962adeb575d9dc48e"}
 https://mfe02.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
 
 #EXTINF:-1 tvg-name="PremiumArmenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" group-title="Armenia",PremiumArmenia
-#EXTHTTP:{"User-Agent":""}
-#EXTHTTP:{"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36":""}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09": "b9f161d7f54adf4962adeb575d9dc48e"}
-https://mfe02.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd?
+#KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09":"b9f161d7f54adf4962adeb575d9dc48e"}
+https://mfe02.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
 
 #EXTINF:-1 tvg-name="Premium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" group-title="premium",Premium
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09": "b9f161d7f54adf4962adeb575d9dc48e"}
-https://mfe02.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd?
+#KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09":"b9f161d7f54adf4962adeb575d9dc48e"}
+https://mfe02.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
