@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-name="ArmeniaPremium", Armenia Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1789134982/ucom/99555814d95e1f59beb893f7db1d6fee734b4c2f631b8382202cd17c134d5991
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1789134982/ucom/99555814d95e1f59beb893f7db1d6fee734b4c2f631b8382202cd17c134d5991&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://mfe05.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
