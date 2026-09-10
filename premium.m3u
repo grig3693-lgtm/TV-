@@ -14,6 +14,6 @@ meow.my/manifest.mpd
 
 #EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" group-title="Armenia",Armenia Premium
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ec62bf59c8424248960acc7ecf9b0c09": "b9f161d7f54adf4962adeb575d9dc48e"}
 https://mfe02.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
