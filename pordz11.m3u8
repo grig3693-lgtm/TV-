@@ -441,6 +441,9 @@ https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="ch1944" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/FRANCE24.png", France24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
+#EXTINF:-1 tvg-id="ch500" tvg-name=""CNN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/CNN.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", CNN
+http://ncdn-y1-w6.teamcloud.am/live/eds/CNN/SAF-HLS/CNN-avc1_5000000=10006-mp4a_140800_eng=20000.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Nickelodeonbac.svg.png", Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 
@@ -679,10 +682,10 @@ http://cdn.dommir.top:9290/okko_football/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch3911" tvg-name="Okkochempionat" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoefirHD.png", Окко Чемпионат
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
 
-#EXTINF:-1 tvg-id="ch39" tvg-name=""Eurosport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport1.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", "Eurosport 1
+#EXTINF:-1 tvg-id="ch39" tvg-name=""Eurosport 1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport1.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Eurosport 1
 http://ncdn-y1-w6.teamcloud.am/live/eds/Eurosport_1_HD/SAF-HLS/Eurosport_1_HD-avc1_5000000=10005-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
-#EXTINF:-1 tvg-id="ch71" tvg-name=""Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", "Eurosport 2
+#EXTINF:-1 tvg-id="ch71" tvg-name=""Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Eurosport 2
 http://ncdn-y1-w6.teamcloud.am/live/eds/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD-avc1_5000000=10005-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch3914" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png", Окко TV
