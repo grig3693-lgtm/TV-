@@ -181,7 +181,7 @@ http://tv.woobl.ru/sts_hd/tracks-v1a1/mono.ts.m3u8?token=test55555
 http://cdn.dommir.top:9290/Disney/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch111" tvg-name="stslove" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/STSLove.png", СТС Love
-http://tv.woobl.ru/sts_love/video.m3u8?token=test55555
+https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=1Hr6hnzIdiwC5sNLAOMQIg&e=2089315763&scheme=https
 
 #EXTINF:-1 tvg-id="ch414" tvg-name="subbota" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Subbota.png", Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
@@ -453,6 +453,18 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Discovery.png", Discovery USA
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Amazon" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amazonprimemensclub.png", Amazon Prime Video Men's Club
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=bUesfaX3dwhyRmrUeocdbw&e=2089316857&scheme=https
+
+#EXTINF:-1 tvg-id="" tvg-name="AmazonRomance" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/amazonromance.png", Amazon Prime Video Romance
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=8YcwxerPxOQEzW50jeXD8w&e=2089317333&scheme=https
+
+#EXTINF:-1 tvg-id="" tvg-name="AppleTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/appletv.png", Apple TV+ Woman's Stories
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=T7PCNrwbTv5O0NFhUu_hdA&e=2089318687&scheme=https
+
+#EXTINF:-1 tvg-id="" tvg-name="AppleTVPlus" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/appletvplus.jpg", Apple TV+ Action Time
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=VSyjmT0oL2d2KHJe4JBzIw&e=2089318924&scheme=https
+
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HBO.png", HBO USA
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
@@ -467,8 +479,6 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ParamountNetwork.png", Paramount Network USA
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="181" catchup="default" catchup-days="3" catchup-source="https://router.turbo-stream.net/stream/DQ4D9JCHE6G/181.m3u8?archive={utc}&archive_end={utcend}", Channel Name
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv)
@@ -517,6 +527,9 @@ http://cdn.dommir.top:9290/Nickelodeon_HD_hi/playlist.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch479" tvg-name="NicktoonsRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/nicktoons.png", Nicktoons Russia
 https://stream8.cinerama.uz/1502/tracks-v2a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch81" tvg-name="CartoonNetwrk" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/101.png", Cartoon Network Russia
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=yXZg1iRPyTL77uOBO2M0_A&e=2089316162&scheme=https
 
 #EXTINF:-1 tvg-id="ch1520" tvg-name="Fresham" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Fresh.png", Fresh
 #EXTVLCOPT:http-reconnect=true
@@ -687,6 +700,9 @@ http://ncdn-y1-w6.teamcloud.am/live/eds/Eurosport_1_HD/SAF-HLS/Eurosport_1_HD-av
 
 #EXTINF:-1 tvg-id="ch71" tvg-name=""Eurosport 2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Eurosport2.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Eurosport 2
 http://ncdn-y1-w6.teamcloud.am/live/eds/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD-avc1_5000000=10005-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
+
+#EXTINF:-1 tvg-id="ch1554" tvg-name="skysportpremierleague" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/skysportpremierleague.png", Sky Sports Premier League
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=aZjsdO9_4azE0tbXrhszIQ&e=2089314908&scheme=https
 
 #EXTINF:-1 tvg-id="ch3914" tvg-name="Okko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoTV.png", Окко TV
 #EXTVLCOPT:http-reconnect=true
