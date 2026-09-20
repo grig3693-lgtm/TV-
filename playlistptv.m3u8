@@ -1,0 +1,1297 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Arajin aliq" tvg-logo="https://ptv.am/media/assets/h1.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1-Cup/SAF-HLS/H1-Cup.m3u8", Arajin aliq
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1/SAF-HLS/H1.m3u8
+#EXTINF:-1 tvg-name="Arajin aliq Backup" tvg-logo="https://ptv.am/media/assets/h1.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1-Cup/SAF-HLS/H1-Cup.m3u8", Arajin aliq (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/h1/amtv3/am1abr/index.m3u8
+#EXTINF:-1 tvg-name="H2" tvg-logo="https://ptv.am/media/assets/937.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H2/SAF-HLS/H2.m3u8", H2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H2/SAF-HLS/H2.m3u8
+#EXTINF:-1 tvg-name="Armenia TV" tvg-logo="https://ptv.am/media/assets/104.png" catchup="default" catchup-source="http://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ArmeniaTV-SDI-CUP/SAF-HLS/ArmeniaTV-SDI-CUP.m3u8", Armenia TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ArmeniaTV-SDI/SAF-HLS/ArmeniaTV-SDI.m3u8
+#EXTINF:-1 tvg-name="Shant" tvg-logo="https://ptv.am/media/assets/shant-tv.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ShantTV-SDI/SAF-HLS/ShantTV-SDI.m3u8", Shant
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ShantTV-SDI/SAF-HLS/ShantTV-SDI.m3u8
+#EXTINF:-1 tvg-name="Kentron" tvg-logo="https://ptv.am/media/assets/kentron.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kentron/SAF-HLS/Kentron.m3u8", Kentron
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kentron/SAF-HLS/Kentron.m3u8
+#EXTINF:-1 tvg-name="Kentron Backup" tvg-logo="https://ptv.am/media/assets/kentron.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kentron/SAF-HLS/Kentron.m3u8", Kentron (Backup)
+http://armsmart.nl:8484/stream/okko/kentro/master.m3u8?u=admin&p=8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+#EXTINF:-1 tvg-name="Yerkir Media" tvg-logo="https://ptv.am/media/assets/107.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ErkirMedia/SAF-HLS/ErkirMedia.m3u8", Yerkir Media
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ErkirMedia/SAF-HLS/ErkirMedia.m3u8
+#EXTINF:-1 tvg-name="Shoghakat" tvg-logo="https://ptv.am/media/uploads_channel_img/shoxakat.png" catchup="default" catchup-source="http://ncdn-y1-w2.teamcloud.am/live/eds/ShogakatTV/SAF-HLS/ShogakatTV.m3u8", Shoghakat
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ShogakatTV/SAF-HLS/ShogakatTV.m3u8
+#EXTINF:-1 tvg-name="5TV" tvg-logo="https://ptv.am/media/assets/5_ali.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/19/mono-timeshift_rel-1154.m3u8", 5TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/5Aliq/SAF-HLS/5Aliq.m3u8
+#EXTINF:-1 tvg-name="Nor Hayastan" tvg-logo="https://ptv.am/media/assets/hayastan.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NorHayastan/SAF-HLS/NorHayastan.m3u8", Nor Hayastan
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NorHayastan/SAF-HLS/NorHayastan.m3u8
+#EXTINF:-1 tvg-name="Nor Hayastan Backup" tvg-logo="https://ptv.am/media/assets/hayastan.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NorHayastan/SAF-HLS/NorHayastan.m3u8", Nor Hayastan (Backup)
+https://cdn.hayastantv.com:8088/nor-hayastan/index.m3u8
+#EXTINF:-1 tvg-name="21TV" tvg-logo="https://ptv.am/media/assets/dar21.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/22/mono-timeshift_rel-1154.m3u8", 21TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DAR21TV/SAF-HLS/DAR21TV.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://ptv.am/media/assets/16698.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ATV/SAF-HLS/ATV.m3u8", ATV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ATV/SAF-HLS/ATV.m3u8
+#EXTINF:-1 tvg-name="Kinoman" tvg-logo="https://ptv.am/media/assets/976.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/16/timeshift_rel-1154.m3u8", Kinoman
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/KinomanTV/SAF-HLS/KinomanTV.m3u8
+#EXTINF:-1 tvg-name="Bazmots TV" tvg-logo="https://ptv.am/media/assets/bazmoc.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/216/mono-timeshift_rel-1154.m3u8", Bazmots TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/216/mono.m3u8
+#EXTINF:-1 tvg-name="Khaghaliq" tvg-logo="https://ptv.am/media/assets/xaxaliq.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Xaxaliq/SAF-HLS/Xaxaliq.m3u8", Khaghaliq
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Xaxaliq/SAF-HLS/Xaxaliq.m3u8
+#EXTINF:-1 tvg-name="Hay TV" tvg-logo="https://ptv.am/media/assets/974.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HAY_TV/SAF-HLS/HAY_TV.m3u8", Hay TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HAY_TV/SAF-HLS/HAY_TV.m3u8
+#EXTINF:-1 tvg-name="ATV Muzzone" tvg-logo="https://ptv.am/media/assets/muzzone.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/214/mono-timeshift_rel-1154.m3u8", ATV Muzzone
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/214/mono.m3u8
+#EXTINF:-1 tvg-name="Tava TV" tvg-logo="https://ptv.am/media/assets/tava.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/14/mono-timeshift_rel-1154.m3u8", Tava TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TAVA_TV/SAF-HLS/TAVA_TV.m3u8
+#EXTINF:-1 tvg-name="Azatutyun" tvg-logo="https://ptv.am/media/assets/azat.png", Azatutyun
+https://ptv.am/media/streams/no-signal/no-signal.mp4
+#EXTINF:-1 tvg-name="Jan TV" tvg-logo="https://ptv.am/media/assets/jan.png", Jan TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/JanTV/mono.m3u8
+#EXTINF:-1 tvg-name="Jan TV Backup" tvg-logo="https://ptv.am/media/assets/jan.png", Jan TV (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/JanTV/SAF-HLS/JanTV.m3u8
+#EXTINF:-1 tvg-name="Comedy" tvg-logo="https://ptv.am/media/assets/comedy.png", Comedy
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Comedy/mono.m3u8
+#EXTINF:-1 tvg-name="Comedy Backup" tvg-logo="https://ptv.am/media/assets/comedy.png", Comedy (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Comedy/SAF-HLS/Comedy.m3u8
+#EXTINF:-1 tvg-name="Tuntunik" tvg-logo="https://ptv.am/media/assets/973.png", Tuntunik
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/TunTunik/mono.m3u8
+#EXTINF:-1 tvg-name="Tuntunik Backup" tvg-logo="https://ptv.am/media/assets/973.png", Tuntunik (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Tuntunik/SAF-HLS/Tuntunik.m3u8
+#EXTINF:-1 tvg-name="Cinemax TV" tvg-logo="https://ptv.am/media/assets/cinemax.png", Cinemax TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Sineman/mono.m3u8
+#EXTINF:-1 tvg-name="Cinemax TV Backup" tvg-logo="https://ptv.am/media/assets/cinemax.png", Cinemax TV (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Cineman/SAF-HLS/Cineman.m3u8
+#EXTINF:-1 tvg-name="ATV LifeHack" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3740002.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/17/mono-timeshift_rel-1154.m3u8", ATV LifeHack
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Filmzon/SAF-HLS/Filmzon.m3u8
+#EXTINF:-1 tvg-name="ATV Fitness" tvg-logo="https://ptv.am/media/assets/fitnes.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/215/mono-timeshift_rel-1154.m3u8", ATV Fitness
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/215/mono.m3u8
+#EXTINF:-1 tvg-name="Nur TV" tvg-logo="https://ptv.am/media/assets/nur.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/228/mono-timeshift_rel-1154.m3u8", Nur TV
+https://ptv.am/media/streams/no-signal/no-signal.mp4
+#EXTINF:-1 tvg-name="Delta TV" tvg-logo="https://ptv.am/media/assets/delta.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/148/mono-timeshift_rel-1154.m3u8", Delta TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/DeltaTV/mono.m3u8
+#EXTINF:-1 tvg-name="1 Lurer" tvg-logo="https://ptv.am/media/assets/lurer.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1-News-SDI/SAF-HLS/H1-News-SDI.m3u8", 1 Lurer
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1-News-SDI/SAF-HLS/H1-News-SDI.m3u8
+#EXTINF:-1 tvg-name="1 Lurer Backup" tvg-logo="https://ptv.am/media/assets/lurer.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1-News-SDI/SAF-HLS/H1-News-SDI.m3u8", 1 Lurer (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/h1/amtv3/am3abr/index.m3u8
+#EXTINF:-1 tvg-name="Tsayg" tvg-logo="https://ptv.am/media/assets/cay.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/Tsayg/mono-timeshift_rel-1154.m3u8", Tsayg
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Tsayg/mono.m3u8
+#EXTINF:-1 tvg-name="Fortuna TV" tvg-logo="https://ptv.am/media/assets/fortuna.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/220/mono-timeshift_rel-1154.m3u8", Fortuna TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Fortuna/mono.m3u8
+#EXTINF:-1 tvg-name="Lori TV" tvg-logo="https://ptv.am/media/assets/lori.png", Lori TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Lori/mono.m3u8
+#EXTINF:-1 tvg-name="Tavush TV" tvg-logo="https://ptv.am/media/uploads_channel_img/3740073.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/138/mono-timeshift_rel-1154.m3u8", Tavush TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/TavushTV/mono.m3u8
+#EXTINF:-1 tvg-name="5TV plus" tvg-logo="https://ptv.am/media/assets/5_ali.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/5Aliq_Plus/SAF-HLS/5Aliq_Plus.m3u8", 5TV plus
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/5Aliq_Plus/SAF-HLS/5Aliq_Plus.m3u8
+#EXTINF:-1 tvg-name="Free News" tvg-logo="https://ptv.am/media/assets/free_news.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/23/mono-timeshift_rel-1154.m3u8", Free News
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/23/mono.m3u8
+#EXTINF:-1 tvg-name="Kotayq TV" tvg-logo="https://ptv.am/media/assets/kotayq.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/123/mono-timeshift_rel-1154.m3u8", Kotayq TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Kotayq/mono.m3u8
+#EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="https://ptv.am/media/assets/967.png", Armenia Premium
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/PanArmenian/mono.m3u8
+#EXTINF:-1 tvg-name="Armenia Premium Backup" tvg-logo="https://ptv.am/media/assets/967.png", Armenia Premium (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Premium1/SAF-HLS/Premium1.m3u8
+#EXTINF:-1 tvg-name="HayKino" tvg-logo="https://ptv.am/media/assets/980.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv4/ch1474/mono.m3u8?token=leo123.v2_jRvN-G6AisPZ3VjxvpGQfFsnxxnpwMDzQh28NrzEKwziKF4wfFs6kJ5LtInQbBxSraqaCE97Gns", HayKino
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/HayKino/mono.m3u8
+#EXTINF:-1 tvg-name="HayKino Backup" tvg-logo="https://ptv.am/media/assets/980.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv4/ch1474/mono.m3u8?token=leo123.v2_jRvN-G6AisPZ3VjxvpGQfFsnxxnpwMDzQh28NrzEKwziKF4wfFs6kJ5LtInQbBxSraqaCE97Gns", HayKino (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HayKino/SAF-HLS/HayKino.m3u8
+#EXTINF:-1 tvg-name="Shant Gyumri" tvg-logo="https://ptv.am/media/uploads_channel_img/3740062.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/241/mono-timeshift_rel-1154.m3u8", Shant Gyumri
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch34/mono.m3u8
+#EXTINF:-1 tvg-name="Shant Gyumri Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/3740062.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/241/mono-timeshift_rel-1154.m3u8", Shant Gyumri (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/18.m3u8
+#EXTINF:-1 tvg-name="Shant Music" tvg-logo="https://ptv.am/media/uploads_channel_img/1491.png" catchup="default" catchup-source="http://10.hls.gd/ch1488/mono.m3u8?token=leo123.v2_-fq9nb5LcS9JZ55fmi3-wWWbP99o05pBsFdCCqK2iqoUlSY3cYl-lPxQZ-GX_-gg4S81ma2FwPY", Shant Music
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch706/mono.m3u8
+#EXTINF:-1 tvg-name="Shant Music Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/1491.png" catchup="default" catchup-source="http://10.hls.gd/ch1488/mono.m3u8?token=leo123.v2_-fq9nb5LcS9JZ55fmi3-wWWbP99o05pBsFdCCqK2iqoUlSY3cYl-lPxQZ-GX_-gg4S81ma2FwPY", Shant Music (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12503.m3u8
+#EXTINF:-1 tvg-name="Shant Kids" tvg-logo="https://ptv.am/media/uploads_channel_img/1490.png" catchup="default" catchup-source="http://10.hls.gd/ch1490/mono.m3u8?token=leo123.v2_2cZAwHh3XTZ6K4qv1nFwI_255xxwlu00yHNhftyUYlBU6LrN_4sN8la7bqXzdajPPdTTmGLQpc4", Shant Kids
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch707/mono.m3u8
+#EXTINF:-1 tvg-name="Shant Kids Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/1490.png" catchup="default" catchup-source="http://10.hls.gd/ch1490/mono.m3u8?token=leo123.v2_2cZAwHh3XTZ6K4qv1nFwI_255xxwlu00yHNhftyUYlBU6LrN_4sN8la7bqXzdajPPdTTmGLQpc4", Shant Kids (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/Shant_Kids
+#EXTINF:-1 tvg-name="Shant Comedy" tvg-logo="https://ptv.am/media/uploads_channel_img/1125.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv4/ch1125/mono.m3u8?token=leo123.v2_7naaWJoPxNtLOoyc0ltLLXApCgXMLzkmtYo8IE_UN9cwY5Y_fZzTDZhXwpwp1WBNkIndBlunz7w", Shant Comedy
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/Shant_Comedy
+#EXTINF:-1 tvg-name="Shant Comedy Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/1125.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv4/ch1125/mono.m3u8?token=leo123.v2_7naaWJoPxNtLOoyc0ltLLXApCgXMLzkmtYo8IE_UN9cwY5Y_fZzTDZhXwpwp1WBNkIndBlunz7w", Shant Comedy (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/Shant_Comedy
+#EXTINF:-1 tvg-name="Shant Film" tvg-logo="https://ptv.am/media/uploads_channel_img/1075.png" catchup="default" catchup-source="http://10.hls.gd/ch1075/mono.m3u8?token=leo123.v2_qSzX-1XPfUXWpZPOTn0cL3TA6EtQw1s0XXMSESJA2ub9XwnaruN-163-1pL-nMumj8HECR-pIfU", Shant Film
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12501.m3u8
+#EXTINF:-1 tvg-name="Shant Film Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/1075.png" catchup="default" catchup-source="http://10.hls.gd/ch1075/mono.m3u8?token=leo123.v2_qSzX-1XPfUXWpZPOTn0cL3TA6EtQw1s0XXMSESJA2ub9XwnaruN-163-1pL-nMumj8HECR-pIfU", Shant Film (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/Shant_Film
+#EXTINF:-1 tvg-name="Shant Premium" tvg-logo="https://ptv.am/media/uploads_channel_img/1487_UU2FfLO.png" catchup="default" catchup-source="http://10.hls.gd/ch1487/mono.m3u8?token=leo123.v2_qDy3_3fK-xUgjw1NAAZJjFo_HKcAwcZdgwUAgAM7Xf-84ZkVL-Lmi2Ixh309umn_dVKJ1zGHkB0", Shant Premium
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch704/mono.m3u8
+#EXTINF:-1 tvg-name="Shant Premium Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/1487_UU2FfLO.png" catchup="default" catchup-source="http://10.hls.gd/ch1487/mono.m3u8?token=leo123.v2_qDy3_3fK-xUgjw1NAAZJjFo_HKcAwcZdgwUAgAM7Xf-84ZkVL-Lmi2Ixh309umn_dVKJ1zGHkB0", Shant Premium (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/19.m3u8
+#EXTINF:-1 tvg-name="Bun TV" tvg-logo="https://ptv.am/media/uploads_channel_img/3740045.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/18/mono-timeshift_rel-1154.m3u8", Bun TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/18/mono.m3u8
+#EXTINF:-1 tvg-name="Velary" tvg-logo="https://ptv.am/media/uploads_channel_img/3740066.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/223/mono-timeshift_rel-1154.m3u8", Velary
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/223/mono.m3u8
+#EXTINF:-1 tvg-name="Arma TV" tvg-logo="https://ptv.am/media/assets/arma.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/24/mono-timeshift_rel-1154.m3u8", Arma TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/24/mono.m3u8
+#EXTINF:-1 tvg-name="Syuniq TV" tvg-logo="https://ptv.am/media/uploads_channel_img/3740095.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/141/mono-timeshift_rel-1154.m3u8", Syuniq TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/Syuniq/mono.m3u8
+#EXTINF:-1 tvg-name="Geghama TV" tvg-logo="https://ptv.am/media/uploads_channel_img/3740070.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/246/mono-timeshift_rel-1154.m3u8", Geghama TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/246/mono.m3u8
+#EXTINF:-1 tvg-name="Armenian Business News" tvg-logo="https://ptv.am/media/assets/ayo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ABN/SAF-HLS/ABN.m3u8", Armenian Business News
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ABN/SAF-HLS/ABN.m3u8
+#EXTINF:-1 tvg-name="Armenian Business News Backup" tvg-logo="https://ptv.am/media/assets/ayo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ABN/SAF-HLS/ABN.m3u8", Armenian Business News (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/217/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://ptv.am/media/assets/fresh.png", Fresh TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Fresh/mono.m3u8
+#EXTINF:-1 tvg-name="Mig TV" tvg-logo="https://ptv.am/media/assets/17830.png", Mig TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/migtv/mono.m3u8
+#EXTINF:-1 tvg-name="Euromedia 24" tvg-logo="https://ptv.am/media/assets/17830.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/H1-News-SDI/SAF-HLS/H1-News-SDI.m3u8", Euromedia 24
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12552.m3u8
+#EXTINF:-1 tvg-name="Fast Sports" tvg-logo="https://ptv.am/media/assets/21661.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/243/mono-timeshift_rel-1154.m3u8", Fast Sports
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/VMedia/SAF-HLS/VMedia.m3u8
+#EXTINF:-1 tvg-name="Fast Sports 1" tvg-logo="https://ptv.am/media/uploads_channel_img/download.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel2new/index.m3u8", Fast Sports 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel2new/index.m3u8
+#EXTINF:-1 tvg-name="Fast Sports 2" tvg-logo="https://ptv.am/media/uploads_channel_img/download_1.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel3new/index.m3u8", Fast Sports 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel3new/index.m3u8
+#EXTINF:-1 tvg-name="ArmToon" tvg-logo="https://ptv.am/media/assets/17840.png", ArmToon
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArmToon/mono.m3u8
+#EXTINF:-1 tvg-name="ARTN TV" tvg-logo="https://ptv.am/media/uploads_channel_img/artn.png", ARTN TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ARTN/mono.m3u8
+#EXTINF:-1 tvg-name="ARTN TV Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/artn.png", ARTN TV (Backup)
+https://streamer1.connectto.com/ARTN_mobile/playlist.m3u8
+#EXTINF:-1 tvg-name="US Armenia" tvg-logo="https://ptv.am/media/assets/17830.png", US Armenia
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/USArmenia/mono.m3u8
+#EXTINF:-1 tvg-name="US Armenia Backup" tvg-logo="https://ptv.am/media/assets/17830.png", US Armenia (Backup)
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 tvg-name="amga TV" tvg-logo="https://ptv.am/media/assets/17830.png", amga TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/AMGA/mono.m3u8
+#EXTINF:-1 tvg-name="amga TV Backup" tvg-logo="https://ptv.am/media/assets/17830.png", amga TV (Backup)
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 tvg-name="Delta Music" tvg-logo="https://ptv.am/media/assets/17830.png", Delta Music
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/DeltaMusic/mono.m3u8
+#EXTINF:-1 tvg-name="Ararat TV" tvg-logo="https://ptv.am/media/uploads_channel_img/3740074.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/137/mono-timeshift_rel-1154.m3u8", Ararat TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/AraratTV/mono.m3u8
+#EXTINF:-1 tvg-name="1in.am" tvg-logo="https://ptv.am/media/assets/17830.png", 1in.am
+https://ptv.am/media/streams/no-signal/no-signal.mp4
+#EXTINF:-1 tvg-name="1in.am Backup" tvg-logo="https://ptv.am/media/assets/17830.png", 1in.am (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/1in.am/mono.m3u8
+#EXTINF:-1 tvg-name="Alpha News" tvg-logo="https://ptv.am/media/uploads_channel_img/3740100.png", Alpha News
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/alpha-news/mono.m3u8
+#EXTINF:-1 tvg-name="PTV Ֆիլմեր" tvg-logo="https://ptv.am/media/uploads_channel_img/logo_KkNanyT.png", PTV Ֆիլմեր
+http://217.113.25.225:8787/public/2/live/stream.m3u8
+#EXTINF:-1 tvg-name="PTV Մանկական" tvg-logo="https://ptv.am/media/uploads_channel_img/Black__White_Minimalist_Business_Logo2222_1_rfuTPqt.png", PTV Մանկական
+http://217.113.25.225:8787/public/1/live/stream.m3u8
+#EXTINF:-1 tvg-name="PTV Սպորտ" tvg-logo="https://ptv.am/media/assets/ptv-sport.png", PTV Սպորտ
+http://217.113.25.225:8787/public/3/live/stream.m3u8
+#EXTINF:-1 tvg-name="PTV Սպորտ Backup" tvg-logo="https://ptv.am/media/assets/ptv-sport.png", PTV Սպորտ (Backup)
+https://ptv.am/media/streams/ptvFilms/series/no-signal/master.m3u8
+#EXTINF:-1 tvg-name="Հ1 Արբանյակային" tvg-logo="https://cinemania.am/storage/title-posters/670a21bd-d906-4bb7-a0b2-8cafd4df4f6b.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/amtvusdvr/am2abr/index.m3u8", Հ1 Արբանյակային
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/h1/amtv1/am2abr/index.m3u8
+#EXTINF:-1 tvg-name="Հ1 Արբանյակային Backup" tvg-logo="https://cinemania.am/storage/title-posters/670a21bd-d906-4bb7-a0b2-8cafd4df4f6b.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/amtvusdvr/am2abr/index.m3u8", Հ1 Արբանյակային (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/h1/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-name="High Vision (Շանթ) TV" tvg-logo="https://cinemania.am/storage/title-posters/7ec9e916-d7ef-4584-a85e-192abee760c3.webp", High Vision (Շանթ) TV
+https://streamer3.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-name="HayerjanMusic" tvg-logo="https://ptv.am/media/uploads_channel_img/573329215_3862764884014027_5727729921281287313_n.jpg", HayerjanMusic
+http://45.11.139.112:9555/hayerjan/index.m3u8
+#EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://cinemania.am/storage/title-posters/d5b55b20-a710-4f93-bf11-05201e89c36b.webp", AABC TV
+https://streamer3.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-name="Boyevik24/7" tvg-logo="https://ptv.am/media/uploads_channel_img/575657188_2549146338802121_2545627680528623347_n.jpg", Boyevik24/7
+http://45.11.139.43:8555/boyevik/index.m3u8
+#EXTINF:-1 tvg-name="Shant Serial" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/6834.png" catchup="default" catchup-source="http://10.hls.gd/ch1080/mono.m3u8?token=leo123.v2_jO0HhKCYWEkfAo0gnumV4NZsEi9ysivwCkt9jS2I2XjWh1WPo0Hb35TVhADopodaiug5TYv5Hzc", Shant Serial
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch705/mono.m3u8
+#EXTINF:-1 tvg-name="Shant Serial Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/6834.png" catchup="default" catchup-source="http://10.hls.gd/ch1080/mono.m3u8?token=leo123.v2_jO0HhKCYWEkfAo0gnumV4NZsEi9ysivwCkt9jS2I2XjWh1WPo0Hb35TVhADopodaiug5TYv5Hzc", Shant Serial (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/20.m3u8
+#EXTINF:-1 tvg-name="Noyan Tapan" tvg-logo="https://ptv.am/media/uploads_channel_img/3740087_xho7Cmm.png" catchup="default" catchup-source="http://10.hls.gd/ch1491/mono.m3u8?token=leo123.v2_IaW4SmqC_QtlHtAljNeDcgHOMQC8ceSPHmGL6WIWDv8nSiBwKyibP8ri0M1Ik10dkamI8JsAXcE", Noyan Tapan
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch33/mono.m3u8
+#EXTINF:-1 tvg-name="Noyan Tapan Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/3740087_xho7Cmm.png" catchup="default" catchup-source="http://10.hls.gd/ch1491/mono.m3u8?token=leo123.v2_IaW4SmqC_QtlHtAljNeDcgHOMQC8ceSPHmGL6WIWDv8nSiBwKyibP8ri0M1Ik10dkamI8JsAXcE", Noyan Tapan (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12.m3u8
+#EXTINF:-1 tvg-name="Hibrid Films" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3740077.png", Hibrid Films
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Hibrid EDU" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3740078.png", Hibrid EDU
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Delta Travel" tvg-logo="https://ptv.am/media/uploads_channel_img/3740115.png", Delta Travel
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12702.m3u8
+#EXTINF:-1 tvg-name="PanArmenian (test)" tvg-logo="http://hls.gd/images/chIcons/1504.png", PanArmenian (test)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/PanArmenian_TV
+#EXTINF:-1 tvg-name="PanArmenian (test) Backup" tvg-logo="http://hls.gd/images/chIcons/1504.png", PanArmenian (test) (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/PanArmenian_TV
+#EXTINF:-1 tvg-name="Arajin Aliq USA (test)" tvg-logo="https://ptv.am/media/assets/arajinaliqusa.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/amtvusdvr/am4abr/index.m3u8", Arajin Aliq USA (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/amtvusdvr/am4abr/index.m3u8
+#EXTINF:-1 tvg-name="Arajin Aliq USA (test) Backup" tvg-logo="https://ptv.am/media/assets/arajinaliqusa.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/amtvusdvr/am4abr/index.m3u8", Arajin Aliq USA (test) (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/h1/amtv3/am4abr/index.m3u8
+#EXTINF:-1 tvg-name="EVN Հայ Դուբլ (test)" tvg-logo="http://logo.vivamax.pro/logo/evnhaydubl.png", EVN Հայ Դուբլ (test)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/EVN_ՀայԴուբլ
+#EXTINF:-1 tvg-name="EVN Դուբլ Ժամ (test)" tvg-logo="http://logo.vivamax.pro/logo/evndubljam.png", EVN Դուբլ Ժամ (test)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/EVN_ԴուբլԺամ
+#EXTINF:-1 tvg-name="EVN Դուբլ Արտ (test)" tvg-logo="http://logo.vivamax.pro/logo/evndublart.png", EVN Դուբլ Արտ (test)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/EVN_ԴուբլԱրտ
+#EXTINF:-1 tvg-name="Song tv Armenia" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/17211.png", Song tv Armenia
+https://ptv.am/songtv/web-armenia/lhigh/playlist.m3u8
+#EXTINF:-1 tvg-name="Hayastan tv music (test)" tvg-logo="http://logo.vivamax.pro/logo/hayastantvmusic.png", Hayastan tv music (test)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/HayastanTV_Music
+#EXTINF:-1 tvg-name="HayastanTV Humor (test)" tvg-logo="http://logo.vivamax.pro/logo/hayastantvhumor.png", HayastanTV Humor (test)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/HayastanTV_Humor
+#EXTINF:-1 tvg-name="Blues Tv (test)" tvg-logo="http://hls.gd/images/chIcons/1544.png", Blues Tv (test)
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Blues Tv (test) Backup" tvg-logo="http://hls.gd/images/chIcons/1544.png", Blues Tv (test) (Backup)
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Horizon (test)" tvg-logo="http://logo.vivamax.pro/logo/horizon.png", Horizon (test)
+https://1.allnetcom.com/Horizon/Website/6030.m3u8
+#EXTINF:-1 tvg-name="Horizon (test) Backup" tvg-logo="http://logo.vivamax.pro/logo/horizon.png", Horizon (test) (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/Horizon
+#EXTINF:-1 tvg-name="Aurora TV (test)" tvg-logo="http://logo.vivamax.pro/logo/auroratv.png", Aurora TV (test)
+https://ptv.am/okcdn/hls/7379763858075.m3u8/sig/kvrhL_eQSE4/expires/1789125806951/srcIp/31.47.193.92/urls/185.226.55.90/clientType/0/srcAg/CHROME/mid/8602647142043/7379763858075_high/index.m3u8
+#EXTINF:-1 tvg-name="Radio Van" tvg-logo="https://images.seeklogo.com/logo-png/23/2/radiovan-logo-png_seeklogo-233200.png", Radio Van
+https://hls-02-video.webcaramba.com/radiovan/live_hiq/index.m3u8
+#EXTINF:-1 tvg-name="Kiss FM Armenia" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/80608.v8.png", Kiss FM Armenia
+https://ptv.am/okcdn/hls/392147831308.m3u8/sig/xmpjhB5CVYg/expires/1789125770863/srcIp/31.47.193.92/urls/95.163.35.104/clientType/0/srcAg/CHROME/mid/664807546380/392147831308_high/index.m3u8
+#EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="https://ptv.am/media/assets/tbn-armenia.png", TBN Armenia
+https://164475.gvideo.io/cmaf/164475_650646/master.m3u8
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://ptv.am/media/assets/21123.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/25/timeshift_rel-1154.m3u8", Первый канал
+https://cdn8.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-name="Первый канал Backup" tvg-logo="https://ptv.am/media/assets/21123.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/25/timeshift_rel-1154.m3u8", Первый канал (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/25/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ Мир" tvg-logo="https://ptv.am/media/uploads_channel_img/3F3F3F_3F_20103F3F3F3F_3F29.webp" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NTVMir/SAF-HLS/NTVMir.m3u8", НТВ Мир
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NTVMir/SAF-HLS/NTVMir.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://ptv.am/media/uploads_channel_img/656.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/186/timeshift_rel-1154.m3u8", Россия 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/live/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://ptv.am/media/uploads_channel_img/30.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/34/timeshift_rel-1154.m3u8", Россия 24
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/34/mono.m3u8
+#EXTINF:-1 tvg-name="Россия 24 Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/30.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/34/timeshift_rel-1154.m3u8", Россия 24 (Backup)
+https://streaming.televizor24.cc/live/30.m3u8
+#EXTINF:-1 tvg-name="Россия Культуpa" tvg-logo="https://ptv.am/media/uploads_channel_img/28_2JwkZ1Z.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RossiaK/SAF-HLS/RossiaK.m3u8", Россия Культуpa
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RossiaK/SAF-HLS/RossiaK.m3u8
+#EXTINF:-1 tvg-name="Россия Культуpa Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/28_2JwkZ1Z.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RossiaK/SAF-HLS/RossiaK.m3u8", Россия Культуpa (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/33/mono.m3u8
+#EXTINF:-1 tvg-name="Мир" tvg-logo="https://ptv.am/media/uploads_channel_img/15.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/MIR_TV/SAF-HLS/MIR_TV.m3u8", Мир
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/15.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/MIR_TV/SAF-HLS/MIR_TV.m3u8", Мир (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/MIR_TV/SAF-HLS/MIR_TV.m3u8
+#EXTINF:-1 tvg-name="Мир 24" tvg-logo="https://ptv.am/media/uploads_channel_img/58789.webp" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/70/timeshift_rel-1154.m3u8", Мир 24
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/70/mono.m3u8
+#EXTINF:-1 tvg-name="Мир 24 Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/58789.webp" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/70/timeshift_rel-1154.m3u8", Мир 24 (Backup)
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="РБК НD" tvg-logo="https://ptv.am/media/uploads_channel_img/8.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/185/timeshift_rel-1154.m3u8", РБК НD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/185/mono.m3u8
+#EXTINF:-1 tvg-name="Рен тв" tvg-logo="https://ptv.am/media/uploads_channel_img/REN_TV_logo_2015.svg.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/28/timeshift_rel-1154.m3u8", Рен тв
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/28/mono.m3u8
+#EXTINF:-1 tvg-name="Россия RTR" tvg-logo="https://ptv.am/media/assets/russia-rtr.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/186/timeshift_rel-1154.m3u8", Россия RTR
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/186/mono.m3u8
+#EXTINF:-1 tvg-name="Дождь" tvg-logo="https://ptv.am/media/assets/60.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/2030/index.m3u8", Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/index.m3u8
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="https://ptv.am/media/assets/ntv-hd.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/33/timeshift_rel-1154.m3u8", НТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/ntv/ntv0_foreign/index.m3u8
+#EXTINF:-1 tvg-name="RTR Planeta" tvg-logo="https://ptv.am/media/assets/RTR_Planeta.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RTRPlaneta/SAF-HLS/RTRPlaneta.m3u8", RTR Planeta
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RTRPlaneta/SAF-HLS/RTRPlaneta.m3u8
+#EXTINF:-1 tvg-name="RTR Planeta Backup" tvg-logo="https://ptv.am/media/assets/RTR_Planeta.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RTRPlaneta/SAF-HLS/RTRPlaneta.m3u8", RTR Planeta (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Россия 1. Калуга" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/600/6.png", Россия 1. Калуга
+https://live-gtrk.smotrim.ru/vgtrk/kaluga/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1. Калуга Backup" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/600/6.png", Россия 1. Калуга (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Россия 1. Астрахань" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/601/8.png", Россия 1. Астрахань
+https://live-gtrk.smotrim.ru/vgtrk/astrahan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1. Астрахань Backup" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/601/8.png", Россия 1. Астрахань (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Canale 2 Italia" tvg-logo="https://freetv.fun/media/images/channel/2022/05/06/large/20220506174632453514_44.png", Canale 2 Italia
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale 2 Italia Backup" tvg-logo="https://freetv.fun/media/images/channel/2022/05/06/large/20220506174632453514_44.png", Canale 2 Italia (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="8 канал" tvg-logo="https://ptv.am/media/assets/8-kanal.png", 8 канал
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/8_Kanal/SAF-HLS/8_Kanal.m3u8
+#EXTINF:-1 tvg-name="8 канал Backup" tvg-logo="https://ptv.am/media/assets/8-kanal.png", 8 канал (Backup)
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-name="Перец" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/4795.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Peretz/SAF-HLS/Peretz.m3u8", Перец
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Peretz/SAF-HLS/Peretz.m3u8
+#EXTINF:-1 tvg-name="Перец Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/4795.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Peretz/SAF-HLS/Peretz.m3u8", Перец (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/60.m3u8
+#EXTINF:-1 tvg-name="Пятый канал" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/4970.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/5_Kanal/SAF-HLS/5_Kanal.m3u8", Пятый канал
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/5_Kanal/SAF-HLS/5_Kanal.m3u8
+#EXTINF:-1 tvg-name="News Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NewsMax/SAF-HLS/NewsMax.m3u8", News Max
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NewsMax/SAF-HLS/NewsMax.m3u8
+#EXTINF:-1 tvg-name="Россия 1. Владивосток" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/598/7.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/545/index.m3u8", Россия 1. Владивосток
+https://live-gtrk.smotrim.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-name="НТВ ПРАВО" tvg-logo="https://ramnet.ru/tv/logo/000002759.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NTV_Pravo/SAF-HLS/NTV_Pravo.m3u8", НТВ ПРАВО
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/NTV_Pravo/SAF-HLS/NTV_Pravo.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/12110.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/France_24/SAF-HLS/France_24.m3u8", France 24
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/France_24/SAF-HLS/France_24.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/11710.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/185/timeshift_rel-1154.m3u8", Euronews
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/185/mono.m3u8
+#EXTINF:-1 tvg-name="Euronews Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/11710.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/185/timeshift_rel-1154.m3u8", Euronews (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/7.m3u8
+#EXTINF:-1 tvg-name="Настоящее время" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3792.png", Настоящее время
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8
+#EXTINF:-1 tvg-name="Настоящее время Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3792.png", Настоящее время (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/8082.m3u8
+#EXTINF:-1 tvg-name="Nika" tvg-logo="https://nikatv.ru/public/img/logo_og.png", Nika
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Nika Backup" tvg-logo="https://nikatv.ru/public/img/logo_og.png", Nika (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="HTM" tvg-logo="https://i.imgur.com/AH50pGT.png", HTM
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="HTM Backup" tvg-logo="https://i.imgur.com/AH50pGT.png", HTM (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="НТС" tvg-logo="https://i.imgur.com/skkDR7q.png", НТС
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="НТС Backup" tvg-logo="https://i.imgur.com/skkDR7q.png", НТС (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Прима" tvg-logo="https://i.imgur.com/vpGZPyh.png", Прима
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 tvg-name="Прима Backup" tvg-logo="https://i.imgur.com/vpGZPyh.png", Прима (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="РЖД ТВ" tvg-logo="https://i.imgur.com/lf1r9L6.png", РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="РЖД ТВ Backup" tvg-logo="https://i.imgur.com/lf1r9L6.png", РЖД ТВ (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="ТВЦ" tvg-logo="https://logo-teka.com/wp-content/uploads/2026/03/tv-center-logo-300x155.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TVC/SAF-HLS/TVC.m3u8", ТВЦ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TVC/SAF-HLS/TVC.m3u8
+#EXTINF:-1 tvg-name="ТВЦ Backup" tvg-logo="https://logo-teka.com/wp-content/uploads/2026/03/tv-center-logo-300x155.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TVC/SAF-HLS/TVC.m3u8", ТВЦ (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="МИР" tvg-logo="https://i.imgur.com/Murt4NK.png", МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="МИР Backup" tvg-logo="https://i.imgur.com/Murt4NK.png", МИР (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Мир +2" tvg-logo="https://i.imgur.com/i6JthjI.png", Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир +2 Backup" tvg-logo="https://i.imgur.com/i6JthjI.png", Мир +2 (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Мир +4" tvg-logo="https://i.imgur.com/CrFWXTD.png", Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир +4 Backup" tvg-logo="https://i.imgur.com/CrFWXTD.png", Мир +4 (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Мир +7" tvg-logo="https://i.imgur.com/CrFWXTD.png", Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир +7 Backup" tvg-logo="https://i.imgur.com/CrFWXTD.png", Мир +7 (Backup)
+https://download-rai-it.akamaized.net/video_no_available.mp4
+#EXTINF:-1 tvg-name="Первый канал за рубежом" tvg-logo="https://rustv.life/images/bg-tv/pervyy_za_rubezhom.png", Первый канал за рубежом
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-name="Первый канал за рубежом Backup" tvg-logo="https://rustv.life/images/bg-tv/pervyy_za_rubezhom.png", Первый канал за рубежом (Backup)
+https://streaming.televizor-24-tochka.ru/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-name="Rai 1 FHD" tvg-logo="https://images.seeklogo.com/logo-png/31/1/rai-1-hd-logo-png_seeklogo-314913.png", Rai 1 FHD
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Россия 1. Владикавказ" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/597/8.png", Россия 1. Владикавказ
+https://live-gtrk.smotrim.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1. Екатеринбург" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/605/1.png", Россия 1. Екатеринбург
+https://live-gtrk.smotrim.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1. Нижний Новгород" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/602/4.png", Россия 1. Нижний Новгород
+https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1. Новосибирск" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/602/5.png", Россия 1. Новосибирск
+https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="FREEDOM (test)" tvg-logo="None", FREEDOM (test)
+https://iptv.prosto.tv/ch173/index.m3u8
+#EXTINF:-1 tvg-name="M24" tvg-logo="None", M24
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="None", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="1" tvg-logo="None", 1
+https://streaming.televizor24.cc/live/27.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="None", TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="NTD News" tvg-logo="None", NTD News
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="None", ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-name="DW News" tvg-logo="None", DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://ptv.am/media/assets/43.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/58/mono-timeshift_rel-1154.m3u8", Кинохит
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/58/mono.m3u8
+#EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://ptv.am/media/assets/671.png", Киномикс
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kinomix/SAF-HLS/Kinomix.m3u8
+#EXTINF:-1 tvg-name="Киномикс Backup" tvg-logo="https://ptv.am/media/assets/671.png", Киномикс (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/73.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://ptv.am/media/assets/700.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/77/mono-timeshift_rel-1154.m3u8", Киносвидание
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kinosvidanie/SAF-HLS/Kinosvidanie.m3u8
+#EXTINF:-1 tvg-name="Киносвидание Backup" tvg-logo="https://ptv.am/media/assets/700.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/77/mono-timeshift_rel-1154.m3u8", Киносвидание (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/77/mono.m3u8
+#EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://ptv.am/media/assets/669.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/59/mono-timeshift_rel-1154.m3u8", Киносемья
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/59/mono.m3u8
+#EXTINF:-1 tvg-name="Киносемья Backup" tvg-logo="https://ptv.am/media/assets/669.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/59/mono-timeshift_rel-1154.m3u8", Киносемья (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/74.m3u8
+#EXTINF:-1 tvg-name="Киносерия" tvg-logo="https://ptv.am/media/assets/VeleS.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/64/mono-timeshift_rel-1154.m3u8", Киносерия
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/64/mono.m3u8
+#EXTINF:-1 tvg-name="Киноужас" tvg-logo="https://ptv.am/media/assets/43.png", Киноужас
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/KinoUjas/mono.m3u8
+#EXTINF:-1 tvg-name="Киноужас Backup" tvg-logo="https://ptv.am/media/assets/43.png", Киноужас (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/79.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit" tvg-logo="https://ptv.am/media/assets/442.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/132/mono-timeshift_rel-1154.m3u8", Amedia Hit
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/132/mono.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://ptv.am/media/assets/443.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/155/mono-timeshift_rel-1154.m3u8", Amedia Premium
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/155/mono.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000" tvg-logo="https://ptv.am/media/assets/21012.png", Viju TV1000
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/vijuTV1000/mono.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000 Action" tvg-logo="https://ptv.am/media/assets/21004.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/163/mono-timeshift_rel-1154.m3u8", Viju TV1000 Action
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/163/mono.m3u8
+#EXTINF:-1 tvg-name="A1" tvg-logo="https://er-com.net/wp-content/uploads/2023/10/5897f2a3676690ee04f461ae0269674d.png", A1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/A1/mono.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-logo="https://er-com.net/wp-content/uploads/2023/10/0b66723eb8b249f14639027639333278.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/116/mono-timeshift_rel-1154.m3u8", A2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/116/timeshift_rel-1154.m3u8
+#EXTINF:-1 tvg-name="Viju+ Megahit" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17800.png", Viju+ Megahit
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/187/mono.m3u8
+#EXTINF:-1 tvg-name="Viju+ Comedy" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17795.png", Viju+ Comedy
+https://a3285273028-s70378.cdn.ngenix.net/vip_comedy/4/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Comedy Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17795.png", Viju+ Comedy (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1424.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Action HD" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/17789.png", Viasat Kino Action HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1535.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000 Русское кино" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17790.png", Viju TV1000 Русское кино
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/26/mono.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000 Русское кино Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17790.png", Viju TV1000 Русское кино (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/70.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/10495.png", Bollywood HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch99/mono.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/10495.png", Bollywood HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1449.m3u8
+#EXTINF:-1 tvg-name="Индия" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/19630.png", Индия
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/213/mono.m3u8
+#EXTINF:-1 tvg-name="Индия Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/19630.png", Индия (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/7446.m3u8
+#EXTINF:-1 tvg-name="Star Cinema" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17270.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Star_Cinema/SAF-HLS/Star_Cinema.m3u8", Star Cinema
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Star_Cinema/SAF-HLS/Star_Cinema.m3u8
+#EXTINF:-1 tvg-name="Star Cinema Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17270.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Star_Cinema/SAF-HLS/Star_Cinema.m3u8", Star Cinema (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/92.m3u8
+#EXTINF:-1 tvg-name="Star Family" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17272.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/StarFamily/SAF-HLS/StarFamily.m3u8", Star Family
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/StarFamily/SAF-HLS/StarFamily.m3u8
+#EXTINF:-1 tvg-name="Star Family Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/17272.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/StarFamily/SAF-HLS/StarFamily.m3u8", Star Family (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/86.m3u8
+#EXTINF:-1 tvg-name="Fresh Cinema" tvg-logo="https://ptv.am/media/assets/18523.png", Fresh Cinema
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshCinema/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Kids" tvg-logo="https://ptv.am/media/assets/18524.png", Fresh Kids
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshKids/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Comedy" tvg-logo="https://ptv.am/media/assets/18525.png", Fresh Comedy
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshComedy/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Premiere" tvg-logo="https://ptv.am/media/assets/18526.png", Fresh Premiere
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshPrem/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Fantastic" tvg-logo="https://ptv.am/media/assets/18530.png", Fresh Fantastic
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshFantastic/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Horror" tvg-logo="https://ptv.am/media/assets/18532.png", Fresh Horror
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshHorror/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Romantic" tvg-logo="https://ptv.am/media/assets/18534.png", Fresh Romantic
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshRomantic/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Series" tvg-logo="https://ptv.am/media/assets/18531.png", Fresh Series
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshSeries/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Soviet" tvg-logo="https://ptv.am/media/assets/18537.png", Fresh Soviet
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshSoviet/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Thiller" tvg-logo="https://ptv.am/media/assets/18536.png", Fresh Thiller
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Fresh-Thiller/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Family" tvg-logo="https://ptv.am/media/assets/18527.png", Fresh Family
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshFamily/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Rating" tvg-logo="https://ptv.am/media/assets/18528.png", Fresh Rating
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshRating/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh VHS" tvg-logo="https://ptv.am/media/assets/18529.png", Fresh VHS
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshVHS/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Adventure" tvg-logo="https://ptv.am/media/assets/18533.png", Fresh Adventure
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshAdventure/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Russian" tvg-logo="https://ptv.am/media/assets/18535.png", Fresh Russian
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshRuss/mono.m3u8
+#EXTINF:-1 tvg-name="Телекафе" tvg-logo="https://www.telecafe.ru/images/logo.png", Телекафе
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/TeleCafe/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Криминальные Сериалы" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Криминальные Сериалы
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch484/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Комедийные Сериалы" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Комедийные Сериалы
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch485/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch461/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Top" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Top
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch466/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Action" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Action
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch463/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Thriller" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Thriller
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch464/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Мелодрама" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Мелодрама
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch465/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Marvel" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Marvel
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch462/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Ужасы" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Ужасы
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch467/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Комедия" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Комедия
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch468/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan VHS" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan VHS
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch469/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan РуКино" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan РуКино
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch470/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan Сваты" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan Сваты
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch471/mono.m3u8
+#EXTINF:-1 tvg-name="CineMan  Военные" tvg-logo="https://ptv.am/media/assets/16829.png", CineMan  Военные
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch489/mono.m3u8
+#EXTINF:-1 tvg-name="Кинеко" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8199.png", Кинеко
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Kineko/mono.m3u8
+#EXTINF:-1 tvg-name="Vesna" tvg-logo="https://www.interfax.ru/ftproot/press/pr-rel/dddd/2024/vesna-logo_rgb_purple-blue.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Romance_Channel/SAF-HLS/Romance_Channel.m3u8", Vesna
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Romance_Channel/SAF-HLS/Romance_Channel.m3u8
+#EXTINF:-1 tvg-name="Легенда" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/960px-Legend_TV_logo.svg.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/LegendaHD/SAF-HLS/LegendaHD.m3u8", Легенда
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/LegendaHD/SAF-HLS/LegendaHD.m3u8
+#EXTINF:-1 tvg-name="Киноман" tvg-logo="https://www.cableman.ru/sites/default/files/%D0%91%D0%B5%D0%B7%20%D1%84%D0%BE%D0%BD%D0%B0.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kinoman_RuHD/SAF-HLS/Kinoman_RuHD.m3u8", Киноман
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kinoman_RuHD/SAF-HLS/Kinoman_RuHD.m3u8
+#EXTINF:-1 tvg-name="4Y" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/4Y_2025.svg/revision/latest/scale-to-width-down/250?cb=20250506190657" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/4You/SAF-HLS/4You.m3u8", 4Y
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/4You/SAF-HLS/4You.m3u8
+#EXTINF:-1 tvg-name="BCU Premer" tvg-logo="https://epg.iptvx.one/picons/bcu-premiere.png", BCU Premer
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1056/mono.m3u8
+#EXTINF:-1 tvg-name="BCU Kinorating" tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png", BCU Kinorating
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1055/mono.m3u8
+#EXTINF:-1 tvg-name="BCU Criminal" tvg-logo="https://epg.iptvx.one/picons/bcu-criminal.png", BCU Criminal
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1052/mono.m3u8
+#EXTINF:-1 tvg-name="BCU Action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png", BCU Action
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1050/mono.m3u8
+#EXTINF:-1 tvg-name="BCU Cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png", BCU Cinema
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1012/mono.m3u8
+#EXTINF:-1 tvg-name="BCU Cinema +" tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png", BCU Cinema +
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1013/mono.m3u8
+#EXTINF:-1 tvg-name="BCU ССР" tvg-logo="https://ptv.am/media/assets/21114.png", BCU ССР
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch510/mono.m3u8
+#EXTINF:-1 tvg-name="Yosso TV Советские Фильмы" tvg-logo="https://ptv.am/media/assets/17448.png", Yosso TV Советские Фильмы
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/14175/index.m3u8
+#EXTINF:-1 tvg-name="VF Леонид Гайдай" tvg-logo="https://epg.iptvx.one/picons/vf-gaidai.png", VF Леонид Гайдай
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/17004/index.m3u8
+#EXTINF:-1 tvg-name="VF Леонид Гайдай Backup" tvg-logo="https://epg.iptvx.one/picons/vf-gaidai.png", VF Леонид Гайдай (Backup)
+http://170.244.209.30:8000/play/a13q/index.m3u8
+#EXTINF:-1 tvg-name="Мужское кино" tvg-logo="https://toplogos.ru/images/logo-muzhskoe-kino.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/103/mono-timeshift_rel-1154.m3u8", Мужское кино
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/103/mono.m3u8
+#EXTINF:-1 tvg-name="Мужское кино Backup" tvg-logo="https://toplogos.ru/images/logo-muzhskoe-kino.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/103/mono-timeshift_rel-1154.m3u8", Мужское кино (Backup)
+http://170.244.209.30:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-name="Индийское  кино" tvg-logo="https://toplogos.ru/images/logo-indiyskoe-kino.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/60/mono-timeshift_rel-1154.m3u8", Индийское  кино
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/60/mono.m3u8
+#EXTINF:-1 tvg-name="Индийское  кино Backup" tvg-logo="https://toplogos.ru/images/logo-indiyskoe-kino.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/60/mono-timeshift_rel-1154.m3u8", Индийское  кино (Backup)
+http://8.243.126.131:8000/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-name="BCU кинозал Premiere1" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f6/BCU_Premiere.png/revision/latest/scale-to-width-down/250?cb=20210928080845&path-prefix=ru" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/1008/mono-timeshift_rel-1154.m3u8", BCU кинозал Premiere1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1008/mono.m3u8
+#EXTINF:-1 tvg-name="BCU кинозал Premiere2" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f6/BCU_Premiere.png/revision/latest/scale-to-width-down/250?cb=20210928080845&path-prefix=ru", BCU кинозал Premiere2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1009/mono.m3u8
+#EXTINF:-1 tvg-name="BCU кинозал Premiere3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f6/BCU_Premiere.png/revision/latest/scale-to-width-down/250?cb=20210928080845&path-prefix=ru", BCU кинозал Premiere3
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1010/mono.m3u8
+#EXTINF:-1 tvg-name="Дом кино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Логотип_канала_Дом_Кино.png", Дом кино
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/DomKino/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ сериал" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png" catchup="default" catchup-source="https://live-dvr.ntv.ru/th_serial/md5/PAV6bWF9fTJdaPJ1XDM0ag/tracks-v1a1/index-1788776640-3180.ts.m3u8", НТВ сериал
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/ntv/th_serial/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Box Hibrid" tvg-logo="https://ptv.am/media/assets/box-hybrid.png", Box Hibrid
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch557/mono.m3u8
+#EXTINF:-1 tvg-name="Box Hibrid Backup" tvg-logo="https://ptv.am/media/assets/box-hybrid.png", Box Hibrid (Backup)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3392
+#EXTINF:-1 tvg-name="Box Franchise" tvg-logo="https://ptv.am/media/assets/franchise.png", Box Franchise
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch558/mono.m3u8
+#EXTINF:-1 tvg-name="Box Oscar" tvg-logo="https://ptv.am/media/assets/oscar.png", Box Oscar
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch561/mono.m3u8
+#EXTINF:-1 tvg-name="Bridge" tvg-logo="https://ptv.am/media/assets/Bridge.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/BRIDGE_TV/SAF-HLS/BRIDGE_TV.m3u8", Bridge
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/BRIDGE_TV/SAF-HLS/BRIDGE_TV.m3u8
+#EXTINF:-1 tvg-name="Bridge Backup" tvg-logo="https://ptv.am/media/assets/Bridge.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/BRIDGE_TV/SAF-HLS/BRIDGE_TV.m3u8", Bridge (Backup)
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-tv/playlist.m3u8?md5=zgVqoUH64mBEIQWrpASfew&e=1788596857
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-logo="https://ptv.am/media/assets/18.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/120/timeshift_rel-1154.m3u8", МУЗ-ТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Muz_TV/SAF-HLS/Muz_TV.m3u8
+#EXTINF:-1 tvg-name="МУЗ-ТВ Backup" tvg-logo="https://ptv.am/media/assets/18.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/120/timeshift_rel-1154.m3u8", МУЗ-ТВ (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/120/mono.m3u8
+#EXTINF:-1 tvg-name="Europa Plus" tvg-logo="https://ptv.am/media/assets/226.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/100/timeshift_rel-1154.m3u8", Europa Plus
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/33/mono.m3u8
+#EXTINF:-1 tvg-name="Bridge Русский Хит" tvg-logo="https://ptv.am/media/assets/21002.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/84/timeshift_rel-1154.m3u8", Bridge Русский Хит
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/240/mono.m3u8
+#EXTINF:-1 tvg-name="Bridge Hits" tvg-logo="https://ptv.am/media/assets/21782.png", Bridge Hits
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/BridgeHits/mono.m3u8
+#EXTINF:-1 tvg-name="BRIDGE Фрэш" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/10517.png", BRIDGE Фрэш
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/7429.m3u8
+#EXTINF:-1 tvg-name="BRIDGE Classic" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/10512.png", BRIDGE Classic
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1444.m3u8
+#EXTINF:-1 tvg-name="BRIDGE Шлягер" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/10515.png", BRIDGE Шлягер
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1029/mono.m3u8
+#EXTINF:-1 tvg-name="BRIDGE Deluxe" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/10511.png", BRIDGE Deluxe
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1446.m3u8
+#EXTINF:-1 tvg-name="МUSIC-LIVE" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/3410.png", МUSIC-LIVE
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/MusicLive/mono.m3u8
+#EXTINF:-1 tvg-name="Музыка Кино" tvg-logo="https://smotret.tv/images/muzyka-kino.webp" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/166/timeshift_rel-1154.m3u8", Музыка Кино
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-name="RadioNorba" tvg-logo="https://freetv.fun/media/images/channel/2022/05/06/large/20220506174923764585_39.png", RadioNorba
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Bridge Rock" tvg-logo="https://ptv.am/media/assets/21726.png", Bridge Rock
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch135/mono.m3u8
+#EXTINF:-1 tvg-name="FON Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/FON_MUSIC.png/revision/latest/scale-to-width-down/1200?cb=20260128120600" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TNT_Music/SAF-HLS/TNT_Music.m3u8", FON Music
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FON Music Backup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/FON_MUSIC.png/revision/latest/scale-to-width-down/1200?cb=20260128120600" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TNT_Music/SAF-HLS/TNT_Music.m3u8", FON Music (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TNT_Music/SAF-HLS/TNT_Music.m3u8
+#EXTINF:-1 tvg-name="Шансон TV" tvg-logo="https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/CHANSON/SAF-HLS/CHANSON.m3u8", Шансон TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/CHANSON/SAF-HLS/CHANSON.m3u8
+#EXTINF:-1 tvg-name="Страна TV (test)" tvg-logo="https://strana.fm/wp-content/uploads/2026/06/StranaTV_Globus_Color_Cor_S_0323_1kh1_transp.png", Страна TV (test)
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="K-POP (test)" tvg-logo="https://smotret.tv/images/k-pop.webp", K-POP (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Power Love (test)" tvg-logo="https://smotret.tv/images/power-love.webp", Power Love (test)
+https://listen.powerapp.com.tr/plove/love.smil/chunks.m3u8
+#EXTINF:-1 tvg-name="Power TV (test)" tvg-logo="https://smotret.tv/images/tmf-rus.webp", Power TV (test)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8
+#EXTINF:-1 tvg-name="Rock TV 🤘(test)" tvg-logo="https://smotret.tv/images/rock-tv.webp", Rock TV 🤘(test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Ocko Express (test)" tvg-logo="https://smotret.tv/images/ocko-express.webp", Ocko Express (test)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:-1 tvg-name="Ocko Express (test) Backup" tvg-logo="https://smotret.tv/images/ocko-express.webp", Ocko Express (test) (Backup)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/manifest.mpd
+#EXTINF:-1 tvg-name="DLX Rock" tvg-logo="https://smotret.tv/images/dlx-rock.webp", DLX Rock
+https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w401688054.m3u8
+#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://ptv.am/media/assets/1mus.png", 1Mus
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/hz1-teleport/HLS/HD.m3u8
+#EXTINF:-1 tvg-name="Vevo POP" tvg-logo="https://ptv.am/media/assets/vevo.png", Vevo POP
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-name="Музыка Live" tvg-logo="https://cdnmusiclive.red-media.ru/wp-content/uploads/2025/04/logo2025-orange.png", Музыка Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/MusicLive/mono.m3u8
+#EXTINF:-1 tvg-name="Song tv Armenia" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/17211.png", Song tv Armenia
+https://ptv.am/songtv/web-armenia/lhigh/playlist.m3u8
+#EXTINF:-1 tvg-name="Song tv Russia" tvg-logo="https://rustv.life/images/logos_tv/songtv.png", Song tv Russia
+https://ptv.am/songtv/web-russia/lhigh/playlist.m3u8
+#EXTINF:-1 tvg-name="Song tv Georgia" tvg-logo="https://songtv.ge/images/logos/100x100-songtv-ge.png", Song tv Georgia
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="MCM Top" tvg-logo="https://ptv.am/media/assets/MCM_Top.png", MCM Top
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch142/mono.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://ptv.am/media/assets/21119.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/48-1/timeshift_rel-1154.m3u8", National Geographic
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/48-1/mono.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://ptv.am/media/assets/84.png", Animal Planet
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Animal_Planet/SAF-HLS/Animal_Planet.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://ptv.am/media/assets/87.png", Discovery Channel
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Discovery/SAF-HLS/Discovery.m3u8
+#EXTINF:-1 tvg-name="Viju Nature" tvg-logo="https://ptv.am/media/assets/21014.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Viasat_Nature/SAF-HLS/Viasat_Nature.m3u8", Viju Nature
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Viasat_Nature/SAF-HLS/Viasat_Nature.m3u8
+#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://ptv.am/media/assets/History.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/History_HD/SAF-HLS/History_HD.m3u8", History FHD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/History_HD/SAF-HLS/History_HD.m3u8
+#EXTINF:-1 tvg-name="History 2 FHD" tvg-logo="https://ptv.am/media/assets/History2.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/History_2_HD/SAF-HLS/History_2_HD.m3u8", History 2 FHD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/History_2_HD/SAF-HLS/History_2_HD.m3u8
+#EXTINF:-1 tvg-name="Big Planet" tvg-logo="https://ptv.am/media/assets/21843.png", Big Planet
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/dialogrib/mono.m3u8
+#EXTINF:-1 tvg-name="365 дней ТВ" tvg-logo="https://ptv.am/media/assets/230.png", 365 дней ТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/365DayTV/mono.m3u8
+#EXTINF:-1 tvg-name="Охота и рыбалка" tvg-logo="https://ptv.am/media/assets/128.png", Охота и рыбалка
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/OxotaRib/mono.m3u8
+#EXTINF:-1 tvg-name="Охота и рыбалка Backup" tvg-logo="https://ptv.am/media/assets/128.png", Охота и рыбалка (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/2019/index.m3u8
+#EXTINF:-1 tvg-name="Домашние Животные" tvg-logo="https://ptv.am/media/assets/127.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/35/timeshift_rel-1154.m3u8", Домашние Животные
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/35/mono.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/15270.png", Nat Geo Wild
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/49/mono.m3u8
+#EXTINF:-1 tvg-name="Победа" tvg-logo="https://ptv.am/media/assets/pobeda.png", Победа
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Pobeda/mono.m3u8
+#EXTINF:-1 tvg-name="Terra" tvg-logo="https://ptv.am/media/assets/terra.png", Terra
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/Terra/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая Рыбалка" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1839.png", Дикая Рыбалка
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/dikrib/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая Рыбалка Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1839.png", Дикая Рыбалка (Backup)
+http://95.99.109.29:8080/freetvportal/freetvportal/12490.m3u8
+#EXTINF:-1 tvg-name="Дикая Охота" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1838.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/2004/index.m3u8", Дикая Охота
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/dikoxota/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая Охота Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1838.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/2004/index.m3u8", Дикая Охота (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/2004/index.m3u8
+#EXTINF:-1 tvg-name="Моя стихия" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/3675.png", Моя стихия
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch159/mono.m3u8
+#EXTINF:-1 tvg-name="Моя стихия Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/3675.png", Моя стихия (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1571.m3u8
+#EXTINF:-1 tvg-name="365 дней ТВ" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/310.png", 365 дней ТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/365DayTV/mono.m3u8
+#EXTINF:-1 tvg-name="365 дней ТВ Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/310.png", 365 дней ТВ (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1572.m3u8
+#EXTINF:-1 tvg-name="DTX" tvg-logo="https://ptv.am/media/assets/DTX.png", DTX
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/dtx/mono.m3u8
+#EXTINF:-1 tvg-name="Океан" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/15610.png", Океан
+https://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
+#EXTINF:-1 tvg-name="DW Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DW_Rus/SAF-HLS/DW_Rus.m3u8", DW Russian
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DW_Rus/SAF-HLS/DW_Rus.m3u8
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/IDX/SAF-HLS/IDX.m3u8", Discovery ID
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/IDX/SAF-HLS/IDX.m3u8
+#EXTINF:-1 tvg-name="Наука" tvg-logo="https://www.cableman.ru/sites/default/files/nauka_0.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Discovery_Science/SAF-HLS/Discovery_Science.m3u8", Наука
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Discovery_Science/SAF-HLS/Discovery_Science.m3u8
+#EXTINF:-1 tvg-name="В мире животных" tvg-logo="https://toplogos.ru/images/logo-v-mire-zhivotnih.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/V_mire_Jivotnix/SAF-HLS/V_mire_Jivotnix.m3u8", В мире животных
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/V_mire_Jivotnix/SAF-HLS/V_mire_Jivotnix.m3u8
+#EXTINF:-1 tvg-name="Zoo" tvg-logo="https://ptv.am/media/assets/Zoo_TV.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ZOO/SAF-HLS/ZOO.m3u8", Zoo
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ZOO/SAF-HLS/ZOO.m3u8
+#EXTINF:-1 tvg-name="Museum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_museum_2017.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/MuseumHD/SAF-HLS/MuseumHD.m3u8", Museum
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/MuseumHD/SAF-HLS/MuseumHD.m3u8
+#EXTINF:-1 tvg-name="Точка" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5e/%D0%A2%D0%BE%D1%87%D0%BA%D0%B0_%D0%A0%D0%A4_%282025%29.png/revision/latest?cb=20250326075230&path-prefix=ru" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HDLife/SAF-HLS/HDLife.m3u8", Точка
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HDLife/SAF-HLS/HDLife.m3u8
+#EXTINF:-1 tvg-name="Viju history" tvg-logo="https://www.cableman.ru/sites/default/files/viju_history_color_rgb_02_1.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Viasat_history/SAF-HLS/Viasat_history.m3u8", Viju history
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Viasat_history/SAF-HLS/Viasat_history.m3u8
+#EXTINF:-1 tvg-name="Viju explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Viju_Explore_logo.svg/1280px-Viju_Explore_logo.svg.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Viasat_Explore/SAF-HLS/Viasat_Explore.m3u8", Viju explore
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Viasat_Explore/SAF-HLS/Viasat_Explore.m3u8
+#EXTINF:-1 tvg-name="RT Doc  Russian" tvg-logo="https://ptv.am/media/assets/RT_Doc.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RT_Doc_HD/SAF-HLS/RT_Doc_HD.m3u8", RT Doc  Russian
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RT_Doc_HD/SAF-HLS/RT_Doc_HD.m3u8
+#EXTINF:-1 tvg-name="Docu Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DocuBox_HD/SAF-HLS/DocuBox_HD.m3u8", Docu Box
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DocuBox_HD/SAF-HLS/DocuBox_HD.m3u8
+#EXTINF:-1 tvg-name="Кто есть кто" tvg-logo="https://ptv.am/media/assets/kto-est.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ktoestkto/SAF-HLS/ktoestkto.m3u8", Кто есть кто
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/ktoestkto/SAF-HLS/ktoestkto.m3u8
+#EXTINF:-1 tvg-name="English Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/English_Club/SAF-HLS/English_Club.m3u8", English Club
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/English_Club/SAF-HLS/English_Club.m3u8
+#EXTINF:-1 tvg-name="Коссмический" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/11705.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Evrika_HD/SAF-HLS/Evrika_HD.m3u8", Коссмический
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Evrika_HD/SAF-HLS/Evrika_HD.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/960px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DaVinci/SAF-HLS/DaVinci.m3u8", Da Vinci
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/DaVinci/SAF-HLS/DaVinci.m3u8
+#EXTINF:-1 tvg-name="Приключения" tvg-logo="https://ptv.am/media/assets/prikluchenia.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Prikluchniya/SAF-HLS/Prikluchniya.m3u8", Приключения
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Prikluchniya/SAF-HLS/Prikluchniya.m3u8
+#EXTINF:-1 tvg-name="Телепутешествия" tvg-logo="https://1tvch.ru/storage/2025/09/16/6e435daf9d0a2eda7e3e1c2800a8bac611cad424.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Teleputeshestviya/SAF-HLS/Teleputeshestviya.m3u8", Телепутешествия
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Teleputeshestviya/SAF-HLS/Teleputeshestviya.m3u8
+#EXTINF:-1 tvg-name="Russian Travel Guide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/RTG_2013_logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Russian_Travel_Guide/SAF-HLS/Russian_Travel_Guide.m3u8", Russian Travel Guide
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Russian_Travel_Guide/SAF-HLS/Russian_Travel_Guide.m3u8
+#EXTINF:-1 tvg-name="RTG HD" tvg-logo="https://lh3.googleusercontent.com/proxy/nuikUAFODsB1Ffc4cxNgUKJL965-nVBR4rvnrRCO6CGEUgSy1p1d6fWBELzqkaMOBDDE5GJGJpAW57I_" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RTG_HD/SAF-HLS/RTG_HD.m3u8", RTG HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RTG_HD/SAF-HLS/RTG_HD.m3u8
+#EXTINF:-1 tvg-name="Наш Кинопоказ" tvg-logo="https://ptv.am/media/assets/nash-kinopokaz.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Travel_channel/SAF-HLS/Travel_channel.m3u8", Наш Кинопоказ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Travel_channel/SAF-HLS/Travel_channel.m3u8
+#EXTINF:-1 tvg-name="Insight" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Insight_TV_%28vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20210206113512" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Insight_HD/SAF-HLS/Insight_HD.m3u8", Insight
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Insight_HD/SAF-HLS/Insight_HD.m3u8
+#EXTINF:-1 tvg-name="Точка  Отрыва" tvg-logo="https://ptv.am/media/assets/tochka-otriva.png", Точка  Отрыва
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/94/mono.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ptv.am/media/assets/15618.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/43/timeshift_rel-1154.m3u8", Nickelodeon
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/nick/mono.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Backup" tvg-logo="https://ptv.am/media/assets/15618.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/43/timeshift_rel-1154.m3u8", Nickelodeon (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/zona/Karusel/index.m3u8
+#EXTINF:-1 tvg-name="Карусель HD" tvg-logo="https://ptv.am/media/assets/21822.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/45/timeshift_rel-1154.m3u8", Карусель HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/45/mono.m3u8
+#EXTINF:-1 tvg-name="Детский мир" tvg-logo="https://ptv.am/media/assets/68.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/142/timeshift_rel-1154.m3u8", Детский мир
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Detskii_Mir/SAF-HLS/Detskii_Mir.m3u8
+#EXTINF:-1 tvg-name="Tiji TV" tvg-logo="https://ptv.am/media/assets/10.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TiJi/SAF-HLS/TiJi.m3u8", Tiji TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TiJi/SAF-HLS/TiJi.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl" tvg-logo="https://ptv.am/media/assets/11.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/GulliGirl/mono.m3u8", Gulli Girl
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/GulliGirl/mono.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl Backup" tvg-logo="https://ptv.am/media/assets/11.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/GulliGirl/mono.m3u8", Gulli Girl (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1409.m3u8
+#EXTINF:-1 tvg-name="О!" tvg-logo="https://ptv.am/media/assets/986.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/94/timeshift_rel-1154.m3u8", О!
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/24/mono.m3u8
+#EXTINF:-1 tvg-name="JimJam" tvg-logo="https://ptv.am/media/assets/85.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/138/index.m3u8", JimJam
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/138/index.m3u8
+#EXTINF:-1 tvg-name="VF Ералаш" tvg-logo="https://ptv.am/media/assets/17853.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/14163/index.m3u8", VF Ералаш
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/14163/index.m3u8
+#EXTINF:-1 tvg-name="Baby Time" tvg-logo="https://ptv.am/media/assets/21838.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/BabyTime/SAF-HLS/BabyTime.m3u8", Baby Time
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/BabyTime/SAF-HLS/BabyTime.m3u8
+#EXTINF:-1 tvg-name="Baby Time Backup" tvg-logo="https://ptv.am/media/assets/21838.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/BabyTime/SAF-HLS/BabyTime.m3u8", Baby Time (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/20030/index.m3u8
+#EXTINF:-1 tvg-name="VF Disney Cartoon" tvg-logo="https://ptv.am/media/assets/17853.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/15027/index.m3u8", VF Disney Cartoon
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/15027/index.m3u8
+#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/14010.png", Kids TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1418.m3u8
+#EXTINF:-1 tvg-name="Рыжий" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/5395.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RYZHIY/SAF-HLS/RYZHIY.m3u8", Рыжий
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RYZHIY/SAF-HLS/RYZHIY.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/5709.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/STS_Kids/SAF-HLS/STS_Kids.m3u8", СТС Kids
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/STS_Kids/SAF-HLS/STS_Kids.m3u8
+#EXTINF:-1 tvg-name="Лапки LIVE" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/3218.png", Лапки LIVE
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12697.m3u8
+#EXTINF:-1 tvg-name="Уникум" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1820.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Unikum_SD/SAF-HLS/Unikum_SD.m3u8", Уникум
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Unikum_SD/SAF-HLS/Unikum_SD.m3u8
+#EXTINF:-1 tvg-name="Радость Моя" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/5030.png", Радость Моя
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1412.m3u8
+#EXTINF:-1 tvg-name="СуперГерои" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/3450.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Malish/SAF-HLS/Malish.m3u8", СуперГерои
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Malish/SAF-HLS/Malish.m3u8
+#EXTINF:-1 tvg-name="Капитан Фантастика" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/12420.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kapitan_fantastika/SAF-HLS/Kapitan_fantastika.m3u8", Капитан Фантастика
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kapitan_fantastika/SAF-HLS/Kapitan_fantastika.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://freetv.fun/media/img/logo/DISNEY.PNG", Disney Junior
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-name="KiKA" tvg-logo="https://freetv.fun/media/images/channel/2017/07/17/large/20170717220340396292_28.png", KiKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="NickToons" tvg-logo="https://freetv.fun/media/images/channel/2023/07/20/large/20230720002406264182_29.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6095/index.m3u8", NickToons
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/stream8/cinerama/1502/index.m3u8
+#EXTINF:-1 tvg-name="NickToons Backup" tvg-logo="https://freetv.fun/media/images/channel/2023/07/20/large/20230720002406264182_29.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6095/index.m3u8", NickToons (Backup)
+https://stream8.cinerama.uz/1502/index.m3u8
+#EXTINF:-1 tvg-name="Nick jr" tvg-logo="https://freetv.fun/media/images/channel/2019/11/27/large/20191127224038316279_98.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/114/index.m3u8", Nick jr
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/stream8/cinerama/1501/index.m3u8
+#EXTINF:-1 tvg-name="Nick jr Backup" tvg-logo="https://freetv.fun/media/images/channel/2019/11/27/large/20191127224038316279_98.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/114/index.m3u8", Nick jr (Backup)
+https://stream8.cinerama.uz/1501/index.m3u8
+#EXTINF:-1 tvg-name="Toon Goggles" tvg-logo="https://freetv.fun/media/images/channel/2022/02/10/large/20220210221737026104_97.png", Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 tvg-name="Мультимания" tvg-logo="https://freetv.fun/media/images/channel/2024/04/04/large/20240404163615517839_10.png", Мультимания
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=40
+#EXTINF:-1 tvg-name="СТС  kids" tvg-logo="https://ptv.am/media/assets/STS_Kids.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/STS_Kids/SAF-HLS/STS_Kids.m3u8", СТС  kids
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/STS_Kids/SAF-HLS/STS_Kids.m3u8
+#EXTINF:-1 tvg-name="Мульт" tvg-logo="https://ptv.am/media/assets/multHD.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Mult/SAF-HLS/Mult.m3u8", Мульт
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Mult/SAF-HLS/Mult.m3u8
+#EXTINF:-1 tvg-name="Кнопка ТВ" tvg-logo="https://smotret.tv/images/knopka-tv.webp", Кнопка ТВ
+https://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 tvg-name="Sumiko 4K" tvg-logo="https://ptv.am/media/assets/sumiko.jpg" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Sumiko/SAF-HLS/Sumiko.m3u8", Sumiko 4K
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Sumiko/SAF-HLS/Sumiko.m3u8
+#EXTINF:-1 tvg-name="Mult 1 (test)" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 1 (test)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
+#EXTINF:-1 tvg-name="Mult 1 (test) Backup" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 1 (test) (Backup)
+https://stream10.sputnik24.tv/leva_hd/index.m3u8?sig=1787155538_e473f1d05a45508aae40d8e9bfcfb0ae
+#EXTINF:-1 tvg-name="Mult 2 (test)" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 2 (test)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 tvg-name="Mult 3 (test)" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 3 (test)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=38
+#EXTINF:-1 tvg-name="Mult 4 (test)" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 4 (test)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+#EXTINF:-1 tvg-name="Mult 5 (test)" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 5 (test)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
+#EXTINF:-1 tvg-name="Mult 6 (test)" tvg-logo="https://ptv.am/media/assets/mult1.png", Mult 6 (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Мультиландиа" tvg-logo="https://ptv.am/media/assets/multilandia.png", Мультиландиа
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/177/mono.m3u8
+#EXTINF:-1 tvg-name="Fresh Kids" tvg-logo="https://ptv.am/media/assets/freshKids.png", Fresh Kids
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/FreshKids/mono.m3u8
+#EXTINF:-1 tvg-name="Солнце" tvg-logo="https://ptv.am/media/assets/Solnce.png", Солнце
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/Solnce/mono.m3u8
+#EXTINF:-1 tvg-name="BCU Kids" tvg-logo="https://ptv.am/media/assets/BCU_KIDS.png", BCU Kids
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/1053/mono.m3u8
+#EXTINF:-1 tvg-name="Ani" tvg-logo="http://live.tivix.co/posts/2022-09/1662969019_1484660431_ani.png", Ani
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch258/mono.m3u8
+#EXTINF:-1 tvg-name="Niki Kids" tvg-logo="https://ptv.am/media/assets/Niki-Kids.png", Niki Kids
+https://iptv.prosto.tv/ch71/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Kids 4k" tvg-logo="https://ptv.am/media/assets/cineman-kids4k.gif", CineMan Kids 4k
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch487/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="https://logo-teka.com/wp-content/uploads/2026/03/ntv-tv-round-logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/29/timeshift_rel-1154.m3u8", НТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/ntv/ntv0_foreign/index.m3u8
+#EXTINF:-1 tvg-name="Кухня" tvg-logo="https://ptv.am/media/assets/21622.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/46/timeshift_rel-1154.m3u8", Кухня
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/46/mono.m3u8
+#EXTINF:-1 tvg-name="Кухня Backup" tvg-logo="https://ptv.am/media/assets/21622.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/46/timeshift_rel-1154.m3u8", Кухня (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Kuxnya_TV/SAF-HLS/Kuxnya_TV.m3u8
+#EXTINF:-1 tvg-name="Жара" tvg-logo="https://ptv.am/media/assets/689.png", Жара
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch214/mono.m3u8
+#EXTINF:-1 tvg-name="Жара Backup" tvg-logo="https://ptv.am/media/assets/689.png", Жара (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/105/index.m3u8
+#EXTINF:-1 tvg-name="МЫ" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/3729.png", МЫ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12698.m3u8
+#EXTINF:-1 tvg-name="БелРос" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/6160.png", БелРос
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1569.m3u8
+#EXTINF:-1 tvg-name="ТНВ Планета" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/6115.png", ТНВ Планета
+https://planeta.mediacdn.ru/cdn/tnvplanet/index.m3u8
+#EXTINF:-1 tvg-name="ТНВ Планета Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/6115.png", ТНВ Планета (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1568.m3u8
+#EXTINF:-1 tvg-name="Аппетитный" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1060.png", Аппетитный
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch240/mono.m3u8
+#EXTINF:-1 tvg-name="Аппетитный Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1060.png", Аппетитный (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12693.m3u8
+#EXTINF:-1 tvg-name="Оружие" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/4470.png", Оружие
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12489.m3u8
+#EXTINF:-1 tvg-name="Успех" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/6320.png", Успех
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch371/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ Style" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/NTV_Stil%27_2016.svg/revision/latest?cb=20210904102110" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/79/mono.m3u8", НТВ Style
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/ntv/th_style/index.m3u8
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/STS/SAF-HLS/STS.m3u8", СТС
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/STS/SAF-HLS/STS.m3u8
+#EXTINF:-1 tvg-name="Перец" tvg-logo="https://static.wikia.nocookie.net/itkchannels/images/7/7e/%D0%9F%D0%B5%D1%80%D0%B5%D1%86_%28%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/1200?cb=20230106115709&path-prefix=ru" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Peretz/SAF-HLS/Peretz.m3u8", Перец
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Peretz/SAF-HLS/Peretz.m3u8
+#EXTINF:-1 tvg-name="Суббота!" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pExSj728MR9LUb7bFA5E3g&e=2088584764&scheme=https
+#EXTINF:-1 tvg-name="Суббота! Backup" tvg-logo="https://i.imgur.com/nsk8PpB.png", Суббота! (Backup)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-name="Пятница!" tvg-logo="https://i.imgur.com/N2z3EZC.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Pyatnica/SAF-HLS/Pyatnica.m3u8", Пятница!
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Pyatnica/SAF-HLS/Pyatnica.m3u8
+#EXTINF:-1 tvg-name="Пятница! Backup" tvg-logo="https://i.imgur.com/N2z3EZC.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Pyatnica/SAF-HLS/Pyatnica.m3u8", Пятница! (Backup)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/3840px-Discovery_Turbo_logo.svg.png", Discovery Turbo (test)
+http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
+#EXTINF:-1 tvg-name="Бобёр" tvg-logo="http://live.tivix.co/posts/2022-09/1662970857_1497001337_bober.png", Бобёр
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/Bobyor/mono.m3u8
+#EXTINF:-1 tvg-name="ZOO Stream (test)" tvg-logo="https://ptv.am/media/assets/Zoomoo.png", ZOO Stream (test)
+https://iptv.prosto.tv/ch200/index.m3u8
+#EXTINF:-1 tvg-name="U Travel" tvg-logo="https://ptv.am/media/assets/u-travel.png", U Travel
+https://iptv.prosto.tv/ch167/index.m3u8
+#EXTINF:-1 tvg-name="Okean TV" tvg-logo="https://ptv.am/media/assets/okean-tv.png", Okean TV
+https://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
+#EXTINF:-1 tvg-name="Твоё ТВ Юмор" tvg-logo="https://telik.live/images/tvojo-tv-yumor.png", Твоё ТВ Юмор
+https://tvoetv.space/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name="Sochi Live TV" tvg-logo="https://ptv.am/media/assets/sochi-live.png", Sochi Live TV
+https://serv30.vintera.tv/sochilive_site/sochi_stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Че!" tvg-logo="https://images.seeklogo.com/logo-png/35/3/che-logo-png_seeklogo-353747.png", Че!
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch201/mono.m3u8
+#EXTINF:-1 tvg-name="Fast Sports" tvg-logo="https://ptv.am/media/assets/21661.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/VMedia/SAF-HLS/VMedia.m3u8", Fast Sports
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/VMedia/SAF-HLS/VMedia.m3u8
+#EXTINF:-1 tvg-name="Fast Sports Backup" tvg-logo="https://ptv.am/media/assets/21661.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/VMedia/SAF-HLS/VMedia.m3u8", Fast Sports (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel1new/index.m3u8
+#EXTINF:-1 tvg-name="Fast Sports 1" tvg-logo="https://ptv.am/media/uploads_channel_img/download.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel2new/index.m3u8", Fast Sports 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel2new/index.m3u8
+#EXTINF:-1 tvg-name="Fast Sports 1 Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/download.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel2new/index.m3u8", Fast Sports 1 (Backup)
+http://95.99.109.29:8080/freetvportal/freetvportal/173.m3u8
+#EXTINF:-1 tvg-name="Fast Sports 2" tvg-logo="https://ptv.am/media/uploads_channel_img/download_1.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel3new/index.m3u8", Fast Sports 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel3new/index.m3u8
+#EXTINF:-1 tvg-name="Fast Sports 2 Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/download_1.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/fast/channel3new/index.m3u8", Fast Sports 2 (Backup)
+http://95.99.109.29:8080/freetvportal/freetvportal/174
+#EXTINF:-1 tvg-name="Матч! Футбол 1" tvg-logo="https://ptv.am/media/uploads_channel_img/666_3Bn45Fm.png", Матч! Футбол 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/mFootball1/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/666_3Bn45Fm.png", Матч! Футбол 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/159.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2" tvg-logo="https://ptv.am/media/assets/21122.png", Матч! Футбол 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/mFootball2/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 Backup" tvg-logo="https://ptv.am/media/assets/21122.png", Матч! Футбол 2 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/160.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3" tvg-logo="https://ptv.am/media/assets/659.png", Матч! Футбол 3
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/mFootball3/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 Backup" tvg-logo="https://ptv.am/media/assets/659.png", Матч! Футбол 3 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/161.m3u8
+#EXTINF:-1 tvg-name="Окко Футбол" tvg-logo="https://ptv.am/media/uploads_channel_img/15616.png", Окко Футбол
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/okko-football/mono.m3u8
+#EXTINF:-1 tvg-name="Окко Футбол Backup" tvg-logo="https://ptv.am/media/uploads_channel_img/15616.png", Окко Футбол (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/19430/index.m3u8
+#EXTINF:-1 tvg-name="Окко Sports" tvg-logo="https://ptv.am/media/assets/17830.png", Окко Sports
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/okko-sport/mono.m3u8
+#EXTINF:-1 tvg-name="Окко Sports Backup" tvg-logo="https://ptv.am/media/assets/17830.png", Окко Sports (Backup)
+http://95.99.109.29:8080/freetvportal/freetvportal/12985
+#EXTINF:-1 tvg-name="Матч ТВ" tvg-logo="https://ptv.am/media/assets/21126.png", Матч ТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Match/mono.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ Backup" tvg-logo="https://ptv.am/media/assets/21126.png", Матч ТВ (Backup)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://ptv.am/media/assets/835.png", Матч! Премьер
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/125/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Премьер Backup" tvg-logo="https://ptv.am/media/assets/835.png", Матч! Премьер (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/162.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="https://ptv.am/media/assets/645.png", Матч! Арена
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/MArena/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена Backup" tvg-logo="https://ptv.am/media/assets/645.png", Матч! Арена (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/176.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="https://ptv.am/media/assets/664.png", Матч! Игра
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/MIgra/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра Backup" tvg-logo="https://ptv.am/media/assets/664.png", Матч! Игра (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/178.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец" tvg-logo="https://ptv.am/media/assets/97.png", Матч! Боец
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/55/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец Backup" tvg-logo="https://ptv.am/media/assets/97.png", Матч! Боец (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/177.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://ptv.am/media/assets/21006.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/118/timeshift_rel-1154.m3u8", Eurosport 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Eurosport_1_HD/SAF-HLS/Eurosport_1_HD.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 Backup" tvg-logo="https://ptv.am/media/assets/21006.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/118/timeshift_rel-1154.m3u8", Eurosport 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/15179/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://ptv.am/media/assets/12195.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/119/timeshift_rel-1154.m3u8", Eurosport 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 Backup" tvg-logo="https://ptv.am/media/assets/12195.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/119/timeshift_rel-1154.m3u8", Eurosport 2 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/19431/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" tvg-logo="https://ptv.am/media/assets/21153.png", Setanta Sports 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Setanta/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 Backup" tvg-logo="https://ptv.am/media/assets/21153.png", Setanta Sports 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6541/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2" tvg-logo="https://mw.tvcom.uz/logo/setanta2.png", Setanta Sports 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Setanta2/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 Backup" tvg-logo="https://mw.tvcom.uz/logo/setanta2.png", Setanta Sports 2 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6542/index.m3u8
+#EXTINF:-1 tvg-name="Футбол" tvg-logo="https://ptv.am/media/assets/209.png", Футбол
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch340/mono.m3u8
+#EXTINF:-1 tvg-name="Футбол Backup" tvg-logo="https://ptv.am/media/assets/209.png", Футбол (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/19244/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport tennis" tvg-logo="https://ptv.am/media/assets/15451.png", Sky Sport tennis
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/Sky2/mono.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1" tvg-logo="https://ptv.am/media/assets/18288.png", Sky Sport 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/Sky3/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1" tvg-logo="https://ptv.am/media/assets/10473.png", Arena Sport 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArenaSport1/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 Backup" tvg-logo="https://ptv.am/media/assets/10473.png", Arena Sport 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/7263/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2" tvg-logo="https://ptv.am/media/assets/10474.png", Arena Sport 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArenaSport2/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 Backup" tvg-logo="https://ptv.am/media/assets/10474.png", Arena Sport 2 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/7264/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3" tvg-logo="https://ptv.am/media/assets/10476.png", Arena Sport 3
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArenaSport3/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 Backup" tvg-logo="https://ptv.am/media/assets/10476.png", Arena Sport 3 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/7265/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4" tvg-logo="https://ptv.am/media/assets/10475.png", Arena Sport 4
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArenaSport4/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 Backup" tvg-logo="https://ptv.am/media/assets/10475.png", Arena Sport 4 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/7266/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5" tvg-logo="https://ptv.am/media/assets/10478.png", Arena Sport 5
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArenaSport5/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 Backup" tvg-logo="https://ptv.am/media/assets/10478.png", Arena Sport 5 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/7267/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6" tvg-logo="https://ptv.am/media/assets/10477.png", Arena Sport 6
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ArenaSport6/mono.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 Backup" tvg-logo="https://ptv.am/media/assets/10477.png", Arena Sport 6 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/7268/index.m3u8
+#EXTINF:-1 tvg-name="Окко  Прайм" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/15618.png", Окко  Прайм
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/OkkoPrime/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png", Setanta Sports 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta1Geo/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 Backup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png", Setanta Sports 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6541/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ujxkqz1589620867.png", Setanta Sports 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta2Geo/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 Backup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ujxkqz1589620867.png", Setanta Sports 2 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6544/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 3" tvg-logo="https://epg.iptvx.one/picons/setanta3-ge.png", Setanta Sports 3
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta3Geo/mono.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 3 Backup" tvg-logo="https://epg.iptvx.one/picons/setanta3-ge.png", Setanta Sports 3 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6542/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5533.png", Sport 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1520.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1030.png", Авто Плюс
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Avto_Plus/SAF-HLS/Avto_Plus.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo44/1030.png", Авто Плюс (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/154.m3u8
+#EXTINF:-1 tvg-name="Viju+sport" tvg-logo="https://cinemania.am/storage/title-posters/2e869038-ac9e-44ea-91bb-d1fa561f325e.png", Viju+sport
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/170/mono.m3u8
+#EXTINF:-1 tvg-name="Viju+sport Backup" tvg-logo="https://cinemania.am/storage/title-posters/2e869038-ac9e-44ea-91bb-d1fa561f325e.png", Viju+sport (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/157.m3u8
+#EXTINF:-1 tvg-name="Sport 2" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5553.png", Sport 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1521.m3u8
+#EXTINF:-1 tvg-name="UDAR TV" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/18018.png", UDAR TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch58/mono.m3u8
+#EXTINF:-1 tvg-name="UDAR TV Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/18018.png", UDAR TV (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1743.m3u8
+#EXTINF:-1 tvg-name="Спорт" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5615.png", Спорт
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/7405.m3u8
+#EXTINF:-1 tvg-name="Спорт Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5615.png", Спорт (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/7405.m3u8
+#EXTINF:-1 tvg-name="UPL.TV" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800015.png", UPL.TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1514.m3u8
+#EXTINF:-1 tvg-name="UPL.TV Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800015.png", UPL.TV (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1514.m3u8
+#EXTINF:-1 tvg-name="UPL.TV 1" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800016.png", UPL.TV 1
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1526.m3u8
+#EXTINF:-1 tvg-name="UPL.TV 1 Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800016.png", UPL.TV 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1526.m3u8
+#EXTINF:-1 tvg-name="UPL.TV 2" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800017.png", UPL.TV 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1527.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png" catchup="default" catchup-source="http://i0c3mvup.vexiumis.top/iptv/4YVVF47HPZSSA33QPRDT8FWE/605/index.m3u8", Cosmote Sport 1
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Cosmote Sport 1 Backup" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png" catchup="default" catchup-source="http://i0c3mvup.vexiumis.top/iptv/4YVVF47HPZSSA33QPRDT8FWE/605/index.m3u8", Cosmote Sport 1 (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/31578/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png" catchup="default" catchup-source="http://5e2c5d53.rostelekom.xyz/iptv/Z5BGN5Z3GDGAZYSMVRNFZKSA/31579/index.m3u8", Cosmote Sport 2
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/31579/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 3" tvg-logo="https://ptv.am/media/assets/cosmote-sport3.png", Cosmote Sport 3
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Cosmote Sport 4" tvg-logo="https://ptv.am/media/assets/cosmote-sport4.png", Cosmote Sport 4
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Мяч HD" tvg-logo="https://ptv.am/media/assets/mych.png", Мяч HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/10058/index.m3u8
+#EXTINF:-1 tvg-name="Мяч HD Backup" tvg-logo="https://ptv.am/media/assets/mych.png", Мяч HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/10058/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports XTRA" tvg-logo="https://ptv.am/media/assets/bein-extra.png", BeIN Sports XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Belarus-5" tvg-logo="https://i.imgur.com/NJsRFud.png", Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Матч! Страна" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5590.png", Матч! Страна
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch169/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Страна Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5590.png", Матч! Страна (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1441.m3u8
+#EXTINF:-1 tvg-name="Авто24" tvg-logo="https://toplogos.ru/images/logo-avto24.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/136/timeshift_rel-1154.m3u8", Авто24
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/136/timeshift_rel-1154.m3u8
+#EXTINF:-1 tvg-name="CCTV-Billiards" tvg-logo="https://i.imgur.com/WK3keM9.png", CCTV-Billiards
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-Billiards Backup" tvg-logo="https://i.imgur.com/WK3keM9.png", CCTV-Billiards (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/CBS_Sports_Network_HD_US
+#EXTINF:-1 tvg-name="CCTV-Golf & Tennis" tvg-logo="https://i.imgur.com/iqJJTmH.png", CCTV-Golf & Tennis
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="ТВ Спорт  (test)" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg", ТВ Спорт  (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/10057/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Планета" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/4110.png", Матч! Планета
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/158.m3u8
+#EXTINF:-1 tvg-name="Kuwait Sport" tvg-logo="https://i.imgur.com/l4oX0gf.png", Kuwait Sport
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-name="БОКС ТВ" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/1317.png", БОКС ТВ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch111/mono.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://epg.pw/media/images/channel/2017/03/31/large/20170331001240076889_34.png", NBA TV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://epg.pw/media/images/channel/2017/07/29/large/20170729150636104384_95.jpg", Fight Sports
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
+#EXTINF:-1 tvg-name="Драйв" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/1960.png", Драйв
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/116.m3u8
+#EXTINF:-1 tvg-name="КХЛ" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3170.png", КХЛ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/KHL/mono.m3u8
+#EXTINF:-1 tvg-name="КХЛ Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3170.png", КХЛ (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/153.m3u8
+#EXTINF:-1 tvg-name="КХЛ Prime  (test)" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3175.png", КХЛ Prime  (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1435.m3u8
+#EXTINF:-1 tvg-name="КХЛ Prime  (test) Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3175.png", КХЛ Prime  (test) (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1435.m3u8
+#EXTINF:-1 tvg-name="FightBox" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/12055.png", FightBox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-name="FightBox Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/12055.png", FightBox (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/148.m3u8
+#EXTINF:-1 tvg-name="Fast&FunBox" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/12053.png", Fast&FunBox
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/149.m3u8
+#EXTINF:-1 tvg-name="Fast&FunBox Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/12053.png", Fast&FunBox (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/149.m3u8
+#EXTINF:-1 tvg-name="MMA TV" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/14700.png", MMA TV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/M-1_Global/SAF-HLS/M-1_Global.m3u8
+#EXTINF:-1 tvg-name="MMA TV Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/14700.png", MMA TV (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/150.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/17700.png", Trace Sport Stars
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1436.m3u8
+#EXTINF:-1 tvg-name="Мир Баскетбола" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3653.png", Мир Баскетбола
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch75/mono.m3u8
+#EXTINF:-1 tvg-name="Equalympic" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800026.png", Equalympic
+https://iptv.prosto.tv/ch215/tracks-v1a1/mono.m3u8?live=1&ip=31.47.193.92&e=1789816404&st=Ndz8SeDitT7irdZFN891-w
+#EXTINF:-1 tvg-name="Equalympic Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800026.png", Equalympic (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1556.m3u8
+#EXTINF:-1 tvg-name="Mama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Mom_%28TV_channel%29.png", Mama
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Mama/SAF-HLS/Mama.m3u8
+#EXTINF:-1 tvg-name="Точка отрыва" tvg-logo="https://www.cableman.ru/sites/default/files/tochka_otryva_1.png", Точка отрыва
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TochkaOtryva_HD/SAF-HLS/TochkaOtryva_HD.m3u8
+#EXTINF:-1 tvg-name="Спорт ТВ" tvg-logo="http://logo.vivamax.pro/logo/sporttvby.png", Спорт ТВ
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-name="Sport 3  (test)" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5554.png", Sport 3  (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1522.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1  (test)" tvg-logo="https://ptv.am/media/assets/sport1.png", Sport TV 1  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Sport TV 1  (test) Backup" tvg-logo="https://ptv.am/media/assets/sport1.png", Sport TV 1  (test) (Backup)
+http://94.130.32.19:8080/sporttv1/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 2   (test)" tvg-logo="https://ptv.am/media/assets/sport2.png", Sport TV 2   (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Sport TV 2   (test) Backup" tvg-logo="https://ptv.am/media/assets/sport2.png", Sport TV 2   (test) (Backup)
+http://94.130.32.19:8080/sporttv2/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 3  (test)" tvg-logo="https://ptv.am/media/assets/sport3.png", Sport TV 3  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Sport TV 3  (test) Backup" tvg-logo="https://ptv.am/media/assets/sport3.png", Sport TV 3  (test) (Backup)
+http://94.130.32.19:8080/sporttv3/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 4  (test)" tvg-logo="https://ptv.am/media/assets/sport4.png", Sport TV 4  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Sport TV 4  (test) Backup" tvg-logo="https://ptv.am/media/assets/sport4.png", Sport TV 4  (test) (Backup)
+http://94.130.32.19:8080/sporttv4/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 5  (test)" tvg-logo="https://ptv.am/media/assets/sport5.png", Sport TV 5  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Sport TV 5  (test) Backup" tvg-logo="https://ptv.am/media/assets/sport5.png", Sport TV 5  (test) (Backup)
+http://94.130.32.19:8080/sporttv5/index.m3u8
+#EXTINF:-1 tvg-name="Prime Fight" tvg-logo="https://dreamboxing.eu/storage/2025/11/PRIME_FIGHT_HD_LOGO_YELLOW_FOR__DARK_BACKGROUND-1-1-removebg-preview.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Prime_Fight/SAF-HLS/Prime_Fight.m3u8", Prime Fight
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Prime_Fight/SAF-HLS/Prime_Fight.m3u8
+#EXTINF:-1 tvg-name="Sport 4" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5555.png", Sport 4
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1530.m3u8
+#EXTINF:-1 tvg-name="Старт Триумф HD" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5629.png", Старт Триумф HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch236/mono.m3u8
+#EXTINF:-1 tvg-name="Старт Триумф HD Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5629.png", Старт Триумф HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1440.m3u8
+#EXTINF:-1 tvg-name="Старт HD" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5628.png", Старт HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/1064/mono.m3u8
+#EXTINF:-1 tvg-name="Старт HD Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/5628.png", Старт HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1439.m3u8
+#EXTINF:-1 tvg-name="Суспільне Спорт HD" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800020.png", Суспільне Спорт HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1517.m3u8
+#EXTINF:-1 tvg-name="Киiвстар ТБ" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800019.png", Киiвстар ТБ
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1519.m3u8
+#EXTINF:-1 tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7_d.webp?maxwidth=760&fidelity=grand", Eurosport 4K Czechia
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 4K Czechia Backup" tvg-logo="https://i.imgur.com/0o3zjC7_d.webp?maxwidth=760&fidelity=grand", Eurosport 4K Czechia (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/TNT_Sports_1_FHD_UK
+#EXTINF:-1 tvg-name="BeIn Sports XTRA" tvg-logo="https://freetv.fun/media/images/channel/2024/08/25/large/20240825041356860019_82.png", BeIn Sports XTRA
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1  (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", beIN Sports 1  (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6123/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3  (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png", beIN Sports 3  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="beIN Sports 3  (test) Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png", beIN Sports 3  (test) (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6124/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4  (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png", beIN Sports 4  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="beIN Sports 5  (test)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BeIN%2Bsports%2B5.png/revision/latest/scale-to-width-down/250?cb=20251214104942", beIN Sports 5  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="beIN Sports 6  (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Logo_BeinSports_6_MAX.svg/960px-Logo_BeinSports_6_MAX.svg.png?_=20220526175511", beIN Sports 6  (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6127/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 7  (test)" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png", beIN Sports 7  (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/6128/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 7 (test)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Arena_sport_7_logo.png", Arena Sport 7 (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/31608/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 8 (test)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Arena_sport_8_logo.png", Arena Sport 8 (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/31609/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 9 (test)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/As91.png", Arena Sport 9 (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/31610/index.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 1 Live" tvg-logo="https://ptv.am/media/assets/Box-SportCast-1.png", Box SportCast 1 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch584/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 2 Live" tvg-logo="https://ptv.am/media/assets/dazn2.png", Box SportCast 2 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch585/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 2 Live Backup" tvg-logo="https://ptv.am/media/assets/dazn2.png", Box SportCast 2 Live (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/31954/index.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 3 Live" tvg-logo="https://ptv.am/media/assets/TNT_Sports_Premium.png", Box SportCast 3 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch586/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 3 Live Backup" tvg-logo="https://ptv.am/media/assets/TNT_Sports_Premium.png", Box SportCast 3 Live (Backup)
+http://170.244.209.30:8000/play/a0s9/index.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 4 Live" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png", Box SportCast 4 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch587/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 4 Live Backup" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png", Box SportCast 4 Live (Backup)
+http://170.244.209.30:8000/play/a0s9/index.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 5 Live" tvg-logo="https://antifriz.tv/storage/images/channel_logos/51bbf273f6aca97b5720eeb31f3b46e8.png", Box SportCast 5 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch588/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 5 Live Backup" tvg-logo="https://antifriz.tv/storage/images/channel_logos/51bbf273f6aca97b5720eeb31f3b46e8.png", Box SportCast 5 Live (Backup)
+http://38.19.16.151:8000/play/a0es
+#EXTINF:-1 tvg-name="Box SportCast 6 Live" tvg-logo="https://ptv.am/media/assets/tnt-sport3.png", Box SportCast 6 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch589/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 6 Live Backup" tvg-logo="https://ptv.am/media/assets/tnt-sport3.png", Box SportCast 6 Live (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/MAX_Sport_1
+#EXTINF:-1 tvg-name="Box SportCast 7 Live" tvg-logo="https://ptv.am/media/assets/Max-Sport1.png", Box SportCast 7 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch590/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 7 Live Backup" tvg-logo="https://ptv.am/media/assets/Max-Sport1.png", Box SportCast 7 Live (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/MAX_Sport_2
+#EXTINF:-1 tvg-name="Box SportCast 8 Live" tvg-logo="https://ptv.am/media/assets/Max-Sport2.png", Box SportCast 8 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch591/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 9 Live" tvg-logo="http://logo.vivamax.pro/logo/max-sport-3.png", Box SportCast 9 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch592/mono.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 9 Live Backup" tvg-logo="http://logo.vivamax.pro/logo/max-sport-3.png", Box SportCast 9 Live (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/MAX_Sport_3
+#EXTINF:-1 tvg-name="Max Sport 4 HD  (test)" tvg-logo="http://logo.vivamax.pro/logo/max-sport-4.png", Max Sport 4 HD  (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Max Sport 4 HD  (test) Backup" tvg-logo="http://logo.vivamax.pro/logo/max-sport-4.png", Max Sport 4 HD  (test) (Backup)
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/MAX_Sport_4
+#EXTINF:-1 tvg-name="Rai Sport (test)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png", Rai Sport (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Rai Sport (test) Backup" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png", Rai Sport (test) (Backup)
+http://87.120.179.187:8000/play/a00l
+#EXTINF:-1 tvg-name="Sky Sport Mix (test)" tvg-logo="https://ptv.am/media/assets/Sky-Sport-Mix.png", Sky Sport Mix (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://ptv.am/media/assets/Premier-Sports-1.png", Premier Sports 1
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Premier Sports 2" tvg-logo="https://ptv.am/media/assets/Premier-Sports-2.png", Premier Sports 2
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Diema Sport 1 (test)" tvg-logo="https://ptv.am/media/assets/diema_sport.png", Diema Sport 1 (test)
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Diema Sport 2 (test)" tvg-logo="https://ptv.am/media/assets/diema-sport2.png", Diema Sport 2 (test)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch590/mono.m3u8
+#EXTINF:-1 tvg-name="Dazn Ringside" tvg-logo="https://ptv.am/media/assets/Dazn-Ringside.png", Dazn Ringside
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Divisport HD" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800010.png", Divisport HD
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 tvg-name="Divisport HD Backup" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/3800010.png", Divisport HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1533.m3u8
+#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://ptv.am/media/assets/Sportitalia.png", Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/ts-us-e2-n1/playlist/rakutenAA-sportitalia-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-name="BOX Be On Edge Live 1 HD" tvg-logo="https://ptv.am/media/assets/21808.png", BOX Be On Edge Live 1 HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv3/19422/index.m3u8
+#EXTINF:-1 tvg-name="FIFA +" tvg-logo="https://ptv.am/media/assets/fifaTv.png", FIFA +
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260818T144637.m3u8
+#EXTINF:-1 tvg-name="FIFA +" tvg-logo="https://ptv.am/media/assets/fifa+.png", FIFA +
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/0f1fd499-e8b3-4a1b-9e4f-a7509be6f068/2.m3u8
+#EXTINF:-1 tvg-name="Tennis +" tvg-logo="https://ptv.am/media/assets/tennis+.jpg", Tennis +
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="Box SportCast 1 Live" tvg-logo="https://ptv.am/media/assets/Box-SportCast-1.png", Box SportCast 1 Live
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch584/mono.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1280px-Logo_TV5_Monde_-_2021.svg.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TV5_MONDE/SAF-HLS/TV5_MONDE.m3u8", TV5 Monde
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/TV5_MONDE/SAF-HLS/TV5_MONDE.m3u8
+#EXTINF:-1 tvg-name="100% Любовь" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/594/7.png", 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-name="100% Детское" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/3.png", 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_1.m3u8
+#EXTINF:-1 tvg-name="100% Факты" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/594/9.png", 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_1.m3u8
+#EXTINF:-1 tvg-name="100% Классика" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/1.png", 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_1.m3u8
+#EXTINF:-1 tvg-name="100% Праздник" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/7.png", 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_1.m3u8
+#EXTINF:-1 tvg-name="Москва 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/584/2.png", Москва 24
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv10/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-name="100% Мужское" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/5.png", 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_1.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://ptv.am/media/assets/443.png", Amedia Premium
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/155/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая охота HD" tvg-logo="https://ptv.am/media/assets/17830.png", Дикая охота HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/dikoxota/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая охота HD Backup" tvg-logo="https://ptv.am/media/assets/17830.png", Дикая охота HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12491.m3u8
+#EXTINF:-1 tvg-name="Дикая рыбалка HD" tvg-logo="https://ptv.am/media/assets/17830.png", Дикая рыбалка HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/dikrib/mono.m3u8
+#EXTINF:-1 tvg-name="Дикая рыбалка HD Backup" tvg-logo="https://ptv.am/media/assets/17830.png", Дикая рыбалка HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/12490.m3u8
+#EXTINF:-1 tvg-name="Глазами Туриста HD" tvg-logo="https://ptv.am/media/assets/17861.png", Глазами Туриста HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/stream8/cinerama/1423/index.m3u8
+#EXTINF:-1 tvg-name="Глазами Туриста HD Backup" tvg-logo="https://ptv.am/media/assets/17861.png", Глазами Туриста HD (Backup)
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv1/1474.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс HD" tvg-logo="https://ptv.am/media/assets/98.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Avto_Plus/SAF-HLS/Avto_Plus.m3u8", Авто Плюс HD
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Avto_Plus/SAF-HLS/Avto_Plus.m3u8
+#EXTINF:-1 tvg-name="Рыболов" tvg-logo="https://ptv.am/media/assets/RYBOLOV.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RYBOLOV/SAF-HLS/RYBOLOV.m3u8", Рыболов
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/RYBOLOV/SAF-HLS/RYBOLOV.m3u8
+#EXTINF:-1 tvg-name="Охота и рыбалка" tvg-logo="https://2016.iptvportal.ru/resources/portal/images/logo96/4552.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/OHOTNIK_I_RYBOLOV_HD/SAF-HLS/OHOTNIK_I_RYBOLOV_HD.m3u8", Охота и рыбалка
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/OHOTNIK_I_RYBOLOV_HD/SAF-HLS/OHOTNIK_I_RYBOLOV_HD.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Food_Network_HD/SAF-HLS/Food_Network_HD.m3u8", Food Network
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Food_Network_HD/SAF-HLS/Food_Network_HD.m3u8
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HGTV/SAF-HLS/HGTV.m3u8", HGTV
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/HGTV/SAF-HLS/HGTV.m3u8
+#EXTINF:-1 tvg-name="Drive" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Drive_TV_20Y.svg/revision/latest?cb=20250619213733" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Drive/SAF-HLS/Drive.m3u8", Drive
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Drive/SAF-HLS/Drive.m3u8
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://images.seeklogo.com/logo-png/23/2/mezzo-logo-png_seeklogo-232823.png", Mezzo
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Mezzo/SAF-HLS/Mezzo.m3u8
+#EXTINF:-1 tvg-name="Bolt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/BOLT_%283D-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%29.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Bolt_HD/SAF-HLS/Bolt_HD.m3u8", Bolt
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Bolt_HD/SAF-HLS/Bolt_HD.m3u8
+#EXTINF:-1 tvg-name="Sarafan" tvg-logo="https://balt-it.by/wp-content/uploads/2025/02/sarafan-logo.png", Sarafan
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv2/Sarafan/SAF-HLS/Sarafan.m3u8
+#EXTINF:-1 tvg-name="Box AutoTrend" tvg-logo="https://ptv.am/media/assets/box-auttrend.png" catchup="default" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/ucom/H2/manifest.mpd", Box AutoTrend
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch596/mono.m3u8
+#EXTINF:-1 tvg-name="Box Gurman" tvg-logo="https://ptv.am/media/assets/box-gurman.png", Box Gurman
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/tvmost-main/ch595/mono.m3u8
+#EXTINF:-1 tvg-name="Неизвестная Россия" tvg-logo="https://www.cableman.ru/sites/default/files/1920-1080.png", Неизвестная Россия
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/ntv/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Erox" tvg-logo="https://mplay.es/images/eroxHD-512.png", Erox
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="EroXXX" tvg-logo="https://mplay.es/images/eroxxxHD-512.png", EroXXX
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Russkaya Noch" tvg-logo="https://ntvplus.tv/files/image/10/05/183/uc8.png", Russkaya Noch
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Penthouse Passion HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d0/Penthouse_Passion_%282019-.n.v.%29.png", Penthouse Passion HD
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Penthouse Gold HD" tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/f/f7/20220722_214357.png/revision/latest/scale-to-width-down/2560?cb=20220723062839&path-prefix=bg", Penthouse Gold HD
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Babes HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/BabesNetwork-Logo.png", Babes HD
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Brazzers eXXtra" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Brazzers-TV-Logo-Vector.svg-.png", Brazzers eXXtra
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Tiny4K.com" tvg-logo="https://images.galleries.pornpros.com/galleries.tiny4k.com/htdocs/master/vb03/images/logo-halloween.png", Tiny4K.com
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="Hustler" tvg-logo="None", Hustler
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="GirlsDoPorrn" tvg-logo="None", GirlsDoPorrn
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
+#EXTINF:-1 tvg-name="EXXOTICA" tvg-logo="None", EXXOTICA
+https://limehd.cdnvideo.ru/streaming/lock/banner_dead/tracks-v5/mono.ts.m3u8?e=1786535699&md5=EZEm6-6X4qHipwpTUOayew
