@@ -376,10 +376,10 @@ https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 http://timeshift.arpinet.am/236/index.m3u8
 
 #EXTINF:-1 tvg-id="ch1506" tvg-name="USArmenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/usarmenia.png", USArmenia TV
-http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/USArmenia/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1505" tvg-name="ARTN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/artn.png", ARTN TV
-https://us1.ottstream.live:17071/C294/tracks-v1a1/mono.m3u8?token=jUVIvRG1l$w8P2wX
+https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ARTN/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch1504" tvg-name="Panarmenian" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/panarmenian.png", Panarmenian TV
 http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/PanArmenian_TV
@@ -486,8 +486,23 @@ https://ptv.am/9d497c696043fa2-f1d460fefb1db55/stream8/cinerama/1502/index.m3u8
 #EXTINF:-1 tvg-id="ch81" tvg-name="CartoonNetwrk" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/101.png", Cartoon Network Russia
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=yXZg1iRPyTL77uOBO2M0_A&e=2089316162&scheme=https
 
+#EXTINF:-1 tvg-id="" tvg-name="EVN Դուբլ Ժամ (test)" tvg-logo="http://logo.vivamax.pro/logo/evndubljam.png", EVN Դուբլ Ժամ 
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/EVN_ԴուբլԺամ
+
+#EXTINF:-1 tvg-id="" tvg-name="EVN Դուբլ Արտ (test)" tvg-logo="http://logo.vivamax.pro/logo/evndublart.png", EVN Դուբլ Արտ 
+http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/EVN_ԴուբլԱրտ
+
 #EXTINF:-1 tvg-id="ch1520" tvg-name="Fresham" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Fresh.png", Fresh
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/Fresh/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PTV Ֆիլմեր" tvg-logo="https://ptv.am/media/uploads_channel_img/logo_KkNanyT.png", PTV Ֆիլմեր
+http://217.113.25.225:8787/public/2/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PTV Մանկական" tvg-logo="https://ptv.am/media/uploads_channel_img/Black__White_Minimalist_Business_Logo2222_1_rfuTPqt.png", PTV Մանկական
+http://217.113.25.225:8787/public/1/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PTV Սպորտ" tvg-logo="https://ptv.am/media/assets/ptv-sport.png", PTV Սպորտ
+http://217.113.25.225:8787/public/3/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="ch1481" tvg-name="ATVKinoman" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kinoman.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Կինոման
 https://a3285276110-s80718.cdn.ngenix.net/hls/CH_KINOMANHD/video_1920x1080_avc1/playlist.m3u8
@@ -705,6 +720,12 @@ https://a3285276110-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/pla
 #EXTINF:-1 tvg-id="ch3656" tvg-name="fastfunbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fastandfunbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast & FunBox
 https://a3285276110-s80718.cdn.ngenix.net/hls/CH_FAST_AND_FUNBOX_HD/video_1920x1080_avc1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ch527" tvg-name="MuseumHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/museum.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Museum HD
+http://ncdn-y1-w6.teamcloud.am/live/eds/MuseumHD/SAF-HLS/MuseumHD-avc1_5000000=10004-mp4a_140800_eng=20001-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch3199" tvg-name="FilmUADrama" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/uadrama.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Film UA Drama
+http://ncdn-y1-w6.teamcloud.am/live/eds/Film_UA_Drama/SAF-HLS/Film_UA_Drama-avc1_5000000=10006-mp4a_140800_rus=20000.m3u8
+
 #EXTINF:-1 tvg-id="ch54" tvg-name="Kinopremiyera" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KinopremyeraHD.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Кинопремьера
 http://ncdn-y1-w2.teamcloud.am/live/eds/KinopremieraHD/SAF-HLS/KinopremieraHD-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
 
@@ -747,7 +768,7 @@ https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/vijuTV1000/mono.m3u8
 #EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Viju TV1000 Русское
 http://cdn.dommir.top:9290/TV1000_Russkoe_kino_RU/playlist.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png" catchup="append" catchup-days="2" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/132/mono-timeshift_rel-{offset}.m3u8, Viju TV1000 Action
+#EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png", Viju TV1000 Action
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/163/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png", Viju TV1000 Новелла
@@ -774,7 +795,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_Russia_HD.smil/tr
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png", Viju Explore 
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mUCr_htCvSNCtBwBVgMSFA&e=1791035028&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png" catchup="append" catchup-days="2" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/132/mono-timeshift_rel-{offset}.m3u8, Viju Nature
+#EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png", Viju Nature
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/169/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanethd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
