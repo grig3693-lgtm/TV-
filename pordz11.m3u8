@@ -243,8 +243,26 @@ http://cdn.dommir.top:9290/Pyatniza_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch140" tvg-name="dushevnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Dyshevnoe.png", Душевное
 http://cdn.dommir.top:9290/Nash_Kinoroman_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch085" tvg-name="oxotnikiribalkov" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/oxotnikiribolov.png", Охотник и Рыболов
-http://cdn.dommir.top:9290/Ohotnik_i_rybalov/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch085" tvg-name="oxotnikiribalkov" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/oxotnikiribolov.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Охотник и Рыболов
+http://ncdn-y1-w11.teamcloud.am/live/eds/OHOTNIK_I_RYBOLOV_HD/SAF-HLS/OHOTNIK_I_RYBOLOV_HD-avc1_5000000=10002-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch550" tvg-name="fashion" tvg-logo="http://ttv2.teamcloud.am/static/channel-data/channelicon/160.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Fashion TV
+http://ncdn-y1-w5.teamcloud.am/live/eds/Fashion_TV_HD/SAF-HLS/Fashion_TV_HD-avc1_5000000=10005-mp4a_140800_rus=20001.m3u8
+
+#EXTINF:-1 tvg-id="ch437" tvg-name="nano" tvg-logo="http://ttv2.teamcloud.am/static/channel-data/channelicon/162.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Nano TV
+http://ncdn-y1-w1.teamcloud.am/live/eds/NANOTV_HD/SAF-HLS/NANOTV_HD-avc1_2000000=10003-mp4a_220000_rus=20001.m3u8
+
+#EXTINF:-1 tvg-id="ch491" tvg-name="bridgedelux" tvg-logo="http://ttv2.teamcloud.am/static/channel-data/channelicon/197.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", BridgeTV Delux
+http://ncdn-y1-w11.teamcloud.am/live/eds/BridgeTV_Deluxe/SAF-HLS/BridgeTV_Deluxe-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="primefight" tvg-logo="http://ttv2.teamcloud.am/static/channel-data/channelicon/223.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Prime Fight
+http://ncdn-y1-w1.teamcloud.am/live/eds/Prime_Fight/SAF-HLS/Prime_Fight-avc1_8000000=10005-mp4a_140800_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="legenda" tvg-logo="http://ttv2.teamcloud.am/static/channel-data/channelicon/236.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Legenda HD
+http://ncdn-y1-w12.teamcloud.am/live/eds/LegendaHD/SAF-HLS/LegendaHD-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="619" tvg-name="kinomanhd" tvg-logo="http://ttv2.teamcloud.am/static/channel-data/channelicon/237.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Kinoman HD
+http://ncdn-y1-w1.teamcloud.am/live/eds/Kinoman_RuHD/SAF-HLS/Kinoman_RuHD-avc1_8000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch555" tvg-name="russianmusicbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RussianMusicBox.png", Russian Music Box
 http://cdn.dommir.top:9290/Russian_Music_Box_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
@@ -719,6 +737,9 @@ https://a3285276110-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/pla
 
 #EXTINF:-1 tvg-id="ch3656" tvg-name="fastfunbox" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/fastandfunbox.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast & FunBox
 https://a3285276110-s80718.cdn.ngenix.net/hls/CH_FAST_AND_FUNBOX_HD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch3967" tvg-name="FoodnetworkHD" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/140.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Food Network HD 
+http://ncdn-y1-w4.teamcloud.am/live/eds/Food_Network_HD/SAF-HLS/Food_Network_HD-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch527" tvg-name="MuseumHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/museum.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Museum HD
 http://ncdn-y1-w6.teamcloud.am/live/eds/MuseumHD/SAF-HLS/MuseumHD-avc1_5000000=10004-mp4a_140800_eng=20001-mp4a_140800_rus=20000.m3u8
