@@ -861,6 +861,9 @@ https://a3285276110-s80718.cdn.ngenix.net/hls/CH_RED_LIPS_HD/video_1920x1080_avc
 #EXTINF:-1 tvg-id="ch80" tvg-name="temptation" group-title="Adults" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/temptation.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", The Temptation 
 https://a3285276110-s80718.cdn.ngenix.net/hls/CH_THE_TEMPTATION_HD/video_1920x1080_avc1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Eroxxx" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/eroxxx.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", EroXXX
+http://ncdn-y1-w6.teamcloud.am/live/eds/EroXXX/SAF-HLS/EroXXX-avc1_5000000=10004-mp4a_140800_apq=20001.m3u8
+
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus.png", EUROPA PLUS ARMENIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://auroramedia.am/
