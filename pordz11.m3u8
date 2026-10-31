@@ -505,13 +505,13 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/43/mono-timeshift_rel-{offset}.m3u8, Nickelodeon Russia
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/nick/mono.m3u8
+https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=5Gm5qNqmenIK69L4wiPjtw&e=2093454594&scheme=https
 
 #EXTINF:-1 tvg-id="ch479" tvg-name="NicktoonsRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/nicktoons.png", Nicktoons Russia
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/stream8/cinerama/1502/index.m3u8
 
-#EXTINF:-1 tvg-id="ch81" tvg-name="CartoonNetwrk" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/101.png", Cartoon Network Russia
-https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=yXZg1iRPyTL77uOBO2M0_A&e=2089316162&scheme=https
+#EXTINF:-1 tvg-id="ch81" tvg-name="CartoonNetwrk" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/101.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Cartoon Network Russia
+http://ncdn-y1-w11.teamcloud.am/live/eds/CN/SAF-HLS/CN-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EVN Դուբլ Ժամ (test)" tvg-logo="http://logo.vivamax.pro/logo/evndubljam.png", EVN Դուբլ Ժամ 
 http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/EVN_ԴուբլԺամ
