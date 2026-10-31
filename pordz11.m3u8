@@ -303,8 +303,11 @@ http://cdn.dommir.top:9290/Kino_TV_RU_HD_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc
 #EXTINF:-1 tvg-id="ch" tvg-name="kronehit" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kronehit.png", Кронехит
 http://cdn.dommir.top:9290/Kronehit_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch516" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/360HD.png", 360 HD 
-http://cdn.dommir.top:9290/360/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch516" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/360HD.png", 360.ru HD 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ch516" tvg-name="360" tvg-logo="https://epg.iptvx.one/picons/360-news.png", 360.ru Новости HD 
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch034" tvg-name="KHL" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/KHL.png", КХЛ
 http://cdn.dommir.top:9290/KHL_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
