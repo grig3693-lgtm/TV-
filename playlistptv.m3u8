@@ -834,7 +834,8 @@ https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_
 #EXTINF:-1 tvg-id="ch701" tvg-name="Vijuserial" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuserial.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Serial
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ch126" tvg-name="vijuHistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUTHISTORY/manifest.mpd?starttime={utc}&duration={duration}000", viju History #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="ch126" tvg-name="vijuHistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUTHISTORY/manifest.mpd?starttime={utc}&duration={duration}000", viju History 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/VIJUHISTORY/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://fe.tv.ucom.am/timeline/VIJUHISTORY/manifest.mpd
 
