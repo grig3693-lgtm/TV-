@@ -12,6 +12,11 @@ https://vsd494.okcdn.ru/hls/392147831308.m3u8/sig/-KqxnWoXW50/expires/1795454123
 https://vsd494.okcdn.ru/hls/392147831308.m3u8/sig/-KqxnWoXW50/expires/1795454123182/srcIp/20.186.238.34/urls/95.163.35.104/clientType/0/srcAg/CHROME/mid/664807546380/392147831308_high/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36&Referer=
 https://ok.ru/live/664807546380
 
+#EXTINF:-1 tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-s/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", hfgtbgyvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ok.ru/live/664807546380
+https://raw.githubusercontent.com/grig3693-lgtm/vskt/refs/heads/main/ream.m3u8
+
 #EXTINF:-1 tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-s/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", hfgtbg efyvr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ok.ru/live/664807546380
