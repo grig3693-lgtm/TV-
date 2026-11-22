@@ -3,15 +3,15 @@
 #EXTINF:-1 tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Առաջին ալիք
 https://a3285276110-s80718.cdn.ngenix.net/hls/CH_H1HD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1,tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig36-lgtm/tv-s/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Kiss FM TV
+#EXTINF:-1,tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig36-lgtm/tv-s/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Kiss FM Armenia TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ok.ru/live/664807546380
-https://raw.githubusercontent.com/grig3693-lgtm/vskt/refs/heads/main/stream.m3u8
+https://raw.githubusercontent.com/grig3693-lgtm/vskt/refs/heads/main/stream1.m3u8
 
-#EXTINF:-1,tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig36-lgtm/tv-s/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Radio Aurora TV
+#EXTINF:-1,tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig36-lgtm/tv-s/main/h1.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Radio Aurora Armenia TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ok.ru/live/8602647142043
-https://raw.githubusercontent.com/grig3693-lgtm/vskt/refs/heads/main/stream1.m3u8
+https://raw.githubusercontent.com/grig3693-lgtm/vskt/refs/heads/main/stream2.m3u8
 
 #EXTINF:-1 tvg-id="ch1078" tvg-name="H2" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h2.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", H2
 https://a3285276110-s80718.cdn.ngenix.net/hls/CH_H2HD/video_1920x1080_avc1/playlist.m3u8
