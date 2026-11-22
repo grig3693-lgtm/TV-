@@ -8,7 +8,7 @@ https://a3285276110-s80718.cdn.ngenix.net/hls/CH_H1HD/video_1920x1080_avc1/playl
 #EXTVLCOPT:http-referrer=https://ok.ru/live/664807546380
 https://vsd494.okcdn.ru/hls/392147831308.m3u8/sig/-KqxnWoXW50/expires/1795454123182/srcIp/20.186.238.34/urls/95.163.35.104/clientType/0/srcAg/CHROME/mid/664807546380/392147831308_high/index.m3u8
 
-#EXTINF:-1 group-title="OK Live",OK Stream
+#EXTINF:-1,OK Streamաոեսբռնդտը
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ok.ru/live/664807546380
 https://raw.githubusercontent.com/grig3693-lgtm/vskt/refs/heads/main/stream.m3u8
