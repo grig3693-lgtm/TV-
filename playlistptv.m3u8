@@ -819,10 +819,10 @@ https://fe.tv.ucom.am/timeline/VIJUTV1000RUSSIANCINEMA/manifest.mpd
 https://fe.tv.ucom.am/timeline/VIJUTV1000ACTION/manifest.mpd
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png", viju TV1000 Новелла
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fvHNruS6UjRrdw3ZgmgzPw&e=1793957405&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=QHPBhwnakGMwMN5wRGYbxg&e=1796492567&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch3074" tvg-name="TV1000Romantica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijutv1000romanica.png", viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=A4qdTQ0qXO026W-yAicvMQ&e=1793957366&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=61yaqBxFE-LoqIQFHpiQrQ&e=1796492519&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch60" tvg-name="Vijupremiere" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijupremiere.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Premiere
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PREMIEREHD/video_1920x1080_avc1/playlist.m3u8
@@ -854,7 +854,7 @@ https://fe.tv.ucom.am/timeline/VIJUNATURE/manifest.mpd
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png", Da Vinci
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=2nLIe9gpXilK0flt7m4JLw&e=1793957321&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=cjzipdQOfneKFEF9X-RFpA&e=1796492422&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="vijuSport" tvg-logo=https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUPLUSSPORT/manifest.mpd?starttime={utc}&duration={duration}000",viju+ Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1115,4 +1115,5 @@ https://c7.radioboss.fm:18299/autodj
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://mfe01.tv.ucom.am/vod/full_house_1_1/playlist.mpd
+
 
