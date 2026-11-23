@@ -950,6 +950,9 @@ https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiovan.png", Radio Van FM103.1
 https://hls-01-radiovan.webcaramba.com/radiovan/112/playlist.m3u8
 
+#EXTINF:-1 group-title="ՌադիոTV" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiovan.png", Radio Van TV
+https://hls-02-video.webcaramba.com/radiovan/live.m3u8
+
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/marshall.png", Radio Marshal
 http://164.132.169.60:8030/stream
 
@@ -1112,3 +1115,4 @@ https://c7.radioboss.fm:18299/autodj
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://mfe01.tv.ucom.am/vod/full_house_1_1/playlist.mpd
+
